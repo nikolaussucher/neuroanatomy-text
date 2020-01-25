@@ -1,0 +1,25 @@
+new_session: yes
+rmd_files:   [ "index.Rmd",
+               "acknowledgements.rmd",
+               "genetics.rmd",
+               "reproduction.rmd",
+               "mendel.rmd",
+               "chromosomes.rmd",
+               "chromosome_variation.rmd",
+               "linkage.rmd",
+               "DNA_and_RNA.rmd",
+               "chromosome_structure.rmd",
+               "replication.rmd",
+               "transcription.rmd",
+               "translation.rmd",
+               "mutation_repair.rmd",
+               "techniques.rmd",
+               "genomics.rmd",
+               "application.rmd",
+               "regulation.rmd",
+               "complex_traits.rmd",
+               "development.rmd",
+               "evolution.rmd"
+             ]
+output_dir: docs
+before_chapter_script:  "_common.R"
