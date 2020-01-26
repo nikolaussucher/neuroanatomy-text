@@ -1,6 +1,10 @@
-# The Motor System
+# The Somatic Nervous System
 
-The motor system is the set of central and peripheral structures in the nervous system that support motor functions, i.e. movement. Peripheral structures may include skeletal muscles and neural connections with muscle tissues. Central structures include cerebral cortex, brainstem, spinal cord, pyramidal system including the upper motor neurons, extrapyramidal system, cerebellum, and the lower motor neurons in the brainstem and the spinal cord.
+The somatic nervous system (SNS or voluntary nervous system) is the part of the peripheral nervous system associated with the voluntary control of body movements via skeletal muscles.
+
+The somatic nervous system consists of afferent nerves or sensory nerves, and efferent nerves or motor nerves. Afferent nerves are responsible for relaying sensation from the body to the central nervous system; efferent nerves are responsible for sending out commands from the CNS to the body, stimulating muscle contraction; they include all the non-sensory neurons connected with skeletal muscles and skin. The a- of afferent and the e- of efferent correspond to the prefixes ad- (to, toward) and ex- (out of).
+
+Peripheral structures of the somatic motor system include skeletal muscles and neural connections with muscle tissues. Central structures include cerebral cortex, brainstem, spinal cord, pyramidal system including the upper motor neurons, extrapyramidal system, cerebellum, and the lower motor neurons in the brainstem and the spinal cord.
 
 ## Pyramidal motor system
 

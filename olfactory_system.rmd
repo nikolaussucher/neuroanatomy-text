@@ -1,4 +1,39 @@
-# Olfaction
+# The Olfactory System
+
+The olfactory system, or sense of smell, is the sensory system used for smelling (olfaction). Olfaction is one of the special senses, that have directly associated specific organs. Most mammals and reptiles have a main olfactory system and an accessory olfactory system. The main olfactory system detects airborne substances, while the accessory system senses fluid-phase stimuli.
+
+Linda B. Buck and Richard Axel won the 2004 Nobel Prize in Physiology or Medicine for their work on the olfactory system.
+
+The peripheral olfactory system consists mainly of the nostrils, ethmoid bone, nasal cavity, and the olfactory epithelium (layers of thin tissue covered in mucus that line the nasal cavity). The primary components of the layers of epithelial tissue are the mucous membranes, olfactory glands, olfactory neurons, and nerve fibers of the olfactory nerves.
+
+Odor molecules can enter the peripheral pathway and reach the nasal cavity either through the nostrils when inhaling (olfaction) or through the throat when the tongue pushes air to the back of the nasal cavity while chewing or swallowing (retro-nasal olfaction). Inside the nasal cavity, mucus lining the walls of the cavity dissolves odor molecules. Mucus also covers the olfactory epithelium, which contains mucous membranes that produce and store mucus and olfactory glands that secrete metabolic enzymes found in the mucus.
+
+Olfactory sensory neurons in the epithelium detect odor molecules dissolved in the mucus and transmit information about the odor to the brain in a process called sensory transduction. Olfactory neurons have cilia (tiny hairs) containing Olfactory receptors that bind to odor molecules, causing an electrical response that spreads through the Sensory neuron to the olfactory nerve fibers at the back of the nasal cavity.
+
+Olfactory nerves and fibers transmit information about odors from the peripheral olfactory system to the central olfactory system of the brain, which is separated from the epithelium by the cribriform plate of the ethmoid bone. Olfactory nerve fibers, which originate in the epithelium, pass through the cribriform plate, connecting the epithelium to the brain's limbic system at the olfactory bulbs.
+
+The main olfactory bulb transmits pulses to both mitral and tufted cells, which help determine odor concentration based off the time certain neuron clusters fire (called 'timing code'). These cells also note differences between highly similar odors and use that data to aid in later recognition. The cells are different with mitral having low firing-rates and being easily inhibited by neighboring cells, while tufted have high rates of firing and are more difficult to inhibit.
+
+The uncus houses the olfactory cortex which includes the piriform cortex (posterior orbitofrontal cortex), amygdala, olfactory tubercle, and parahippocampal gyrus.
+
+The olfactory tubercle connects to numerous areas of the amygdala, thalamus, hypothalamus, hippocampus, brain stem, retina, auditory cortex, and olfactory system. In total it has 27 inputs and 20 outputs. An oversimplification of its role is to state that it: checks to ensure odor signals arose from actual odors rather than villi irritation, regulates motor behavior (primarily social and stereotypical) brought on by odors, integrates auditory and olfactory sensory info to complete the aforementioned tasks, and plays a role in transmitting positive signals to reward sensors (and is thus involved in addiction).
+
+The amygdala (in olfaction) processes pheromone, allomone, and kairomone (same-species, cross-species, and cross-species where the emitter is harmed and the sensor is benefited, respectively) signals. Due to cerebrum evolution this processing is secondary and therefore is largely unnoticed in human interactions. Allomones include flower scents, natural herbicides, and natural toxic plant chemicals. The info for these processes comes from the vomeronasal organ indirectly via the olfactory bulb. The main olfactory bulb's pulses in the amygdala are used to pair odors to names and recognize odor to odor differences.
+
+Stria terminalis, specifically bed nuclei (BNST), act as the information pathway between the amygdala and hypothalamus, as well as the hypothalamus and pituitary gland. BNST abnormalities often lead to sexual confusion and immaturity. BNST also connects to the septal area, rewarding sexual behavior.
+
+Mitral pulses to the hypothalamus promote/discourage feeding, whereas accessory olfactory bulb pulses regulate reproductive and odor-related-reflex processes.
+
+The hippocampus (although minimally connected to the main olfactory bulb) receives almost all of its olfactory information via the amygdala (either directly or via the BNST). The hippocampus forms new and reinforces existing memories.
+
+Similarly, the parahippocampus encodes, recognizes and contextualizes scenes. The parahippocampal gyrus houses the topographical map for olfaction.
+
+The orbitofrontal cortex (OFC) is heavily correlated with the cingulate gyrus and septal area to act out positive/negative reinforcement. The OFC is the expectation of reward/punishment in response to stimuli. The OFC represents the emotion and reward in decision making.
+
+The anterior olfactory nucleus distributes reciprocal signals between the olfactory bulb and piriform cortex. The anterior olfactory nucleus is the memory hub for smell.
+
+
+The senses of smell and taste (gustatory system) are often referred to together as the chemosensory system, because they both give the brain information about the chemical composition of objects through a process called transduction.
 
 Olfaction is a chemoreception that forms the sense of smell. Olfaction has many purposes, such as the detection of hazards, pheromones, and food. It integrates with other senses to form the sense of flavor.
 

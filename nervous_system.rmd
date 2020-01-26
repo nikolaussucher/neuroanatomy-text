@@ -33,7 +33,7 @@ The vertebrate nervous system can also be divided into areas called gray matter 
 
 ## Comparative anatomy and evolution
 
-### Neural precursors in sponges
+### Neural precursors in porifera
 
 Sponges have no cells connected to each other by synaptic junctions, that is, no neurons, and therefore no nervous system. They do, however, have homologs of many genes that play key roles in synaptic function. Recent studies have shown that sponge cells express a group of proteins that cluster together to form a structure resembling a postsynaptic density (the signal-receiving part of a synapse). However, the function of this structure is currently unclear. Although sponge cells do not show synaptic transmission, they do communicate with each other via calcium waves and other impulses, which mediate some simple actions such as whole-body contraction.
 
