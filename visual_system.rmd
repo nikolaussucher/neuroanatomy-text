@@ -1,0 +1,146 @@
+# Sight
+
+Visual perception is the ability to interpret the surrounding environment using light in the visible spectrum reflected by the objects in the environment. This is different from visual acuity, which refers to how clearly a person sees (for example "20/20 vision"). A person can have problems with visual perceptual processing even if they have 20/20 vision.
+
+The resulting perception is also known as visual perception, eyesight, sight, or vision (adjectival form: visual, optical, or ocular). The various physiological components involved in vision are referred to collectively as the visual system, and are the focus of much research in linguistics, psychology, cognitive science, neuroscience, and molecular biology, collectively referred to as vision science.
+
+Different species are able to see different parts of the light spectrum; for example, bees can see into the ultraviolet, while pit vipers can accurately target prey with their pit organs, which are sensitive to infrared radiation. The mantis shrimp possesses arguably the most complex visual system in any species. The eye of the mantis shrimp holds 16 color receptive cones, whereas humans only have three. The variety of cones enables them to perceive an enhanced array of colors as a mechanism for mate selection, avoidance of predators, and detection of prey. Swordfish also possess an impressive visual system. The eye of a swordfish can generate heat to better cope with detecting their prey at depths of 2000 feet. Certain one-celled micro-organisms, the warnowiid dinoflagellates have eye-like ocelloids, with analogous structures for the lens and retina of the multi-cellular eye. The armored shell of the chiton Acanthopleura granulata is also covered with hundreds of aragonite crystalline eyes, named ocelli, which can form images.
+
+Many fan worms, such as Acromegalomma interruptum which live in tubes on the sea floor of the Great Barrier Reef, have evolved compound eyes on their tentacles, which they use to detect encroaching movement. If movement is detected the fan worms will rapidly withdraw their tentacles. Bok, et al, have discovered opsins and G proteins in the fan worm's eyes, which were previously only seen in simple ciliary photoreceptors in the brains of some invertebrates, as opposed to the rhabdomeric receptors in the eyes of most invertebrates.
+
+Only higher primate Old World (African) monkeys and apes (macaques, apes, orangutans) have the same kind of three-cone photoreceptor color vision humans have, while lower primate New World (South American) monkeys (spider monkeys, squirrel monkeys, cebus monkeys) have a two-cone photoreceptor kind of color vision.
+
+## The Visual System
+
+The visual system is the part of the central nervous system which gives organisms the ability to process visual detail as sight, as well as enabling the formation of several non-image photo response functions. It detects and interprets information from visible light to build a representation of the surrounding environment. The visual system carries out a number of complex tasks, including the reception of light and the formation of monocular representations; the buildup of a nuclear binocular perception from a pair of two dimensional projections; the identification and categorization of visual objects; assessing distances to and between objects; and guiding body movements in relation to the objects seen. The psychological process of visual information is known as visual perception, a lack of which is called blindness. Non-image forming visual functions, independent of visual perception, include the pupillary light reflex (PLR) and circadian photoentrainment.
+
+Together the cornea and lens refract light into a small image and shine it on the retina. The retina transduces this image into electrical pulses using rods and cones. The optic nerve then carries these pulses through the optic canal. Upon reaching the optic chiasm the nerve fibers decussate (left becomes right). The fibers then branch and terminate in three places.
+
+Most of the optic nerve fibers end in the lateral geniculate nucleus (LGN). Before the LGN forwards the pulses to V1 of the visual cortex (primary) it gauges the range of objects and tags every major object with a velocity tag. These tags predict object movement.
+
+The LGN also sends some fibers to V2 and V3.
+
+V1 performs edge-detection to understand spatial organization (initially, 40 milliseconds in, focusing on even small spatial and color changes. Then, 100 milliseconds in, upon receiving the translated LGN, V2, and V3 info, also begins focusing on global organization). V1 also creates a bottom-up saliency map to guide attention or gaze shft .
+
+V2 both forwards (direct and via pulvinar) pulses to V1 and receives them. Pulvinar is responsible for saccade and visual attention. V2 serves much the same function as V1, however, it also handles illusory contours, determining depth by comparing left and right pulses (2D images), and foreground distinguishment. V2 connects to V1 - V5.
+
+V3 helps process ‘global motion’ (direction and speed) of objects. V3 connects to V1 (weak), V2, and the inferior temporal cortex.
+
+V4 recognizes simple shapes, gets input from V1 (strong), V2, V3, LGN, and pulvinar. V5’s outputs include V4 and its surrounding area, and eye-movement motor cortices (frontal eye-field and lateral intraparietal area).
+
+V5’s functionality is similar to that of the other V’s, however, it integrates local object motion into global motion on a complex level. V6 works in conjunction with V5 on motion analysis. V5 analyzes self-motion, whereas V6 analyzes motion of objects relative to the background. V6’s primary input is V1, with V5 additions. V6 houses the topographical map for vision. V6 outputs to the region directly around it (V6A). V6A has direct connections to arm-moving cortices, including the premotor cortex.
+
+The inferior temporal gyrus recognizes complex shapes, objects, and faces or, in conjunction with the hippocampus, creates new memories. The pretectal area is seven unique nuclei. Anterior, posterior and medial pretectal nuclei inhibit pain (indirectly), aid in REM, and aid the accommodation reflex, respectively. The Edinger-Westphal nucleus moderates pupil dilation and aids (since it provides parasympathetic fibers) in convergence of the eyes and lens adjustment. Nuclei of the optic tract are involved in smooth pursuit eye movement and the accommodation reflex, as well as REM.
+
+The suprachiasmatic nucleus is the region of the hypothalamus that halts production of melatonin (indirectly) at first light.
+
+Eye
+Main articles: Eye and Anterior segment of eyeball
+Light entering the eye is refracted as it passes through the cornea. It then passes through the pupil (controlled by the iris) and is further refracted by the lens. The cornea and lens act together as a compound lens to project an inverted image onto the retina.
+
+Retina
+
+S. Ramón y Cajal, Structure of the Mammalian Retina, 1900
+Main article: Retina
+The retina consists of a large number of photoreceptor cells which contain particular protein molecules called opsins. In humans, two types of opsins are involved in conscious vision: rod opsins and cone opsins. (A third type, melanopsin in some of the retinal ganglion cells (RGC), part of the body clock mechanism, is probably not involved in conscious vision, as these RGC do not project to the lateral geniculate nucleus but to the pretectal olivary nucleus.) An opsin absorbs a photon (a particle of light) and transmits a signal to the cell through a signal transduction pathway, resulting in hyper-polarization of the photoreceptor.
+
+Rods and cones differ in function. Rods are found primarily in the periphery of the retina and are used to see at low levels of light. Cones are found primarily in the center (or fovea) of the retina. There are three types of cones that differ in the wavelengths of light they absorb; they are usually called short or blue, middle or green, and long or red. Cones are used primarily to distinguish color and other features of the visual world at normal levels of light.
+
+In the retina, the photoreceptors synapse directly onto bipolar cells, which in turn synapse onto ganglion cells of the outermost layer, which will then conduct action potentials to the brain. A significant amount of visual processing arises from the patterns of communication between neurons in the retina. About 130 million photo-receptors absorb light, yet roughly 1.2 million axons of ganglion cells transmit information from the retina to the brain. The processing in the retina includes the formation of center-surround receptive fields of bipolar and ganglion cells in the retina, as well as convergence and divergence from photoreceptor to bipolar cell. In addition, other neurons in the retina, particularly horizontal and amacrine cells, transmit information laterally (from a neuron in one layer to an adjacent neuron in the same layer), resulting in more complex receptive fields that can be either indifferent to color and sensitive to motion or sensitive to color and indifferent to motion.
+
+Mechanism of generating visual signals: The retina adapts to change in light through the use of the rods. In the dark, the chromophore retinal has a bent shape called cis-retinal (referring to a cis conformation in one of the double bonds). When light interacts with the retinal, it changes conformation to a straight form called trans-retinal and breaks away from the opsin. This is called bleaching because the purified rhodopsin changes from violet to colorless in the light. At baseline in the dark, the rhodopsin absorbs no light and releases glutamate which inhibits the bipolar cell. This inhibits the release of neurotransmitters from the bipolar cells to the ganglion cell. When there is light present, glutamate secretion ceases thus no longer inhibiting the bipolar cell from releasing neurotransmitters to the ganglion cell and therefore an image can be detected.
+
+The final result of all this processing is five different populations of ganglion cells that send visual (image-forming and non-image-forming) information to the brain:
+
+M cells, with large center-surround receptive fields that are sensitive to depth, indifferent to color, and rapidly adapt to a stimulus;
+P cells, with smaller center-surround receptive fields that are sensitive to color and shape;
+K cells, with very large center-only receptive fields that are sensitive to color and indifferent to shape or depth;
+another population that is intrinsically photosensitive; and
+a final population that is used for eye movements.
+A 2006 University of Pennsylvania study calculated the approximate bandwidth of human retinas to be about 8960 kilobits per second, whereas guinea pig retinas transfer at about 875 kilobits.
+
+In 2007 Zaidi and co-researchers on both sides of the Atlantic studying patients without rods and cones, discovered that the novel photoreceptive ganglion cell in humans also has a role in conscious and unconscious visual perception. The peak spectral sensitivity was 481 nm. This shows that there are two pathways for sight in the retina – one based on classic photoreceptors (rods and cones) and the other, newly discovered, based on photo-receptive ganglion cells which act as rudimentary visual brightness detectors.
+
+Photochemistry
+Main article: Visual cycle
+The functioning of a camera is often compared with the workings of the eye, mostly since both focus light from external objects in the field of view onto a light-sensitive medium. In the case of the camera, this medium is film or an electronic sensor; in the case of the eye, it is an array of visual receptors. With this simple geometrical similarity, based on the laws of optics, the eye functions as a transducer, as does a CCD camera.
+
+In the visual system, retinal, technically called retinene1 or "retinaldehyde", is a light-sensitive molecule found in the rods and cones of the retina. Retinal is the fundamental structure involved in the transduction of light into visual signals, i.e. nerve impulses in the ocular system of the central nervous system. In the presence of light, the retinal molecule changes configuration and as a result a nerve impulse is generated.
+
+Optic nerve
+Main article: Optic nerve
+
+Information flow from the eyes (top), crossing at the optic chiasma, joining left and right eye information in the optic tract, and layering left and right visual stimuli in the lateral geniculate nucleus. V1 in red at bottom of image. (1543 image from Andreas Vesalius' Fabrica)
+The information about the image via the eye is transmitted to the brain along the optic nerve. Different populations of ganglion cells in the retina send information to the brain through the optic nerve. About 90% of the axons in the optic nerve go to the lateral geniculate nucleus in the thalamus. These axons originate from the M, P, and K ganglion cells in the retina, see above. This parallel processing is important for reconstructing the visual world; each type of information will go through a different route to perception. Another population sends information to the superior colliculus in the midbrain, which assists in controlling eye movements (saccades) as well as other motor responses.
+
+A final population of photosensitive ganglion cells, containing melanopsin for photosensitivity, sends information via the retinohypothalamic tract (RHT) to the pretectum (pupillary reflex), to several structures involved in the control of circadian rhythms and sleep such as the suprachiasmatic nucleus (SCN, the biological clock), and to the ventrolateral preoptic nucleus (VLPO, a region involved in sleep regulation). A recently discovered role for photoreceptive ganglion cells is that they mediate conscious and unconscious vision – acting as rudimentary visual brightness detectors as shown in rodless coneless eyes.
+
+Optic chiasm
+Main article: Optic chiasm
+The optic nerves from both eyes meet and cross at the optic chiasm, at the base of the hypothalamus of the brain. At this point the information coming from both eyes is combined and then splits according to the visual field. The corresponding halves of the field of view (right and left) are sent to the left and right halves of the brain, respectively, to be processed. That is, the right side of primary visual cortex deals with the left half of the field of view from both eyes, and similarly for the left brain. A small region in the center of the field of view is processed redundantly by both halves of the brain.
+
+Optic tract
+Main article: Optic tract
+Information from the right visual field (now on the left side of the brain) travels in the left optic tract. Information from the left visual field travels in the right optic tract. Each optic tract terminates in the lateral geniculate nucleus (LGN) in the thalamus.
+
+
+Six layers in the LGN
+Lateral geniculate nucleus
+Main article: Lateral geniculate nucleus
+The lateral geniculate nucleus (LGN) is a sensory relay nucleus in the thalamus of the brain. The LGN consists of six layers in humans and other primates starting from catarhinians, including cercopithecidae and apes. Layers 1, 4, and 6 correspond to information from the contralateral (crossed) fibers of the nasal retina (temporal visual field); layers 2, 3, and 5 correspond to information from the ipsilateral (uncrossed) fibers of the temporal retina (nasal visual field). Layer one (1) contains M cells which correspond to the M (magnocellular) cells of the optic nerve of the opposite eye and are concerned with depth or motion. Layers four and six (4 & 6) of the LGN also connect to the opposite eye, but to the P cells (color and edges) of the optic nerve. By contrast, layers two, three and five (2, 3, & 5) of the LGN connect to the M cells and P (parvocellular) cells of the optic nerve for the same side of the brain as its respective LGN. Spread out, the six layers of the LGN are the area of a credit card and about three times its thickness. The LGN is rolled up into two ellipsoids about the size and shape of two small birds' eggs. In between the six layers are smaller cells that receive information from the K cells (color) in the retina. The neurons of the LGN then relay the visual image to the primary visual cortex (V1) which is located at the back of the brain (posterior end) in the occipital lobe in and close to the calcarine sulcus. The LGN is not just a simple relay station but it is also a center for processing; it receives reciprocal input from the cortical and subcortical layers and reciprocal innervation from the visual cortex.
+
+
+Scheme of the optic tract with image being decomposed on the way, up to simple cortical cells (simplified).
+Optic radiation
+Main article: Optic radiation
+The optic radiations, one on each side of the brain, carry information from the thalamic lateral geniculate nucleus to layer 4 of the visual cortex. The P layer neurons of the LGN relay to V1 layer 4C β. The M layer neurons relay to V1 layer 4C α. The K layer neurons in the LGN relay to large neurons called blobs in layers 2 and 3 of V1.
+
+There is a direct correspondence from an angular position in the visual field of the eye, all the way through the optic tract to a nerve position in V1 (up to V4, i.e. the primary visual areas. After that, the visual pathway is roughly separated into a ventral and dorsal pathway).
+
+Visual cortex
+Main article: Visual cortex
+
+Visual cortex: 
+V1; V2; V3; V4; V5 (also called MT)
+The visual cortex is the largest system in the human brain and is responsible for processing the visual image. It lies at the rear of the brain (highlighted in the image), above the cerebellum. The region that receives information directly from the LGN is called the primary visual cortex, (also called V1 and striate cortex). Visual information then flows through a cortical hierarchy. These areas include V2, V3, V4 and area V5/MT (the exact connectivity depends on the species of the animal). These secondary visual areas (collectively termed the extrastriate visual cortex) process a wide variety of visual primitives. Neurons in V1 and V2 respond selectively to bars of specific orientations, or combinations of bars. These are believed to support edge and corner detection. Similarly, basic information about color and motion is processed here.
+
+Heider, et al. (2002) have found that neurons involving V1, V2, and V3 can detect stereoscopic illusory contours; they found that stereoscopic stimuli subtending up to 8° can activate these neurons.
+
+
+Visual cortex is active even during resting state fMRI.
+Visual association cortex
+Main article: Two Streams hypothesis
+As visual information passes forward through the visual hierarchy, the complexity of the neural representations increases. Whereas a V1 neuron may respond selectively to a line segment of a particular orientation in a particular retinotopic location, neurons in the lateral occipital complex respond selectively to complete object (e.g., a figure drawing), and neurons in visual association cortex may respond selectively to human faces, or to a particular object.
+
+Along with this increasing complexity of neural representation may come a level of specialization of processing into two distinct pathways: the dorsal stream and the ventral stream (the Two Streams hypothesis, first proposed by Ungerleider and Mishkin in 1982). The dorsal stream, commonly referred to as the "where" stream, is involved in spatial attention (covert and overt), and communicates with regions that control eye movements and hand movements. More recently, this area has been called the "how" stream to emphasize its role in guiding behaviors to spatial locations. The ventral stream, commonly referred as the "what" stream, is involved in the recognition, identification and categorization of visual stimuli.
+
+
+Intraparietal sulcus (red)
+However, there is still much debate about the degree of specialization within these two pathways, since they are in fact heavily interconnected.
+
+Horace Barlow proposed the efficient coding hypothesis in 1961 as a theoretical model of sensory coding in the brain.
+
+The default mode network is a network of brain regions that are active when an individual is awake and at rest. The visual system's default mode can be monitored during resting state fMRI: Fox, et al. (2005) have found that "The human brain is intrinsically organized into dynamic, anticorrelated functional networks'", in which the visual system switches from resting state to attention.
+
+In the parietal lobe, the lateral and ventral intraparietal cortex are involved in visual attention and saccadic eye movements. These regions are in the Intraparietal sulcus (marked in red in the adjacent image).
+
+Proper function of the visual system is required for sensing, processing, and understanding the surrounding environment. Difficulty in sensing, processing and understanding light input has the potential to adversely impact an individual's ability to communicate, learn and effectively complete routine tasks on a daily basis.
+
+In children, early diagnosis and treatment of impaired visual system function is an important factor in ensuring that key social, academic and speech/language developmental milestones are met.
+
+Cataract is clouding of the lens, which in turn affects vision. Although it may be accompanied by yellowing, clouding and yellowing can occur separately. This is typically a result of ageing, disease, or drug use.
+
+Presbyopia is a visual condition that causes farsightedness. The eye's lens becomes too inflexible to accommodate to normal reading distance, focus tending to remain fixed at long distance.
+
+Glaucoma is a type of blindness that begins at the edge of the visual field and progresses inward. It may result in tunnel vision. This typically involves the outer layers of the optic nerve, sometimes as a result of buildup of fluid and excessive pressure in the eye.
+
+Scotoma is a type of blindness that produces a small blind spot in the visual field typically caused by injury in the primary visual cortex.
+
+Homonymous hemianopia is a type of blindness that destroys one entire side of the visual field typically caused by injury in the primary visual cortex.
+
+Quadrantanopia is a type of blindness that destroys only a part of the visual field typically caused by partial injury in the primary visual cortex. This is very similar to homonymous hemianopia, but to a lesser degree.
+
+Prosopagnosia, or face blindness, is a brain disorder that produces an inability to recognize faces. This disorder often arises after damage to the fusiform face area (FFA).
+
+Visual agnosia, or visual-form agnosia, is a brain disorder that produces an inability to recognize objects. This disorder often arises after damage to the ventral stream.
+

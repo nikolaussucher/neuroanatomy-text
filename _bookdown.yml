@@ -3,7 +3,15 @@ rmd_files:   [ "index.Rmd",
                "acknowledgements.rmd",
                "nervous_system.rmd",
                "development.rmd",
-               "cells.rmd"
+               "cells.rmd",
+               "cns.rmd",
+               "pns.rmd",
+               "olfactory_system.rmd",
+               "gustatory_system.rmd",
+               "auditory_system.rmd",
+               "visual_system.rmd",
+               "motor_system.rmd",
+               "autonomic_nervous_system.rmd"
                ]
 output_dir: docs
 before_chapter_script:  "_common.R"
