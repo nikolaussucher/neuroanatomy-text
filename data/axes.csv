@@ -1,0 +1,16 @@
+﻿Axis,Directional term,Directed towards
+Anteroposterior,Anterior,Belly in orthograde bipeds (including humans)
+Anteroposterior,,Head end in fish
+Posterior,Back in orthograde bipeds,
+Posterior,Rear/tail end,
+"Rostrocaudal,[a]craniocaudal,[a]cephalocaudal,[b] longitudinal","Rostral, cranial, cephalad",Head end
+Caudal,Rear/tail end,
+Caudal,Inferior in humans,
+Dorsoventral,Dorsal,"Back, spinal column"
+Ventral,Belly,
+"Left-right, dextro-sinister,[b]sinistro-dexter[b]",Left (sinister),Left-hand side
+Right (dexter),Right-hand side,
+Mediolateral[c],Medial,Centre
+Lateral,Left and right,
+Proximal/distal,Proximal,Point at which appendage joins the body
+Distal,Extremity of appendage,
