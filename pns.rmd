@@ -8,7 +8,7 @@ The peripheral nervous system is divided into the somatic nervous system, and th
 
 ## The Somatic nervous system
 
-The somatic nervous system includes the sensory nervous system and the somatosensory system and consists of sensory nerves and somatic nerves, and many nerves which hold both functions.
+The somatic nervous system includes the sensory neurons that convey information from the body to the CNS. The cell bodies of these sensory neurons lie in the dorsal root ganglia parallel to the spinal cord and in the cranial nerve ganglia.  
 
 In the head and neck, cranial nerves carry somatosensory data. There are twelve cranial nerves, ten of which originate from the brainstem, and mainly control the functions of the anatomic structures of the head with some exceptions. One unique cranial nerve is the vagus nerve, which receives sensory information from organs in the thorax and abdomen. The accessory nerve is responsible for innervating the sternocleidomastoid and trapezius muscles, neither of which being exclusively in the head.
 
@@ -124,9 +124,27 @@ The anterior divisions of the lumbar nerves, sacral nerves, and coccygeal nerve 
 
 ## The Autonomic nervous system
 
-The autonomic nervous system (ANS) controls involuntary responses to regulate physiological functions. The brain and spinal cord of the central nervous system are connected with organs that have smooth muscle, such as the heart, bladder, and other cardiac, exocrine, and endocrine related organs, by ganglionic neurons. The most notable physiological effects from autonomic activity are pupil constriction and dilation, and salivation of saliva. The autonomic nervous system is always activated, but is either in the sympathetic or parasympathetic state. Depending on the situation, one state can overshadow the other, resulting in a release of different kinds of neurotransmitters. There is a lesser known division of the autonomic nervous system known as the enteric nervous system. Located only around the digestive tract, this system allows for local control without input from the sympathetic or the parasympathetic branches, though it can still receive and respond to signals from the rest of the body. The enteric system is responsible for various functions related to gastrointestinal system.
+The autonomic nervous system (ANS) is a division of the peripheral nervous system that supplies smooth muscle and glands, and thus influences the function of internal organs. The autonomic nervous system is a control system that acts largely unconsciously and regulates bodily functions such as the heart rate, digestion, respiratory rate, pupillary response, urination, and sexual arousal. This system is the primary mechanism in control of the fight-or-flight response.
 
-The autonomic nervous system functions to regulate the body's unconscious actions. The sympathetic nervous system's primary process is to stimulate the body's fight-flight-or-freeze response. It is, however, constantly active at a basic level to maintain homeostasis homeodynamics. The sympathetic nervous system is described as being antagonistic to the parasympathetic nervous system which stimulates the body to "feed and breed" and to (then) "rest-and-digest".
+Within the brain, the autonomic nervous system is regulated by the hypothalamus. Autonomic functions include control of respiration, cardiac regulation (the cardiac control center), vasomotor activity (the vasomotor center), and certain reflex actions such as coughing, sneezing, swallowing and vomiting. Those are then subdivided into other areas and are also linked to ANS subsystems and nervous systems external to the brain. The hypothalamus, just above the brain stem, acts as an integrator for autonomic functions, receiving ANS regulatory input from the limbic system to do so.
+
+The autonomic nervous system has two branches: the sympathetic nervous system and the parasympathetic nervous system. The sympathetic nervous system is often considered the "fight or flight" system, while the parasympathetic nervous system is often considered the "rest and digest" or "feed and breed" system. In many cases, both of these systems have "opposite" actions where one system activates a physiological response and the other inhibits it. An older simplification of the sympathetic and parasympathetic nervous systems as "excitatory" and "inhibitory" was overturned due to the many exceptions found. A more modern characterization is that the sympathetic nervous system is a "quick response mobilizing system" and the parasympathetic is a "more slowly activated dampening system", but even this has exceptions, such as in sexual arousal and orgasm, wherein both play a role.
+
+The sympathetic division emerges from the spinal cord in the thoracic and lumbar areas, terminating around L2-3. The parasympathetic division has craniosacral “outflow”, meaning that the neurons begin at the cranial nerves (specifically the oculomotor nerve, facial nerve, glossopharyngeal nerve and vagus nerve) and sacral (S2-S4) spinal cord.
+
+The autonomic nervous system is unique in that it requires a sequential two-neuron efferent pathway; the preganglionic neuron must first synapse onto a postganglionic neuron before innervating the target organ. The preganglionic, or first, neuron will begin at the “outflow” and will synapse at the postganglionic, or second, neuron's cell body. The postganglionic neuron will then synapse at the target organ.
+
+```{r autonomic, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+
+setwd("~/Dropbox/R/neuroanatomy-text-master")
+
+comparison <-  as_tibble(read.csv("data/autonomic.csv"))
+
+knitr::kable(comparison, col.names = c("Target organ/system", "Parasympathetic", "Sympathetic"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "Effects of the parasympathetic and sympathetic branches of the autonomic system on their target organs.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "35em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
+```
 
 ## The Sympathetic nervous system
 

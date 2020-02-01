@@ -1,6 +1,6 @@
-# The Somatic Nervous System
+# The Somatic Motor System
 
-The somatic nervous system (SNS or voluntary nervous system) is the part of the peripheral nervous system associated with the voluntary control of body movements via skeletal muscles.
+The somatic motor system (SMS or voluntary nervous system) is the part of the peripheral nervous system associated with the voluntary control of body movements via skeletal muscles.
 
 The somatic nervous system consists of afferent nerves or sensory nerves, and efferent nerves or motor nerves. Afferent nerves are responsible for relaying sensation from the body to the central nervous system; efferent nerves are responsible for sending out commands from the CNS to the body, stimulating muscle contraction; they include all the non-sensory neurons connected with skeletal muscles and skin. The a- of afferent and the e- of efferent correspond to the prefixes ad- (to, toward) and ex- (out of).
 

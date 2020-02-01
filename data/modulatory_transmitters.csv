@@ -1,0 +1,70 @@
+﻿System,Pathway origin and projections,Regulated cognitive processes and behaviors
+Noradrenaline system,Noradrenergic pathways:,anxiety
+[26][27][28][29][30][31],Locus coeruleus (LC) projections,arousal (wakefulness)
+,LC → Amygdala and Hippocampus,circadian rhythm
+,LC → Brain stem and Spinal cord,cognitive control and working memory (co-regulated by dopamine)
+,LC → Cerebellum,feeding and energy homeostasis
+,LC → Cerebral cortex,medullary control of respiration
+,LC → Hypothalamus,negative emotional memory
+,LC → Tectum,nociception (perception of pain)
+,LC → Thalamus,reward (minor role)
+,LC → Ventral tegmental area,
+,Lateral tegmental field (LTF) projections,
+,LTF → Brain stem and Spinal cord,
+,LTF → Olfactory bulb,
+Dopamine system,Dopaminergic pathways:,arousal (wakefulness)
+[28][29][30][32][33][34],Ventral tegmental area (VTA) projections,aversion
+,VTA → Amygdala,cognitive control and working memory (co-regulated by norepinephrine)
+,VTA → Cingulate cortex,emotion and mood
+,VTA → Hippocampus,motivation (motivational salience)
+,VTA → Ventral striatum (Mesolimbic pathway),motor function and control
+,VTA → Olfactory bulb,positive reinforcement
+,VTA → Prefrontal cortex (Mesocortical pathway),reward (primary mediator)
+,Nigrostriatal pathway,"sexual arousal, orgasm, and refractory period (via neuroendocrine regulation)"
+,Substantia nigra pars compacta → Dorsal striatum,
+,Tuberoinfundibular pathway,
+,Arcuate nucleus → Median eminence,
+,Hypothalamospinal projection,
+,Hypothalamus → Spinal cord,
+,Incertohypothalamic pathway,
+,Zona incerta → Hypothalamus,
+Histamine system,Histaminergic pathways:,arousal (wakefulness)
+[29][30][35],Tuberomammillary nucleus (TMN) projections,feeding and energy homeostasis
+,TMN → Cerebral cortex,learning
+,TMN → Hippocampus,memory
+,TMN → Neostriatum,
+,TMN → Nucleus accumbens,
+,TMN → Amygdala,
+,TMN → Hypothalamus,
+Serotonin system,Serotonergic pathways:,arousal (wakefulness)
+[26][28][29][30][36][37][38],Caudal nuclei (CN):,body temperature regulation
+,"Raphe magnus, raphe pallidus, and raphe obscurus","emotion and mood, potentially including aggression"
+,Caudal projections,feeding and energy homeostasis
+,CN → Cerebral cortex,reward (minor role)
+,CN → Thalamus,sensory perception
+,CN → Caudate-putamen and nucleus accumbens,
+,CN → Substantia nigra and ventral tegmental area,
+,Rostral nuclei (RN):,
+,"Nucleus linearis, dorsal raphe, medial raphe, and raphe pontis",
+,Rostral projections,
+,RN → Amygdala,
+,RN → Cingulate cortex,
+,RN → Hippocampus,
+,RN → Hypothalamus,
+,RN → Neocortex,
+,RN → Septum,
+,RN → Thalamus,
+,RN → Ventral tegmental area,
+Acetylcholine system,Cholinergic pathways:,arousal (wakefulness)
+[26][28][29][30][39],Forebrain cholinergic nuclei (FCN):,emotion and mood
+,"Nucleus basalis of Meynert, medial septal nucleus, and diagonal band",learning
+,Forebrain nuclei projections,motor function
+,FCN → Hippocampus,motivation (motivational salience)
+,FCN → Cerebral cortex,short-term memory
+,FCN → Limbic cortex and sensory cortex,reward (minor role)
+,Brainstem cholinergic nuclei (BCN):,
+,"Pedunculopontine nucleus, laterodorsal tegmentum, medial habenula, and",
+,parabigeminal nucleus,
+,Brainstem nuclei projections,
+,BCN → Ventral tegmental area,
+,BCN → Thalamus,

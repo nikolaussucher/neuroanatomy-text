@@ -14,7 +14,6 @@ rmd_files:   [ "index.rmd",
                "olfactory_system.rmd",
                "gustatory_system.rmd",
                "motor_system.rmd",
-               "autonomic_nervous_system.rmd",
                "appendix.rmd"
                ]
 output_dir: docs
