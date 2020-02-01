@@ -161,7 +161,7 @@ Among vertebrates there are three major groups of ganglia:
 
 In the autonomic nervous system, fibers from the central nervous system to the ganglia are known as preganglionic fibers, while those from the ganglia to the effector organ are called postganglionic fibers.
 
-Basal ganglia[edit]
+Basal ganglia
 The term "ganglion" refers to the peripheral nervous system.
 
 However, in the brain (part of the central nervous system), the "basal ganglia" is a group of nuclei interconnected with the cerebral cortex, thalamus, and brainstem, associated with a variety of functions: motor control, cognition, emotions, and learning.

@@ -7,11 +7,11 @@ bookdown::gitbook:
       before:             |
         <li><strong><a href="./">Genetics</a></strong></li>
     edit:
-      link:               https://github.com/nikolaussucher/genetics/edit/master/%s
+      link:               https://github.com/nikolaussucher/genetics-text/edit/master/%s
       text:               "Edit"
     sharing:              no
 #    download:             ["pdf", "epub"]
-#    download:             ["pdf"]
+    download:             ["pdf"]
 #bookdown::html_chapters:
 #  css:                    [css/style.css, css/toc.css]
  
@@ -22,6 +22,6 @@ bookdown::pdf_book:
   dev:                    "cairo_pdf"
   latex_engine:           xelatex
 
-bookdown::epub_book:
-  dev:                    svglite
-  stylesheet:             css/style.css
+#bookdown::epub_book:
+#  dev:                    svglite
+#  stylesheet:             css/style.css

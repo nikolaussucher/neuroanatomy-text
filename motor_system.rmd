@@ -6,6 +6,96 @@ The somatic nervous system consists of afferent nerves or sensory nerves, and ef
 
 Peripheral structures of the somatic motor system include skeletal muscles and neural connections with muscle tissues. Central structures include cerebral cortex, brainstem, spinal cord, pyramidal system including the upper motor neurons, extrapyramidal system, cerebellum, and the lower motor neurons in the brainstem and the spinal cord.
 
+## Skeletal muscle
+
+Skeletal muscle is one of three major muscle types, the others being cardiac muscle and smooth muscle. It is a form of striated muscle tissue, which is under the voluntary control of the somatic nervous system. Most skeletal muscles are attached to bones by bundles of collagen fibers known as tendons.
+
+A skeletal muscle refers to multiple bundles (fascicles) of cells joined together called muscle fibers. The fibers and muscles are surrounded by connective tissue layers called fasciae. Muscle fibers, or muscle cells, are formed from the fusion of developmental myoblasts in a process known as myogenesis. Muscle fibers are cylindrical and have more than one nucleus. They also have multiple mitochondria to meet energy needs.
+
+Muscle fibers are in turn composed of myofibrils. The myofibrils are composed of actin and myosin filaments, repeated in units called sarcomeres, which are the basic functional units of the muscle fiber. The sarcomere is responsible for the striated appearance of skeletal muscle and forms the basic machinery necessary for muscle contraction.
+
+Skeletal muscle exhibits a distinctive banding pattern when viewed under the microscope due to the arrangement of cytoskeletal elements in the cytoplasm of the muscle fibers. The principal cytoplasmic proteins are myosin and actin (also known as "thick" and "thin" filaments, respectively) which are arranged in a repeating unit called a sarcomere. The interaction of myosin and actin is responsible for muscle contraction.
+
+Every single organelle and macromolecule of a muscle fiber is arranged to ensure form meets function. The cell membrane is called the sarcolemma with the cytoplasm known as the sarcoplasm. In the sarcoplasm are the myofibrils. The myofibrils are long protein bundles about 1 micrometer in diameter each containing myofilaments. Pressed against the inside of the sarcolemma are the unusual flattened myonuclei. Between the myofibrils are the mitochondria.
+
+While the muscle fiber does not have smooth endoplasmic cisternae, it contains a sarcoplasmic reticulum. The sarcoplasmic reticulum surrounds the myofibrils and holds a reserve of the calcium ions needed to cause a muscle contraction. Periodically, it has dilated end sacs known as terminal cisternae. These cross the muscle fiber from one side to the other. In between two terminal cisternae is a tubular infolding called a transverse tubule (T tubule). T tubules are the pathways for action potentials to signal the sarcoplasmic reticulum to release calcium, causing a muscle contraction. Together, two terminal cisternae and a transverse tubule form a triad.
+
+Many muscles are named by the action the muscle performs. These include:
+
+The flexor and extensor; abductor and adductor; levator and depressor; supinator and pronator; sphincter, tensor, and rotator muscles.
+
+A flexor muscle decreases the anterior angle at a joint; an extensor increases the anterior angle at a joint.
+
+An abductor moves a bone away from the midline; an adductor moves a bone closer to the midline.
+
+A levator raises a structure; a depressor moves a structure down.
+
+A supinator turns the palm of the hand up; a pronator turns the palm down.
+
+A sphincter decreases the size of an opening; a tensor tenses a body part; a rotator turns a bone around its axis.
+
+In addition to the actin and myosin components that constitute the sarcomere, skeletal muscle fibers also contain two other important regulatory proteins, troponin and tropomyosin, that are necessary for muscle contraction to occur. These proteins are associated with actin and cooperate to prevent its interaction with myosin. Skeletal muscle cells are excitable and are subject to depolarization by the neurotransmitter acetylcholine, released at the neuromuscular junction by motor neurons.
+
+Once a cell is sufficiently stimulated, the cell's sarcoplasmic reticulum releases ionic calcium (Ca^2+^), which then interacts with the regulatory protein troponin. Calcium-bound troponin undergoes a conformational change that leads to the movement of tropomyosin, subsequently exposing the myosin-binding sites on actin. This allows for myosin and actin ATP-dependent cross-bridge cycling and shortening of the muscle.
+
+### Muscle contraction
+
+When contracting, thin and thick filaments slide with respect to each other by using adenosine triphosphate. This pulls the Z discs closer together in a process called sliding filament mechanism. The contraction of all the sarcomeres results in the contraction of the whole muscle fiber. This contraction of the myocyte is triggered by the action potential over the cell membrane of the myocyte. The action potential uses transverse tubules to get from the surface to the interior of the myocyte, which is continuous within the cell membrane. Sarcoplasmic reticula are membranous bags that transverse tubules touch but remain separate from. These wrap themselves around each sarcomere and are filled with Ca^2+^.
+
+Excitation of a myocyte causes depolarization at its synapses, the neuromuscular junctions, which triggers action potential. With a singular neuromuscular junction, each muscle fiber receives input from just one somatic efferent neuron. Action potential in a somatic efferent neuron causes the release of the neurotransmitter acetylcholine.
+
+When the acetylcholine is released it diffuses across the synapse and binds to a receptor on the sarcolemma, a term unique to muscle cells that refers to the cell membrane. This initiates an impulse that travels across the sarcolemma.
+
+When the action potential reaches the sarcoplasmic reticulum it triggers the release of Ca^2+^ from the Ca^2+^ channels. The Ca^2+^ flows from the sarcoplasmic reticulum into the sarcomere with both of its filaments. This causes the filaments to start sliding and the sarcomeres to become shorter. This requires a large amount of ATP, as it is used in both the attachment and release of every myosin head. Very quickly Ca^2+^ is actively transported back into the sarcoplasmic reticulum, which blocks the interaction between the thin and thick filament. This in turn causes the muscle cell to relax.
+
+## Somatic motor neurons
+
+A motor neuron (or motoneuron) is a neuron whose cell body is located in the motor cortex, brainstem or the spinal cord, and whose axon (fiber) projects to the spinal cord or outside of the spinal cord to directly or indirectly control effector organs, mainly muscles and glands. There are two types of motor neuron – upper motor neurons and lower motor neurons. Axons from upper motor neurons synapse onto interneurons in the spinal cord and occasionally directly onto lower motor neurons. The axons from the lower motor neurons are efferent nerve fibers that carry signals from the spinal cord to the effectors. Types of lower motor neurons are alpha motor neurons, beta motor neurons, and gamma motor neurons.
+
+A single motor neuron may innervate many muscle fibres and a muscle fibre can undergo many action potentials in the time taken for a single muscle twitch. Innervation takes place at a neuromuscular junction and twitches can become superimposed as a result of summation or a tetanic contraction. Individual twitches can become indistinguishable, and tension rises smoothly eventually reaching a plateau
+Upper motor neurons originate in the motor cortex located in the precentral gyrus. The cells that make up the primary motor cortex are Betz cells, which are a type of pyramidal cell. The axons of these cells descend from the cortex to form the corticospinal tract. Corticomotorneurons project from the primary cortex directly onto motor neurons in the ventral horn of the spinal cord. Their axons synapse on the spinal motor neurons of multiple muscles as well as on spinal interneurons. They are unique to primates and it has been suggested that their function is the adaptive control of the hands including the relatively independent control of individual fingers. Corticomotorneurons have so far only been found in the primary motor cortex and not in secondary motor areas.
+
+Nerve tracts are bundles of axons as white matter, that carry action potentials to their effectors. In the spinal cord these descending tracts carry impulses from different regions. These tracts also serve as the place of origin for lower motor neurons. There are seven major descending motor tracts to be found in the spinal cord:
+
+* Lateral corticospinal tract
+* Rubrospinal tract
+* Lateral reticulospinal tract
+* Vestibulospinal tract
+* Medial reticulospinal tract
+* Tectospinal tract
+* Anterior corticospinal tract
+
+Lower motor neurons are those that originate in the spinal cord and directly or indirectly innervate effector targets. The target of these neurons varies, but in the somatic nervous system the target will be some sort of muscle fiber.
+
+(ref:spinal) [Efferent and afferent tracts of the spinal cord](https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg)
+
+```{r spinaltracts, fig.cap='(ref:spinal)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Spinal_cord_tracts_-_English.svg")
+```
+
+* Alpha motor neurons innervate extrafusal muscle fibers, which are the main force-generating component of a muscle. Their cell bodies are in the ventral horn of the spinal cord and they are sometimes called ventral horn cells. A single motor neuron may synapse with 150 muscle fibers on average. The motor neuron and all of the muscle fibers to which it connects is a motor unit. Motor units are split up into 3 categories: 
+
+  * Slow (S) motor units stimulate small muscle fibers, which contract very slowly and provide small amounts of energy but are very resistant to fatigue, so they are used to sustain muscular contraction, such as keeping the body upright. They gain their energy via oxidative means and hence require oxygen. They are also called red fibers.
+  * Fast fatiguing (FF) motor units stimulate larger muscle groups, which apply large amounts of force but fatigue very quickly. They are used for tasks that require large brief bursts on energy, such as jumping or running. They gain their energy via glycolytic means and hence don't require oxygen. They are called white fibers.
+  * Fast fatigue-resistant motor units stimulate moderate-sized muscles groups that don't react as fast as the FF motor units, but can be sustained much longer (as implied by the name) and provide more force than S motor units. These use both oxidative and glycolytic means to gain energy.
+
+In addition to voluntary skeletal muscle contraction, alpha motor neurons also contribute to muscle tone, the continuous force generated by noncontracting muscle to oppose stretching. When a muscle is stretched, sensory neurons within the muscle spindle detect the degree of stretch and send a signal to the CNS. The CNS activates alpha motor neurons in the spinal cord, which cause extrafusal muscle fibers to contract and thereby resist further stretching. This process is also called the stretch reflex.
+
+* Beta motor neurons innervate intrafusal muscle fibers of muscle spindles, with collaterals to extrafusal fibres. There are two types of beta motor neurons: Slow Contracting- These innervate extrafusal fibers. Fast Contracting- These innervate intrafusal fibers.
+* Gamma motor neurons innervate intrafusal muscle fibers found within the muscle spindle. They regulate the sensitivity of the spindle to muscle stretching. With activation of gamma neurons, intrafusal muscle fibers contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. There are two types of gamma motor neurons: Dynamic- These focus on Bag1 fibers and enhance dynamic sensitivity. Static- These focus on Bag2 fibers and enhance stretch sensitivity.
+* Regulatory factors of lower motor neurons
+  * Size Principle – this relates to the soma of the motor neuron. This restricts larger neurons to receive a larger excitatory signal in order to stimulate the muscle fibers it innervates. By reducing unnecessary muscle fiber recruitment, the body is able to optimize energy consumption.
+  * Persistent Inward Current (PIC) – recent animal study research has shown that constant flow of ions such as calcium and sodium through channels in the soma and dendrites influence the synaptic input. An alternate way to think of this is that the post-synaptic neuron is being primed before receiving an impulse.
+  * After Hyper-polarization (AHP) – A trend has been identified that shows slow motor neurons to have more intense AHPs for a longer duration. One way to remember this is that slow muscle fibers can contract for longer, so it makes sense that their corresponding motor neurons fire at a slower rate.
+
+## Neuromuscular junction
+
+A single motor neuron may innervate many muscle fibres and a muscle fibre can undergo many action potentials in the time taken for a single muscle twitch. As a result, if an action potential arrives before a twitch has completed, the twitches can superimpose on one another, either through summation or a tetanic contraction. In summation, the muscle is stimulated repetitively such that additional action potentials coming from the somatic nervous system arrive before the end of the twitch. The twitches thus superimpose on one another, leading to a force greater than that of a single twitch. A tetanic contraction is caused by constant, very high frequency stimulation - the action potentials come at such a rapid rate that individual twitches are indistinguishable, and tension rises smoothly eventually reaching a plateau.
+
+The interface between a motor neuron and muscle fiber is a specialized synapse called the neuromuscular junction. Upon adequate stimulation, the motor neuron releases a flood of acetylcholine (Ach) neurotransmitters from the axon terminals from synaptic vesicles bind with the plasma membrane. The acetylcholine molecules bind to postsynaptic receptors found within the motor end plate. Once two acetylcholine receptors have been bound, an ion channel is opened and sodium ions are allowed to flow into the cell. The influx of sodium into the cell causes depolarization and triggers a muscle action potential. T tubules of the sarcolemma are then stimulated to elicit calcium ion release from the sarcoplasmic reticulum. It is this chemical release that causes the target muscle fiber to contract.
+
+In invertebrates, depending on the neurotransmitter released and the type of receptor it binds, the response in the muscle fiber could be either excitatory or inhibitory. For vertebrates, however, the response of a muscle fiber to a neurotransmitter can only be excitatory, in other words, contractile. Muscle relaxation and inhibition of muscle contraction in vertebrates is obtained only by inhibition of the motor neuron itself. This is how muscle relaxants work by acting on the motor neurons that innervate muscles (by decreasing their electrophysiological activity) or on cholinergic neuromuscular junctions, rather than on the muscles themselves.
+
 ## Pyramidal motor system
 
 The pyramidal motor system, also called the pyramidal tract or the corticospinal tract, start in the motor center of the cerebral cortex. There are upper and lower motor neurons in the corticospinal tract. The motor impulses originate in the giant pyramidal cells or Betz cells of the motor area; i.e., precentral gyrus of cerebral cortex. These are the upper motor neurons (UMN) of the corticospinal tract. The axons of these cells pass in the depth of the cerebral cortex to the corona radiata and then to the internal capsule passing through the posterior branch of internal capsule and continue to descend in the midbrain and the medulla oblongata. In the lower part of Medulla oblongata 80 to 85% of these fibers decussate (pass to the opposite side) and descend in the white matter of the lateral funiculus of the spinal cord on the opposite side. The remaining 15 to 20% pass to the same side. Fibers for the extremities (limbs) pass 100% to the opposite side. The fibers of the corticospinal tract terminate at different levels in the anterior horn of the grey matter of the spinal cord. Here the lower motor neurons (LMN) of the corticospinal cord are located. Peripheral motor nerves carry the motor impulses from the anterior horn to the voluntary muscles.
