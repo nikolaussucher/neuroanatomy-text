@@ -57,6 +57,43 @@ The subarachnoid space is the space that normally exists between the arachnoid a
 
 The dura mater is attached to the skull, whereas in the spinal cord, the dura mater is separated from the vertebrae by a space called the epidural space, which contains fat and blood vessels. The arachnoid is attached to the dura mater, while the pia mater is attached to the central nervous system tissue. When the dura mater and the arachnoid separate through injury or illness, the space between them is the subdural space. There is a subpial space underneath the pia mater that separates it from the glia limitans.
 
+## The Ventricular system
+
+The ventricular system is a set of four interconnected cavities (ventricles) in the brain, where the cerebrospinal fluid (CSF) is produced. Within each ventricle is a region of choroid plexus, a network of ependymal cells involved in the production of CSF. The ventricular system is continuous with the central canal of the spinal cord (from the fourth ventricle), allowing for the flow of CSF to circulate. All of the ventricular system and the central canal of the spinal cord are lined with ependyma, a specialised form of epithelium.
+
+The system comprises four ventricles:
+
+* lateral ventricles right and left (one for each hemisphere)
+* third ventricle
+* fourth ventricle
+
+There are several foramina, openings acting as channels, that connect the ventricles. The interventricular foramina (also called the foramina of Monro) connect the lateral ventricles to the third ventricle through which the cerebrospinal fluid can flow.
+
+| Name | From | To |
+|------|------|----|
+| interventricular foramina (Monro) | lateral ventricles | third ventricle |
+| cerebral aqueduct (Sylvius) | third ventricle | fourth ventricle |
+| median aperture (Magendie) | fourth ventricle | subarachnoid space via the cisterna magna |
+| right and left lateral aperture (Luschka) | fourth ventricle | subarachnoid space via the cistern of great cerebral vein |
+
+The ventricles are filled with cerebrospinal fluid (CSF) which bathes and cushions the brain and spinal cord within their bony confines. CSF is produced by modified ependymal cells of the choroid plexus found in all components of the ventricular system except for the cerebral aqueduct and the posterior and anterior horns of the lateral ventricles. CSF flows from the lateral ventricles via the interventricular foramina into the third ventricle, and then the fourth ventricle via the cerebral aqueduct in the brainstem. From the fourth ventricle it can pass into the central canal of the spinal cord or into the subarachnoid cisterns via three small foramina: the central median aperture and the two lateral apertures.
+
+The fluid then flows around the superior sagittal sinus to be reabsorbed via the arachnoid granulations (or arachnoid villi) into the venous sinuses, after which it passes through the jugular vein and major venous system. CSF within the spinal cord can flow all the way down to the lumbar cistern at the end of the cord around the cauda equina where lumbar punctures are performed.
+
+The cerebral aqueduct between the third and fourth ventricles is very small, as are the foramina, which means that they can be easily blocked.
+
+The brain and spinal cord are covered by the meninges, the three protective membranes of the tough dura mater, the arachnoid mater and the pia mater. The cerebrospinal fluid (CSF) within the skull and spine provides further protection and also buoyancy, and is found in the subarachnoid space between the pia mater and the arachnoid mater.
+
+The CSF that is produced in the ventricular system is also necessary for chemical stability, and the provision of nutrients needed by the brain. The CSF helps to protect the brain from jolts and knocks to the head and also provides buoyancy and support to the brain against gravity. (Since the brain and CSF are similar in density, the brain floats in neutral buoyancy, suspended in the CSF.) This allows the brain to grow in size and weight without resting on the floor of the cranium, which would destroy nervous tissue.
+
+## The Cerebrospinal Fluid
+
+Cerebrospinal fluid (CSF) is a clear, colorless body fluid found in the brain and spinal cord. It is produced by specialised ependymal cells in the choroid plexuses of the ventricles of the brain, and absorbed in the arachnoid granulations. There is about 125mL of CSF at any one time, and about 500 mL is generated every day. CSF acts as a cushion or buffer, providing basic mechanical and immunological protection to the brain inside the skull. CSF also serves a vital function in the cerebral autoregulation of cerebral blood flow.
+
+CSF occupies the subarachnoid space (between the arachnoid mater and the pia mater) and the ventricular system around and inside the brain and spinal cord. It fills the ventricles of the brain, cisterns, and sulci, as well as the central canal of the spinal cord. There is also a connection from the subarachnoid space to the bony labyrinth of the inner ear via the perilymphatic duct where the perilymph is continuous with the cerebrospinal fluid. The ependymal cells of the choroid plexuses have multiple motile cilia on their apical surfaces that beat to move the CSF through the ventricles.
+
+A sample of CSF can be taken via lumbar puncture. This can reveal the intracranial pressure, as well as indicate diseases including infections of the brain or its surrounding meninges. Although noted by Hippocrates, it was only in the 18th century that Emanuel Swedenborg was credited with its rediscovery, and as late as 1914 Harvey Cushing demonstrated CSF was secreted by the choroid plexus.
+
 ## The Blood-Brain-Barrier
 
 The blood–brain barrier (BBB) is a highly selective semipermeable border that separates the circulating blood from the brain and extracellular fluid in the central nervous system (CNS). The blood-brain barrier is formed by endothelial cells of the capillary wall, astrocyte end-feet ensheathing the capillary, and pericytes embedded in the capillary basement membrane. This system allows the passage of some molecules by passive diffusion, as well as the selective transport of molecules such as glucose, water and amino acids that are crucial to neural function.
@@ -529,12 +566,12 @@ The somatosensory cortex is adjacent to the primary motor cortex which is simila
 
 Mapped sensory processing areas are a complex phenomenon and must therefore serve an adaptive advantage as it is highly unlikely for complex phenomena to appear otherwise. Sensory maps are also very old in evolutionary history as they are nearly ubiquitous in all species of animals and are found for nearly all sensory systems. Some advantages of sensory maps have been elucidated by scientific exploration:
 
-Filling In: When sensory stimulation is organized in the brain in some form of topographic pattern, then the animal might be able to “fill in” information that is missing using neighboring regions of the map since they will usually be activated together when all information is present. Loss of signal from one area can be filled in from adjacent areas of the brain if those areas are for physically related parts of the periphery. This is evident in animal studies where the neurons bordering a lesioned, or damaged, brain area (which used to process the sense of touch in a hand) to recover processing of that sensory region because they process information from adjacent hand areas.[1]
+Filling In: When sensory stimulation is organized in the brain in some form of topographic pattern, then the animal might be able to “fill in” information that is missing using neighboring regions of the map since they will usually be activated together when all information is present. Loss of signal from one area can be filled in from adjacent areas of the brain if those areas are for physically related parts of the periphery. This is evident in animal studies where the neurons bordering a lesioned, or damaged, brain area (which used to process the sense of touch in a hand) to recover processing of that sensory region because they process information from adjacent hand areas.
 Lateral Inhibition: Lateral inhibition is an organizing principle, it allows contrast in many systems from the visual to the somatosensory. This means that if adjacent areas inhibit one another then stimulation which activates one brain region can simultaneously inhibit the adjoining brain regions to create a sharper resolution between stimuli. This is evident in the visual system of humans where sharp lines can be detected between bright and dark regions because of simple cells which inhibit their neighbors.
-Summation: Organization also allows related stimuli to be summed in the neural assessment of sensory information. Examples of this are found in the summation of tactile inputs neurally or visual inputs under low light.[2]
+Summation: Organization also allows related stimuli to be summed in the neural assessment of sensory information. Examples of this are found in the summation of tactile inputs neurally or visual inputs under low light.
 
 
-Topographic maps may be thought of as a mapping of the surface of the body onto the brain structure. Phrased another way, topographic maps are organized in the neural system in a manner that is a projection of the sensory surface onto the brain. This means that the organization in the periphery mirrors the order of the information processing in the brain. This organization can be somatotopic,[3] as in the tactile sense of touch, or tonotopic,[4] as in the ear, and the retinotopic map which is laid out in the brain as the cells are arranged on the retina.
+Topographic maps may be thought of as a mapping of the surface of the body onto the brain structure. Phrased another way, topographic maps are organized in the neural system in a manner that is a projection of the sensory surface onto the brain. This means that the organization in the periphery mirrors the order of the information processing in the brain. This organization can be somatotopic, as in the tactile sense of touch, or tonotopic, as in the ear, and the retinotopic map which is laid out in the brain as the cells are arranged on the retina.
 
-* Wilder Penfield[5] discovered the original topographic map in the form of the internal somatosensory Homunculus. His work on human neural systems showed that the brain areas that processed tactile sensations are mapped in the same fashion that the body is laid out. This sensory map exaggerates certain regions that have many peripheral sense cells like the lips and hands while reduces the relative space for processing areas with few receptors like the back.
-* Hair cells in the auditory system display tonotopic organization.[6] This tonotopic arrangement means that cells are laid out to range from low frequency to high frequency and processed in that same organization within the brain.
+* Wilder Penfield discovered the original topographic map in the form of the internal somatosensory Homunculus. His work on human neural systems showed that the brain areas that processed tactile sensations are mapped in the same fashion that the body is laid out. This sensory map exaggerates certain regions that have many peripheral sense cells like the lips and hands while reduces the relative space for processing areas with few receptors like the back.
+* Hair cells in the auditory system display tonotopic organization. This tonotopic arrangement means that cells are laid out to range from low frequency to high frequency and processed in that same organization within the brain.
