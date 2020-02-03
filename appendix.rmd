@@ -1,6 +1,6 @@
 # (APPENDIX) Appendix {-}
 
-# Anatomical terms of location
+# Anatomical Terms Of Location
 
 All vertebrates (including humans) have the same basic body plan – they are strictly bilaterally symmetrical in early embryonic stages and largely bilaterally symmetrical in adulthood. That is, they have mirror-image left and right halves if divided down the middle. For these reasons, the basic directional terms can be considered to be those used in vertebrates. By extension, the same terms are used for many other (invertebrate) organisms as well.
 
@@ -12,7 +12,7 @@ While these terms are standardized within specific fields of biology, there are 
 
 For humans, one type of vertebrate, anatomical terms may differ from other forms of vertebrates. For one reason, this is because humans have a different neuraxis and, unlike animals that rest on four limbs, humans are considered when describing anatomy as being in the standard anatomical position. Thus what is on "top" of a human is the head, whereas the "top" of a dog may be its back, and the "top" of a flounder could refer to either its left or its right side.
 
-## Anatomical planes
+## Anatomical Planes
 
 Anatomical planes in a human
 * A transverse plane, also known as a cross-section, divides the body into cranial and caudal (head and tail) portions.
@@ -26,7 +26,7 @@ In human anatomy:
 * A transverse (also known as horizontal) plane is an X-Z plane, parallel to the ground, which (in humans) separates the superior from the inferior or, put another way, the head from the feet.
 * A coronal (also known as frontal) plane is a X-Y plane, perpendicular to the ground, which (in humans) separates the anterior from the posterior, the front from the back, the ventral from the dorsal.
 
-## Anatomical axes
+## Anatomical Axes
 
 To begin with, distinct, polar-opposite ends of the organism are chosen. By definition, each pair of opposite points defines an axis. In a bilaterally symmetrical organism, there are 6 polar opposite points, giving three axes that intersect at right angles – the x, y, and z axes familiar from three-dimensional geometry.
 
@@ -40,22 +40,22 @@ setwd("~/Dropbox/R/neuroanatomy-text-master")
 
 comparison <-  as_tibble(read.csv("data/axes.csv"))
 
-knitr::kable(comparison, col.names = c("Axis","Directional term","Directed towards"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "Comparison of the main features of prokaryotic and eukaryotic cells.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "30em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "10em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
+knitr::kable(comparison, col.names = c("Axis","Directional term","Directed towards"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "The main anatomical axes.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "30em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "10em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
 ```
 
 The terms "intermediate", "ipsilateral", "contralateral", "superficial", and "deep", while indicating directions, are relative terms and thus do not properly define fixed anatomical axes. Also, while the "rostrocaudal" and anteroposterior directionality are equivalent in a significant portion of the human body, they are different directions in other parts of the body.
 
-## Main anatomical terms
+## Main Anatomical Terms
 
-### Superior and inferior
+### Superior And Inferior
 
 In anatomical terminology superior (from Latin, meaning 'above') is used to refer to what is above something, and inferior (from Latin, meaning 'below') to what is below it. For example, in the anatomical position the most superior part of the human body is the head, and the most inferior is the feet. As a second example, in humans the neck is superior to the chest but inferior to the head.
 
-### Anterior and posterior
+### Anterior And Posterior
 
 Anterior refers to what is in front (from Latin ante, meaning "before") and posterior, what is to the back of the subject (from Latin post, meaning "after"). For example, in a dog the nose is anterior to the eyes and the tail is considered the most posterior part; in many fish the gill openings are posterior to the eyes, but anterior to the tail. In projectional radiography terminology, an anteroposterior (AP) projection is taken with the X-ray generator anteriorly (such as in the front of a human), and the X-ray detector posteriorly. In contrast, a posteroanterior (PA) projection is taken with the X-ray generator posteriorly.
 
-### Medial and lateral
+### Medial And Lateral
 
 Lateral (from Latin lateralis, meaning 'to the side') refers to the sides of an animal, as in "left lateral" and "right lateral". The term medial (from Latin medius, meaning 'middle') is used to refer to structures close to the centre of an organism, called the "median plane". For example, in a human, imagine a line down the center of the body from the head though the navel and going between the legs— the medial side of the foot would be the big toe side; the medial side of the knee would be the side adjacent to the other knee. To describe the sides of the knees touching each other would be "right medial" and "left medial".
 
@@ -73,11 +73,11 @@ Terms derived from medial include:
 * Inferomedial (from Latin inferus, meaning 'lower'): lower and in or near the midline. For example, the human nose is inferomedial to the eyes.
 *       Superomedial (from Latin superus, meaning 'above'): above and toward the midline. For example, the human nose is superomedial to the mouth.
 
-### Central and peripheral
+### Central And Peripheral
 
 Central and peripheral are terms that are closely related to concepts such as proximal and distal, but they are so widely applicable that in many respects their flexibility makes them hard to define. Loosely speaking, they distinguish near and far, inside and out, or even organs of vital importance such as heart and lungs, from peripheral organs such as fingers, that undoubtedly may be important, but which it may not be life-threatening to dispense with. Examples of the application of the terms are the distinction between central- and peripheral nervous systems, and between peripheral blood vessels and the central circulatory organs, such as the heart and major vessels. The terms also can apply to large and complex molecules such as proteins, where central amino acid residues are protected from antibodies or the like, but peripheral residues are important in docking and other interactions. Other examples include Central and peripheral circadian clocks, and central versus peripheral vision.
 
-### Superficial and deep
+### Superficial And Deep
 
 These two terms relate to the distance of a structure from the surface of an animal.
 
@@ -85,7 +85,7 @@ Deep (from Old English) refers to something further away from the surface of the
 
 Superficial (from Latin superficies, meaning 'surface') refers to something near the outer surface of the organism. For example, in skin the epidermis is superficial to the subcutis.
 
-### Dorsal and ventral
+### Dorsal And Ventral
 
 These two terms, used in anatomy and embryology, refer to back (dorsal) and front or belly (ventral) of an organism.
 
@@ -95,9 +95,9 @@ The ventral (from Latin venter, meaning 'belly') surface refers to the front, or
 
 For example, in a fish the pectoral fins are dorsal to the anal fin, but ventral to the dorsal fin.
 
-#### Cranial and caudal
+#### Cranial And Caudal
  
-(ref: roscau) [In the human skull the terms rostral and caudal are adapted to the curved neuraxis of Hominidae](https://commons.wikimedia.org/wiki/File:Rostralcaudal.svg)
+(ref:roscau) [In the human skull the terms rostral and caudal are adapted to the curved neuraxis of Hominidae](https://commons.wikimedia.org/wiki/File:Rostralcaudal.svg)
 
 ```{r rostralcaudal, fig.cap='(ref:roscau)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/appendix/Rostralcaudal.svg")
@@ -135,7 +135,7 @@ Several other terms are also used to describe location. These terms are not used
 * Inter- (from Latin inter, meaning 'between'): between two other structures. For example, the navel is intermediate to the left arm and the contralateral (right) leg. The intercostal muscles run between the ribs.
 * Super- or Supra- (from Latin super, supra, meaning 'above, on top of, beyond etc') appended as a prefix, with or without the hyphen, as in superciliary arches or supraorbital
 
-# Neuroanatomical terms
+# Neuroanatomical Terms
 
 ## Nucleus
 

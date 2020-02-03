@@ -26,7 +26,7 @@ The cerebrum, brainstem, cerebellum, and spinal cord are covered by three membra
 
 The meninges (from Ancient Greek: μῆνιγξ, romanized: mēninx, lit. 'membrane', adjectival: meningeal) are the three membranes that envelop the brain and spinal cord. In mammals, the meninges are the dura mater, the arachnoid mater, and the pia mater. Cerebrospinal fluid is located in the subarachnoid space between the arachnoid mater and the pia mater. The primary function of the meninges is to protect the central nervous system.
 
-### Dura mater
+### Dura Mater
 
 The dura mater (Latin: tough mother) (also rarely called meninx fibrosa or pachymeninx) is a thick, durable membrane, closest to the skull and vertebrae. The dura mater, the outermost part, is a loosely arranged, fibroelastic layer of cells, characterized by multiple interdigitating cell processes, no extracellular collagen [source?], and significant extracellular spaces. The middle region is a mostly fibrous portion. It consists of two layers: the endosteal layer, which lies closest to the skull, and the inner meningeal layer, which lies closer to the brain. It contains larger blood vessels that split into the capillaries in the pia mater. It is composed of dense fibrous tissue, and its inner surface is covered by flattened cells like those present on the surfaces of the pia mater and arachnoid mater. The dura mater is a sac that envelops the arachnoid mater and surrounds and supports the large dural sinuses carrying blood from the brain toward the heart.
 
@@ -37,7 +37,7 @@ The dura has four areas of infolding:
 * Falx cerebelli, vertical infolding; lies inferior to the tentorium cerebelli, separating the cerebellar hemispheres.
 * Diaphragma sellae, smallest infolding; covers the pituitary gland and sella turcica.
 
-### Arachnoid mater
+### Arachnoid Mater
 
 The middle element of the meninges is the arachnoid mater, so named because of its spider web-like appearance. It cushions the central nervous system. This thin, transparent membrane is composed of fibrous tissue and, like the pia mater, is covered by flat cells also thought to be impermeable to fluid.
 
@@ -45,19 +45,19 @@ The shape of the arachnoid does not follow the convolutions of the surface of th
 
 The arachnoid barrier layer is characterized by a distinct continuous basal lamina on its inner surface toward the innermost collagenous portion of the arachnoid reticular layer.
 
-### Pia mater
+### Pia Mater
 
 The pia mater (Latin: tender mother) is a very delicate membrane. It is the meningeal envelope that firmly adheres to the surface of the brain and spinal cord, following all of the brain's contours (the gyri and sulci). It is a very thin membrane composed of fibrous tissue covered on its outer surface by a sheet of flat cells thought to be impermeable to fluid. The pia mater is pierced by blood vessels to the brain and spinal cord, and its capillaries nourish the brain.
 
 The arachnoid and pia mater together are sometimes called the leptomeninges, literally "thin meninges" (Greek: λεπτός "leptos"—"thin"). Acute meningococcal meningitis can lead to an exudate within the leptomeninges along the surface of the brain. Because the arachnoid is connected to the pia by cob-web like strands, it is structurally continuous with the pia, hence the name pia-arachnoid or leptomeninges. They are responsible for the production of beta-trace protein (prostaglandin D2 synthase), a major cerebrospinal fluid protein.
 
-### Subarachnoid spaces
+### Subarachnoid Spaces
 
 The subarachnoid space is the space that normally exists between the arachnoid and the pia mater, which is filled with cerebrospinal fluid, and continues down the spinal cord. Spaces are formed from openings at different points along the subarachnoid space; these are the subarachnoid cisterns, which are filled with cerebrospinal fluid.
 
 The dura mater is attached to the skull, whereas in the spinal cord, the dura mater is separated from the vertebrae by a space called the epidural space, which contains fat and blood vessels. The arachnoid is attached to the dura mater, while the pia mater is attached to the central nervous system tissue. When the dura mater and the arachnoid separate through injury or illness, the space between them is the subdural space. There is a subpial space underneath the pia mater that separates it from the glia limitans.
 
-## The Ventricular system
+## The Ventricular System
 
 The ventricular system is a set of four interconnected cavities (ventricles) in the brain, where the cerebrospinal fluid (CSF) is produced. Within each ventricle is a region of choroid plexus, a network of ependymal cells involved in the production of CSF. The ventricular system is continuous with the central canal of the spinal cord (from the fourth ventricle), allowing for the flow of CSF to circulate. All of the ventricular system and the central canal of the spinal cord are lined with ependyma, a specialised form of epithelium.
 
@@ -114,7 +114,7 @@ The blood-brain barrier acts effectively to protect the brain from circulating p
 
 The blood-brain barrier may become leaky in select neurological diseases, such as amyotrophic lateral sclerosis, epilepsy, brain trauma and edema, and in systemic diseases, such as liver failure. The blood-brain barrier becomes more permeable during inflammation, allowing antibiotics and phagocytes to move across the BBB. However, this also allows bacteria and viruses to infiltrate the blood-brain barrier. Examples of pathogens that can traverse the blood-brain barrier include Toxoplasma gondii which causes toxoplasmosis, spirochetes like Borrelia (Lyme disease), Group B streptococci which causes meningitis in newborns, and Treponema pallidum which causes syphilis. Some of these harmful bacteria gain access by releasing cytotoxins like pneumolysin which have a direct toxic effect on brain microvascular endothelium and tight junctions.
 
-### Circumventricular organs
+### Circumventricular Organs
 
 Circumventricular organs (CVOs) are individual structures located adjacent to the fourth ventricle or third ventricle in the brain, and are characterized by dense capillary beds with permeable endothelial cells unlike those of the blood-brain barrier. Included among CVOs having highly permeable capillaries are the area postrema, subfornical organ, vascular organ of the lamina terminalis, median eminence, pineal gland, and three lobes of the pituitary gland.
 
@@ -130,7 +130,7 @@ However, in a later experiment in 1913, Edwin Goldmann (one of Ehrlich's student
 
 The cerebrum is the largest part of the brain, and is divided into nearly symmetrical left and right hemispheres by a deep groove, the longitudinal fissure. Asymmetry between the lobes is noted as a petalia. The hemispheres are connected by five commissures that span the longitudinal fissure, the largest of these is the corpus callosum. Each hemisphere is conventionally divided into four main lobes; the frontal lobe, parietal lobe, temporal lobe, and occipital lobe, named according to the skull bones that overlie them. Each lobe is associated with one or two specialised functions though there is some functional overlap between them. The surface of the brain is folded into ridges (gyri) and grooves (sulci), many of which are named, usually according to their position, such as the frontal gyrus of the frontal lobe or the central sulcus separating the central regions of the hemispheres. There are many small variations in the secondary and tertiary folds.
 
-### The cerebral cortex
+### The Cerebral Cortex
 
 The outer part of the cerebrum is the cerebral cortex, made up of grey matter arranged in layers. It is 2 to 4 millimetres (0.079 to 0.157 in) thick, and deeply folded to give a convoluted appearance. Beneath the cortex is the cerebral white matter. Based on the differences in laminar organization the cerebral cortex can be classified into two types, the large area of neocortex which has six cell layers, and the much smaller area of allocortex that has three or four layers:
 
@@ -194,7 +194,7 @@ The cerebrum or telencephalon is a large part of the brain containing the cerebr
 
 With the assistance of the cerebellum, the cerebrum controls all voluntary actions in the human body.
 
-### The basal ganglia
+### The Basal Ganglia
 
 The basal ganglia (or basal nuclei) are a group of subcortical nuclei, of varied origin, in the brains of vertebrates, including humans, which are situated at the base of the forebrain and top of the midbrain. There are some differences in the basal ganglia of primates. Basal ganglia are strongly interconnected with the cerebral cortex, thalamus, and brainstem, as well as several other brain areas. The basal ganglia are associated with a variety of functions, including control of voluntary motor movements, procedural learning, habit learning, eye movements, cognition, and emotion.
 
@@ -208,25 +208,25 @@ The basal ganglia form a fundamental component of the cerebrum. In contrast to t
 
 In terms of anatomy, the basal ganglia are divided into four distinct structures, depending on how superior or rostral they are (in other words depending on how close to the top of the head they are): Two of them, the striatum and the pallidum, are relatively large; the other two, the substantia nigra and the subthalamic nucleus, are smaller. In the illustration to the right, two coronal sections of the human brain show the location of the basal ganglia components. Of note, and not seen in this section, the subthalamic nucleus and substantia nigra lie farther back (posteriorly) in the brain than the striatum and pallidum.
 
-#### The striatum
+#### The Striatum
 
 The striatum is a subcortical structure generally divided into the dorsal striatum and ventral striatum, although a medial lateral classification has been suggested to be more relevant behaviorally and is being more widely used.
 
 The striatum is composed mostly of medium spiny neurons. These GABAergic neurons project to the external (lateral) globus pallidus and internal (medial) globus pallidus as well as the substantia nigra pars reticulata. The projections into the globus pallidus and substantia nigra are primarily dopaminergic, although enkephalin, dynorphin and substance P are expressed. The striatum also contains interneurons that are classified into nitrergic neurons (due to use of nitric oxide as a neurotransmitter), tonically active[clarification needed] cholinergic interneurons, parvalbumin-expressing neurons and calretinin-expressing neurons. The dorsal striatum receives significant glutamatergic inputs from the cortex, as well as dopaminergic inputs from the substantia nigra pars compacta. The dorsal striatum is generally considered to be involved in sensorimotor activities. The ventral striatum receives glutamatergic inputs from the limbic areas as well as dopaminergic inputs from the VTA, via the mesolimbic pathway. The ventral striatum is believed to play a role in reward and other limbic functions. The dorsal striatum is divided into the caudate and putamen by the internal capsule while the ventral striatum is composed of the nucleus accumbens and olfactory tubercle. The caudate has three primary regions of connectivity, with the head of the caudate demonstrating connectivity to the prefrontal cortex, cingulate cortex and amygdala. The body and tail show differentiation between the dorsolateral rim and ventral caudate, projecting to the sensorimotor and limbic regions of the striatum respectively. Striatopallidal fibres connect the striatum to the pallidus.
 
-#### The pallidum
+#### The Pallidum
 
 The pallidum consists of a large structure called the globus pallidus ("pale globe") together with a smaller ventral extension called the ventral pallidum. The globus pallidus appears as a single neural mass, but can be divided into two functionally distinct parts, called the internal (or medial) and external (lateral) segments, abbreviated GPi and GPe. Both segments contain primarily GABAergic neurons, which therefore have inhibitory effects on their targets. The two segments participate in distinct neural circuits. The GPe receives input mainly from the striatum, and projects to the subthalamic nucleus. The GPi receives signals from the striatum via the "direct" and "indirect" pathways. Pallidal neurons operate using a disinhibition principle. These neurons fire at steady high rates in the absence of input, and signals from the striatum cause them to pause or reduce their rate of firing. Because pallidal neurons themselves have inhibitory effects on their targets, the net effect of striatal input to the pallidum is a reduction of the tonic inhibition exerted by pallidal cells on their targets (disinhibition) with an increased rate of firing in the targets.
 
-#### The substantia nigra
+#### The Substantia Nigra
 
 The substantia nigra is a midbrain gray matter portion of the basal ganglia that has two parts – the pars compacta (SNc) and the pars reticulata (SNr). SNr often works in unison with GPi, and the SNr-GPi complex inhibits the thalamus. Substantia nigra pars compacta (SNc) however, produces the neurotransmitter dopamine, which is very significant in maintaining balance in the striatal pathway. The circuit portion below explains the role and circuit connections of each of the components of the basal ganglia.
 
-#### The subthalamic nucleus
+### The subthalamic nucleus
 
 The subthalamic nucleus is a diencephalic gray matter portion of the basal ganglia, and the only portion of the ganglia that produces an excitatory neurotransmitter, glutamate. The role of the subthalamic nucleus is to stimulate the SNr-GPi complex and it is part of the indirect pathway. The subthalamic nucleus receives inhibitory input from the external part of the globus pallidus and sends excitatory input to the GPi.
 
-### Thalamus
+### The Thalamus
 
 The thalamus (from Greek θάλαμος, "chamber") is a large mass of gray matter located in the dorsal part of the diencephalon (a division of the forebrain). Nerve fibers project out of the thalamus to the cerebral cortex in all directions, allowing hub-like exchanges of information. It has several functions, such as relaying of sensory signals, including motor signals to the cerebral cortex,[page needed] and the regulation of consciousness, sleep, and alertness.
 
@@ -248,7 +248,7 @@ The neuronal information processes necessary for motor control were proposed as 
 
 Recent research suggests that the mediodorsal thalamus may play a broader role in cognition. Specifically, the mediodorsal thalamus may "amplify the connectivity (signaling strength) of just the circuits in the cortex appropriate for the current context and thereby contribute to the flexibility (of the mammalian brain) to make complex decisions by wiring the many associations on which decisions depend into weakly connected cortical circuits." Researchers founds that "enhancing MD activity magnified the ability of mice to “think,” driving down by more than 25 percent their error rate in deciding which conflicting sensory stimuli to follow to find the reward." 
 
-### Hypothalamus
+### The Hypothalamus
 
 The hypothalamus is a portion of the brain that contains a number of small nuclei with a variety of functions. One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland. The hypothalamus is located below the thalamus and is part of the limbic system. In the terminology of neuroanatomy, it forms the ventral part of the diencephalon. All vertebrate brains contain a hypothalamus. In humans, it is the size of an almond. The hypothalamus is responsible for the regulation of certain metabolic processes and other activities of the autonomic nervous system. It synthesizes and secretes certain neurohormones, called releasing hormones or hypothalamic hormones, and these in turn stimulate or inhibit the secretion of hormones from the pituitary gland. The hypothalamus controls body temperature, hunger, important aspects of parenting and attachment behaviours, thirst, fatigue, sleep, and circadian rhythms. The hypothalamus derives its name from Greek ὑπό, under and θάλαμος, chamber.
 
@@ -256,7 +256,7 @@ The hypothalamus has a central neuroendocrine function, most notably by its cont
 
 In the hypothalamic–adenohypophyseal axis, releasing hormones, also known as hypophysiotropic or hypothalamic hormones, are released from the median eminence, a prolongation of the hypothalamus, into the hypophyseal portal system, which carries them to the anterior pituitary where they exert their regulatory functions on the secretion of adenohypophyseal hormones. These hypophysiotropic hormones are stimulated by parvocellular neurosecretory cells located in the periventricular area of the hypothalamus. After their release into the capillaries of the third ventricle, the hypophysiotropic hormones travel through what is known as the hypothalamo-pituitary portal circulation. Once they reach their destination in the anterior pituitary, these hormones bind to specific receptors located on the surface of pituitary cells. Depending on which cells are activated through this binding, the pituitary will either begin secreting or stop secreting hormones into the rest of the bloodstream.
 
-### The midbrain
+### The Midbrain
 
 The midbrain or mesencephalon is the rostral-most portion of the brainstem and is associated with vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation.
 
@@ -264,7 +264,7 @@ The principal regions of the midbrain are the tectum, the cerebral aqueduct, teg
 
 Sectioning of the midbrain is usually performed axially, at one of two levels – that of the superior colliculi, or that of the inferior colliculi. One common technique for remembering the structures of the midbrain involves visualizing these cross-sections (especially at the level of the superior colliculi) as the upside-down face of a bear, with the cerebral peduncles forming the ears, the cerebral aqueduct the mouth, and the tectum the chin; prominent features of the tegmentum form the eyes and certain sculptural shadows of the face.
 
-#### Tectum
+#### The Tectum
 
 The tectum (Latin for roof) is the dorsal side of the midbrain. The position of the tectum is contrasted with the tegmentum, which refers to the region in front of the ventricular system, or floor of the midbrain.
 
@@ -278,7 +278,7 @@ The cerebral aqueduct is the part of the ventricular system which links the thir
 
 The nuclei of two pairs of cranial nerves are similarly located at the ventral side of the periaqueductal grey – the pair of oculomotor nuclei (which control the eyelid, and most eye movements) is located at the level of the superior colliculus, while the pair of trochlear nuclei (which helps focus vision on more proximal objects) is located caudally to that, at the level of the inferior colliculus, immediatetly lateral to the dorsal raphe nucleus. The oculomotor nerve emerges from the nucleus by traversing the ventral width of the tegmentum, while the trochlear nerve emerges via the tectum, just below the inferior colliculus itself; the trochlear is the only cranial nerve to exit the brainstem dorsally. The Edinger-Westphal nucleus (which controls the shape of the lens and size of the pupil) is located between the oculomotor nucleus and the cerebral aqueduct.
 
-#### The tegmentum
+#### The Tegmentum
 
 The midbrain tegmentum is the portion of the midbrain ventral to the cerebral aqueduct, and is much larger in size than the tectum. It communicates with the cerebellum by the superior cerebellar peduncles, which enter at the caudal end, medially, on the ventral side; the cerebellar peduncles are distinctive at the level of the inferior colliculus, where they decussate, but they dissipate more rostrally. Between these peduncles, on the ventral side, is the median raphe nucleus, which is involved in memory consolidation.
 
@@ -292,7 +292,7 @@ The majority of each lobe constitutes the cerebral crus. The cerebral crura are 
 
 The portion of the lobes in connection with the tegmentum, except the most lateral portion, is dominated by a blackened band – the substantia nigra (literally black substance) – which is the only part of the basal ganglia system outside the forebrain. It is ventrally wider at the rostral end. By means of the basal ganglia, the substantia nigra is involved in motor-planning, learning, addiction, and other functions. There are two regions within the substantia nigra – one where neurons are densely packed (the pars compacta) and one where they aren't (the pars reticulata), which serve a different role from one another within the basal ganglia system. The substantia nigra has extremely high production of melanin (hence the colour), dopamine, and noradrenalin; the loss of dopamine-producing neurons in this region contributes to the progression of Parkinson's disease.
 
-### Cerebellum
+### The Cerebellum
 
 The cerebellum (Latin for "little brain") is a major feature of the hindbrain of all vertebrates. Although usually smaller than the cerebrum, in some animals such as the mormyrid fishes it may be as large as or even larger. In humans, the cerebellum plays an important role in motor control. It may also be involved in some cognitive functions such as attention and language as well as in regulating fear and pleasure responses, but its movement-related functions are the most solidly established. The human cerebellum does not initiate movement, but contributes to coordination, precision, and accurate timing: it receives input from sensory systems of the spinal cord and from other parts of the brain, and integrates these inputs to fine-tune motor activity. Cerebellar damage produces disorders in fine movement, equilibrium, posture, and motor learning in humans.
 
@@ -359,7 +359,7 @@ Damage to the cerebellum often causes motor-related symptoms, the details of whi
 
 The cerebellum is provided with blood from three paired major arteries: the superior cerebellar artery (SCA), the anterior inferior cerebellar artery (AICA), and the posterior inferior cerebellar artery (PICA). The SCA supplies the upper region of the cerebellum. It divides at the upper surface and branches into the pia mater where the branches anastomose with those of the anterior and posterior inferior cerebellar arteries. The AICA supplies the front part of the undersurface of the cerebellum. The PICA arrives at the undersurface, where it divides into a medial branch and a lateral branch. The medial branch continues backward to the cerebellar notch between the two hemispheres of the cerebellum; while the lateral branch supplies the under surface of the cerebellum, as far as its lateral border, where it anastomoses with the AICA and the SCA.
 
-### Brainstem
+### The Brainstem
 
 The brainstem lies beneath the cerebrum and consists of the midbrain, pons and medulla. It lies in the back part of the skull, resting on the part of the base known as the clivus, and ends at the foramen magnum, a large opening in the occipital bone. The brainstem continues below this as the spinal cord, protected by the vertebral column.
 
@@ -373,7 +373,7 @@ The internal carotid arteries are branches of the common carotid arteries. They 
 
 The vertebral arteries emerge as branches of the left and right subclavian arteries. They travel upward through transverse foramina which are spaces in the cervical vertebrae. Each side enters the cranial cavity through the foramen magnum along the corresponding side of the medulla. They give off one of the three cerebellar branches. The vertebral arteries join in front of the middle part of the medulla to form the larger basilar artery, which sends multiple branches to supply the medulla and pons, and the two other anterior and superior cerebellar branches. Finally, the basilar artery divides into two posterior cerebral arteries. These travel outwards, around the superior cerebellar peduncles, and along the top of the cerebellar tentorium, where it sends branches to supply the temporal and occipital lobes. Each posterior cerebral artery sends a small posterior communicating artery to join with the internal carotid arteries.
 
-## Spinal cord
+## The Spinal cord
 
 The spinal cord is a long, thin, tubular structure made up of nervous tissue, which extends from the medulla oblongata in the brainstem to the lumbar region of the vertebral column. It encloses the central canal of the spinal cord, which contains cerebrospinal fluid. The brain and spinal cord together make up the central nervous system (CNS). In humans, the spinal cord begins at the occipital bone, passing through the foramen magnum and entering the spinal canal at the beginning of the cervical vertebrae. The spinal cord extends down to between the first and second lumbar vertebrae, where it ends. The enclosing bony vertebral column protects the relatively shorter spinal cord. It is around 45 cm (18 in) in men and around 43 cm (17 in) long in women. The diameter of the spinal cord ranges from 13 mm (1⁄2 in) in the cervical and lumbar regions to 6.4 mm (1⁄4 in) in the thoracic area.
 
@@ -440,7 +440,7 @@ Sometimes, these two naming conventions coexist. For example, the name "pyramida
 
 In the cerebellum one of the two major pathways is that of the mossy fibers. Mossy fibers project directly to the deep nuclei, but also give rise to the following pathway: mossy fibers → granule cells → parallel fibers → Purkinje cells → deep nuclei. The other main pathway is from the climbing fibers and these project to Purkinje cells and also send collaterals directly to the deep nuclei.
 
-### The Corpus callosum
+### The Corpus Callosum
 
 The corpus callosum (Latin for "tough body"), also callosal commissure, is a wide, thick nerve tract, consisting of a flat bundle of commissural fibers, beneath the cerebral cortex in the brain. The corpus callosum is only found in placental mammals. It spans part of the longitudinal fissure, connecting the left and right cerebral hemispheres, enabling communication between them. It is the largest white matter structure in the human brain, about ten centimetres in length and consisting of 200–300 million axonal projections.
 
@@ -470,7 +470,7 @@ Thinner axons in the genu connect the prefrontal cortex between the two halves o
 
 In a study of five- to eighteen-year-olds there was found to be a positive correlation between age and callosal thickness.
 
-### The Pyramidal tracts
+### The Pyramidal Tracts
 
 The pyramidal tracts include both the corticobulbar tract and the corticospinal tract. These are aggregations of efferent nerve fibers from the upper motor neurons that travel from the cerebral cortex and terminate either in the brainstem (corticobulbar) or spinal cord (corticospinal) and are involved in the control of motor functions of the body.
 
@@ -486,7 +486,7 @@ The term pyramidal tracts refers to upper motor neurons that originate in the ce
 
 There is some variation in terminology. The pyramidal tracts definitively encompass the corticospinal tracts, and many authors also include the corticobulbar tracts.
 
-### Corticospinal tract
+### The Corticospinal Tract
 
 Nerve fibres in the corticospinal tract originate from pyramidal cells in layer V of the cerebral cortex. Fibres arise from the primary motor cortex (about 30%), supplementary motor area and the premotor cortex (together also about 30%), and the somatosensory cortex, parietal lobe, and cingulate gyrus supplies the rest. The cells have their bodies in the cerebral cortex, and the axons form the bulk of the pyramidal tracts. The nerve axons travel from the cortex through the posterior limb of internal capsule, through the cerebral peduncle and into the brainstem and anterior medulla oblongata. Here they form two prominences called the medulla oblongatary pyramids. Below the prominences, the majority of axons cross over to the opposite side from which they originated, known as decussation. The axons that cross over move to the outer part of the medulla oblongata and form the lateral corticospinal tract, whereas the fibres that remain form the anterior corticospinal tract. About 80% of axons cross over and form the lateral corticospinal tract; 10% do not cross over and join the tract, and 10% of fibres travel in the anterior corticospinal tract.
 
@@ -494,7 +494,7 @@ The nerve axons traveling down the tract are the efferent nerve fibers of the up
 
 These tracts contain more than 1 million axons and the majority of the axons are myelinated. The corticospinal tracts myelinate largely during the first and second years after birth. The majority of nerve axons are small (<4μm) in diameter. About 3% of nerve axons have a much larger diameter (16μm) and arise from Betz cells, mostly in the leg area of the primary motor cortex. These cells are notable because of their rapid conduction rate, over 70m/sec, the fastest conduction of any signals from the brain to the spinal cord.
 
-### Corticobulbar tract
+### The Corticobulbar Tract
 
 Fibres from the ventral motor cortex travel with the corticospinal tract through the internal capsule, but terminate in a number of locations in the midbrain (cortico-mesencephalic tract), pons (Corticopontine tract), and medulla oblongata (cortico-bulbar tract). The upper motor neurons of the corticobulbar tract synapse with interneurons or directly with the lower motor neurons located in the motor cranial nerve nuclei, namely oculomotor, trochlear, motor nucleus of the trigeminal nerve, abducens, facial nerve and accessory and in the nucleus ambiguus to the hypoglossal, vagus and accessory nerves. These nuclei are supplied by nerves from both sides of the brain, with the exception of the parts of the facial nerve that control muscles of the lower face. These muscles are only innervated by nerves from the contralateral (opposite) side of the cortex.
 
@@ -508,11 +508,11 @@ If the corticobulbar tract is damaged on only one side, then only the lower face
 
 Severe disabling involuntary movements such as hemiballismus or severe chorea might exhaust the patient and become a life threatening situation. In the past, this condition was treated by partial section of the pyramidal tract either at the primary motor cortex or at the cruz cerebri (pedunculotomy).
 
-### Corticopontine fibers
+### The Corticopontine Fibers
 
 Corticopontine fibers are projections from the cerebral cortex to the pontine nuclei. Depending upon the lobe of origin, they can be classified as frontopontine fibers, parietopontine fibers, temporopontine fibers or occipitopontine fibers.
 
-### Cerebral peduncle
+### The Cerebral Peduncle
 
 The cerebral peduncles are structures at the front of the midbrain which arise from the front of the pons and contain the large ascending (sensory) and descending (motor) nerve tracts that run to and from the cerebrum from the pons. Mainly, the three common areas that give rise to the cerebral peduncles are the cerebral cortex, the spinal cord and the cerebellum. The cerebral peduncle, by most classifications, is everything in the midbrain except the tectum. The region includes the tegmentum, crus cerebri and pretectum. By this definition, the cerebral peduncles are also known as the basis pedunculi, while the large ventral bundle of efferent fibers is referred to as the cerebral crus or the pes pedunculi.
 
@@ -524,7 +524,7 @@ The descending upper fibers from the internal capsule continue on through the mi
 
 Cranial nerve 3 (oculomotor nerve) appears ventrally between the two cerebral peduncles in the interpeduncular fossa. Cranial nerve 4 (trochlear nerve) wraps around the lowest part of the cerebral peduncle.
 
-### Spinal tracts
+### The Spinal Tracts
 
 The somatosensory organization of the spinal cord is divided into the dorsal column-medial lemniscus tract (the touch/proprioception/vibration sensory pathway) and the anterolateral system, or ALS (the pain/temperature sensory pathway). Both sensory pathways use three different neurons to get information from sensory receptors at the periphery to the cerebral cortex. These neurons are designated primary, secondary and tertiary sensory neurons. In both pathways, primary sensory neuron cell bodies are found in the dorsal root ganglia, and their central axons project into the spinal cord.
 
@@ -546,7 +546,7 @@ The function of lower motor neurons can be divided into two different groups: th
 
 The anterior corticospinal tract descends ipsilaterally in the anterior column, where the axons emerge and either synapse on lower ventromedial (VM) motor neurons in the ventral horn ipsilaterally or descussate at the anterior white commissure where they synapse on VM lower motor neurons contralaterally . The tectospinal, vestibulospinal and reticulospinal descend ipsilaterally in the anterior column but do not synapse across the anterior white commissure. Rather, they only synapse on VM lower motor neurons ipsilaterally. The VM lower motor neurons control the large, postural muscles of the axial skeleton. These lower motor neurons, unlike those of the DL, are located in the ventral horn all the way throughout the spinal cord.
 
-### Spinocerebellar tracts
+### The Spinocerebellar Tracts
 
 Proprioceptive information in the body travels up the spinal cord via three tracks. Below L2, the proprioceptive information travels up the spinal cord in the ventral spinocerebellar tract. Also known as the anterior spinocerebellar tract, sensory receptors take in the information and travel into the spinal cord. The cell bodies of these primary neurons are located in the dorsal root ganglia. In the spinal cord, the axons synapse and the secondary neuronal axons decussates and then travel up to the superior cerebellar peduncle where they decussate again. From here, the information is brought to deep nuclei of the cerebellum including the fastigial and interposed nuclei.
 
@@ -558,7 +558,7 @@ Motor information travels from the brain down the spinal cord via descending spi
 
 The spinal cord ends at the level of vertebrae L1–L2, while the subarachnoid space —the compartment that contains cerebrospinal fluid— extends down to the lower border of S2. Lumbar punctures in adults are usually performed between L3–L5 (cauda equina level) in order to avoid damage to the spinal cord. In the fetus, the spinal cord extends the full length of the spine and regresses as the body grows.
 
-## Sensory maps
+## Sensory Maps
 
 Sensory maps are areas of the brain which respond to sensory stimulation, and are spatially organized according to some feature of the sensory stimulation. In some cases the sensory map is simply a topographic representation of a sensory surface such as the skin, cochlea, or retina. In other cases it represents other stimulus properties resulting from neuronal computation and is generally ordered in a manner that reflects the periphery. An example is the somatosensory map which is a projection of the skin's surface in the brain that arranges the processing of tactile sensation. This type of somatotopic map is the most common, possibly because it allows for physically neighboring areas of the brain to react to physically similar stimuli in the periphery or because it allows for greater motor control.
 
@@ -570,8 +570,19 @@ Filling In: When sensory stimulation is organized in the brain in some form of t
 Lateral Inhibition: Lateral inhibition is an organizing principle, it allows contrast in many systems from the visual to the somatosensory. This means that if adjacent areas inhibit one another then stimulation which activates one brain region can simultaneously inhibit the adjoining brain regions to create a sharper resolution between stimuli. This is evident in the visual system of humans where sharp lines can be detected between bright and dark regions because of simple cells which inhibit their neighbors.
 Summation: Organization also allows related stimuli to be summed in the neural assessment of sensory information. Examples of this are found in the summation of tactile inputs neurally or visual inputs under low light.
 
-
 Topographic maps may be thought of as a mapping of the surface of the body onto the brain structure. Phrased another way, topographic maps are organized in the neural system in a manner that is a projection of the sensory surface onto the brain. This means that the organization in the periphery mirrors the order of the information processing in the brain. This organization can be somatotopic, as in the tactile sense of touch, or tonotopic, as in the ear, and the retinotopic map which is laid out in the brain as the cells are arranged on the retina.
 
 * Wilder Penfield discovered the original topographic map in the form of the internal somatosensory Homunculus. His work on human neural systems showed that the brain areas that processed tactile sensations are mapped in the same fashion that the body is laid out. This sensory map exaggerates certain regions that have many peripheral sense cells like the lips and hands while reduces the relative space for processing areas with few receptors like the back.
 * Hair cells in the auditory system display tonotopic organization. This tonotopic arrangement means that cells are laid out to range from low frequency to high frequency and processed in that same organization within the brain.
+
+## The Cortical Homunculus
+
+A cortical homunculus is a distorted representation of the human body, based on a neurological "map" of the areas and proportions of the human brain dedicated to processing motor functions, or sensory functions, for different parts of the body. The word homunculus is Latin for "little man", and was a term used in alchemy and folklore long before scientific literature began using it. A cortical homunculus, or "cortex man", illustrates the concept of a representation of the body lying within the brain. Nerve fibres—conducting somatosensory information from all over the body—terminate in various areas of the parietal lobe in the cerebral cortex, forming a representational map of the body.
+
+A motor homunculus represents a map of brain areas dedicated to motor processing for different anatomical divisions of the body. The primary motor cortex is located in the precentral gyrus, and handles signals coming from the premotor area of the frontal lobes.
+
+A sensory homunculus represents a map of brain areas dedicated to sensory processing for different anatomical divisions of the body. The primary sensory cortex is located in the postcentral gyrus, and handles signals coming from the thalamus.
+
+Dr. Wilder Penfield and his co-investigators Edwin Boldrey and Theodore Rasmussen are considered to be the originators of the sensory and motor homunculi. They were not the first scientists to attempt to objectify human brain function by means of a homunculus. However, they were the first to differentiate between sensory and motor function and to map the two across the brain separately, resulting in two different homunculi. In addition, their drawings and later drawings derived from theirs became perhaps the most famous conceptual maps in modern neuroscience because they compellingly illustrated the data at a single glance.
+
+Penfield first conceived of his homunculi as a thought experiment, and went so far as to envision an imaginary world in which the homunculi lived, which he referred to as "if". He and his colleagues went on to experiment with electrical stimulation of different brain areas of patients undergoing open brain surgery to control epilepsy, and were thus able to produce the topographical brain maps and their corresponding homunculi.

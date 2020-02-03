@@ -10,7 +10,7 @@ In vertebrates, smells are sensed by olfactory sensory neurons in the olfactory 
 
 Molecules of odorants passing through the superior nasal concha of the nasal passages dissolve in the mucus that lines the superior portion of the cavity and are detected by olfactory receptors on the dendrites of the olfactory sensory neurons. This may occur by diffusion or by the binding of the odorant to odorant-binding proteins. The mucus overlying the epithelium contains mucopolysaccharides, salts, enzymes, and antibodies (these are highly important, as the olfactory neurons provide a direct passage for infection to pass to the brain). This mucus acts as a solvent for odor molecules, flows constantly, and is replaced approximately every ten minutes.
 
-## The nose
+## The Nose
 
 The human nose is the most protruding part of the face. It bears the nostrils and is the first organ of the respiratory system. It is also the principal organ in the olfactory system. The shape of the nose is determined by the nasal bones and the nasal cartilages, including the nasal septum which separates the nostrils and divides the nasal cavity into two. 
 
@@ -22,7 +22,7 @@ The peripheral olfactory system consists mainly of the nostrils, ethmoid bone, n
 
 Odor molecules can enter the peripheral pathway and reach the nasal cavity either through the nostrils when inhaling (olfaction) or through the throat when the tongue pushes air to the back of the nasal cavity while chewing or swallowing (retro-nasal olfaction). Inside the nasal cavity, mucus lining the walls of the cavity dissolves odor molecules. Mucus also covers the olfactory epithelium, which contains mucous membranes that produce and store mucus and olfactory glands that secrete metabolic enzymes found in the mucus.
 
-## Olfactory sensory neurons  
+## Olfactory Sensory Neurons  
 
 Humans have between 10 and 20 million olfactory receptor neurons.[3] In vertebrates, ORNs are bipolar neurons with dendrites facing the external surface of the cribriform plate with axons that pass through the cribriform foramina with terminal end at olfactory bulbs. The ORNs are located in the olfactory epithelium in the nasal cavity. The cell bodies of the ORNs are distributed among all three of the stratified layers of the olfactory epithelium.[4]
 
@@ -34,11 +34,11 @@ Rather than binding specific ligands, olfactory receptors display affinity for a
 
 Olfactory nerves and fibers transmit information about odors from the peripheral olfactory system to the central olfactory system of the brain, which is separated from the epithelium by the cribriform plate of the ethmoid bone. Olfactory nerve fibers, which originate in the epithelium, pass through the cribriform plate, connecting the epithelium to the brain's limbic system at the olfactory bulbs.
 
-## The olfactory bulb
+## The Olfactory Bulb
 
 The main olfactory bulb transmits pulses to both mitral and tufted cells, which help determine odor concentration based off the time certain neuron clusters fire (called 'timing code'). These cells also note differences between highly similar odors and use that data to aid in later recognition. The cells are different with mitral having low firing-rates and being easily inhibited by neighboring cells, while tufted have high rates of firing and are more difficult to inhibit.
 
-## The olfactory cortex
+## The Olfactory Cortex
 
 The uncus(an anterior extremity of the parahippocampal gyrus, a region that surrounds the hippocampus and is part of the limbic system) houses the olfactory cortex which includes the piriform cortex (posterior orbitofrontal cortex), amygdala, olfactory tubercle, and parahippocampal gyrus.
 
@@ -58,7 +58,7 @@ The orbitofrontal cortex (OFC) is heavily correlated with the cingulate gyrus an
 
 The anterior olfactory nucleus distributes reciprocal signals between the olfactory bulb and piriform cortex. The anterior olfactory nucleus is the memory hub for smell.
 
-## Olfactory pathways
+## Olfactory Pathways
 
 Olfactory sensory neurons project axons to the brain within the olfactory nerve, (cranial nerve I). These nerve fibers, lacking myelin sheaths, pass to the olfactory bulb of the brain through perforations in the cribriform plate, which in turn projects olfactory information to the olfactory cortex and other areas. The axons from the olfactory receptors converge in the outer layer of the olfactory bulb within small (≈50 micrometers in diameter) structures called glomeruli. Mitral cells, located in the inner layer of the olfactory bulb, form synapses with the axons of the sensory neurons within glomeruli and send the information about the odor to other parts of the olfactory system, where multiple signals may be processed to form a synthesized olfactory perception. A large degree of convergence occurs, with 25,000 axons synapsing on 25 or so mitral cells, and with each of these mitral cells projecting to multiple glomeruli. Mitral cells also project to periglomerular cells and granular cells that inhibit the mitral cells surrounding it (lateral inhibition). Granular cells also mediate inhibition and excitation of mitral cells through pathways from centrifugal fibers and the anterior olfactory nuclei. Neuromodulators like acetylcholine, serotonin and norepinephrine all send axons to the olfactory bulb and have been implicated in gain modulation, pattern separation, and memory functions, respectively.
 
@@ -81,4 +81,3 @@ After binding the odorant, the receptor is activated and will send a signal to t
 Although conventional wisdom and lay literature, based on impressionistic findings in the 1920s, have long presented human olfaction as capable of distinguishing between roughly 10,000 unique odors, recent research has suggested that the average individual is capable of distinguishing over one trillion unique odors. Researchers in the most recent study, which tested the psychophysical responses to combinations of over 128 unique odor molecules with combinations composed of up to 30 different component molecules, noted that this estimate is "conservative" and that some subjects of their research might be capable of deciphering between a thousand trillion odorants, adding that their worst performer could probably still distinguish between 80 million scents. Authors of the study concluded, "This is far more than previous estimates of distinguishable olfactory stimuli. It demonstrates that the human olfactory system, with its hundreds of different olfactory receptors, far out performs the other senses in the number of physically different stimuli it can discriminate." However, it was also noted by the authors that the ability to distinguish between smells is not analogous to being able to consistently identify them, and that subjects were not typically capable of identifying individual odor stimulants from within the odors the researchers had prepared from multiple odor molecules. In November 2014 the study was strongly criticized by Caltech scientist Markus Meister, who wrote that the study's "extravagant claims are based on errors of mathematical logic". The logic of his paper has in turn been criticized by the authors of the original paper.
 
 Different people smell different odors, and most of these differences are caused by genetic differences. Although odorant receptor genes make up one of the largest gene families in the human genome, only a handful of genes have been linked conclusively to particular smells. For instance, the odorant receptor OR5A1 and its genetic variants (alleles) are responsible for our ability (or failure) to smell β-ionone, a key aroma in foods and beverages. Similarly, the odorant receptor OR2J3 is associated with the ability to detect the "grassy" odor, cis-3-hexen-1-ol. The preference (or dislike) of cilantro (coriander) has been linked to the olfactory receptor OR6A2.
-

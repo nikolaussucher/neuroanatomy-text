@@ -55,7 +55,7 @@ The central retina predominantly contains cones, while the peripheral retina pre
 
 Though the rod and cones are a mosaic of sorts, transmission from receptors, to bipolars, to ganglion cells is not direct. Since there are about 150 million receptors and only 1 million optic nerve fibres, there must be convergence and thus mixing of signals. Moreover, the horizontal action of the horizontal and amacrine cells can allow one area of the retina to control another (e.g. one stimulus inhibiting another). This inhibition is key to lessening the sum of messages sent to the higher regions of the brain. In some lower vertebrates (e.g. the pigeon), there is a "centrifugal" control of messages – that is, one layer can control another, or higher regions of the brain can drive the retinal nerve cells, but in primates this does not occur.
 
-## The photoreceptors
+## The Photoreceptors
 
 A photoreceptor cell is a specialized type of neuroepithelial cell found in the retina that is capable of visual phototransduction. The great biological importance of photoreceptors is that they convert light (visible electromagnetic radiation) into signals that can stimulate biological processes. To be more specific, photoreceptor proteins in the cell absorb photons, triggering a change in the cell's membrane potential.
 
@@ -98,20 +98,14 @@ In the dark, cGMP levels are high and keep cGMP-gated sodium channels open allow
 
 The depolarization of the cell membrane in scotopic conditions opens voltage-gated calcium channels. An increased intracellular concentration of Ca^2+^ causes vesicles containing glutamate, a neurotransmitter, to merge with the cell membrane, therefore releasing glutamate into the synaptic cleft, an area between the end of one cell and the beginning of another neuron. Glutamate, though usually excitatory, functions here as an inhibitory neurotransmitter.
 
-In the cone pathway glutamate:
+In the cone pathway glutamate
 
 * Hyperpolarizes on-center bipolar cells. Glutamate that is released from the photoreceptors in the dark binds to metabotropic glutamate receptors (mGluR6), which, through a G-protein coupling mechanism, causes non-specific cation channels in the cells to close, thus hyperpolarizing the bipolar cell.
 * Depolarizes off-center bipolar cells. Binding of glutamate to ionotropic glutamate receptors results in an inward cation current that depolarizes the bipolar cell.
 
 In the light
 
-In summary: Light closes cGMP-gated sodium channels, reducing the influx of both Na^+^ and Ca^2+^ ions. Stopping the influx of Na^+^ ions effectively switches off the dark current. Reducing this dark current causes the photoreceptor to hyperpolarise, which reduces glutamate release which thus reduces the inhibition of retinal nerves, leading to excitation of these nerves. This reduced Ca^2+^ influx during phototransduction enables deactivation and recovery from phototransduction, as discussed in Visual phototransduction#Deactivation of the phototransduction cascade.
-
-(ref:steps) [Representation](https://commons.wikimedia.org/wiki/File:Phototransduction.png) of molecular steps in photoactivation (modified from Leskov et al., 2000). Depicted is an outer membrane disk in a rod. Step 1: Incident photon (hν) is absorbed and activates a rhodopsin by conformational change in the disk membrane to R*. Step 2: Next, R* makes repeated contacts with transducin molecules, catalyzing its activation to G* by the release of bound GDP in exchange for cytoplasmic GTP, which expels its β and γ subunits. Step 3: G* binds inhibitory γ subunits of the phosphodiesterase (PDE) activating its α and β subunits. Step 4: Activated PDE hydrolyzes cGMP. Step 5: Guanylyl cyclase (GC) synthesizes cGMP, the second messenger in the phototransduction cascade. Reduced levels of cytosolic cGMP cause cyclic nucleotide gated channels to close preventing further influx of Na^+^ and Ca^2+^.
-
-```{r molsteps, fig.cap='(ref:steps)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/visual/Phototransduction.png")
-```
+In summary: Light closes cGMP-gated sodium channels, reducing the influx of both Na^+^ and Ca^2+^ ions. Stopping the influx of Na^+^ ions effectively switches off the dark current. Reducing this dark current causes the photoreceptor to hyperpolarise, which reduces glutamate release which thus reduces the inhibition of retinal nerves, leading to excitation of these nerves. This reduced Ca^2+^ influx during phototransduction enables deactivation and recovery from phototransduction.
 
 1. A light photon interacts with the retinal in a photoreceptor cell. The retinal undergoes isomerisation, changing from the 11-cis to all-trans configuration.
 1. Opsin therefore undergoes a conformational change to metarhodopsin II.
@@ -122,6 +116,12 @@ knitr::include_graphics("./figures/visual/Phototransduction.png")
 1. Hyperpolarization of the cell causes voltage-gated calcium channels to close.
 1. As the calcium level in the photoreceptor cell drops, the amount of the neurotransmitter glutamate that is released by the cell also drops. This is because calcium is required for the glutamate-containing vesicles to fuse with cell membrane and release their contents (see SNARE proteins).
 1. A decrease in the amount of glutamate released by the photoreceptors causes depolarization of on-center bipolar cells (rod and cone On bipolar cells) and hyperpolarization of cone off-center bipolar cells.
+
+(ref:steps) [Representation](https://commons.wikimedia.org/wiki/File:Phototransduction.png) of molecular steps in photoactivation (modified from Leskov et al., 2000). Depicted is an outer membrane disk in a rod. Step 1: Incident photon (hν) is absorbed and activates a rhodopsin by conformational change in the disk membrane to R*. Step 2: Next, R* makes repeated contacts with transducin molecules, catalyzing its activation to G* by the release of bound GDP in exchange for cytoplasmic GTP, which expels its β and γ subunits. Step 3: G* binds inhibitory γ subunits of the phosphodiesterase (PDE) activating its α and β subunits. Step 4: Activated PDE hydrolyzes cGMP. Step 5: Guanylyl cyclase (GC) synthesizes cGMP, the second messenger in the phototransduction cascade. Reduced levels of cytosolic cGMP cause cyclic nucleotide gated channels to close preventing further influx of Na^+^ and Ca^2+^.
+
+```{r molsteps, fig.cap='(ref:steps)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/visual/Phototransduction.png")
+```
 
 Deactivation of the phototransduction cascade
 
@@ -158,85 +158,8 @@ The human retina has approximately 6 million cones and 120 million rods. Signals
 
 The photoreceptor proteins in the three types of cones differ in their sensitivity to photons of different wavelengths (see graph). Since cones respond to both the wavelength and intensity of light, the cone's sensitivity to wavelength is measured in terms of its relative rate of response if the intensity of a stimulus is held fixed, while the wavelength is varied. From this, in turn, is inferred the absorbance. The graph normalizes the degree of absorbance on a hundred-point scale. For example, the S cone's relative response peaks around 420 nm (nanometers, a measure of wavelength). This tells us that an S cone is more likely to absorb a photon at 420 nm than at any other wavelength. If light of a different wavelength to which it is less sensitive, say 480 nm, is increased in brightness appropriately, however, it will produce exactly the same response in the S cone. So, the colors of the curves are misleading. Cones cannot detect color by themselves; rather, color vision requires comparison of the signal across different cone types.
 
-#### Phototransduction
 
-The process of phototransduction occurs in the retina. The retina has many layers of various cell types. The best-known photoreceptor cells (rods and cones) form the outermost layer. They are the photoreceptors responsible for sight. The middle layer contains bipolar cells, which collect neural signals from the rods and the cones and then transmit them to the innermost layer of the retina, where the neurons called retinal ganglion cells (RGCs), a small percentage of which are themselves photosensitive, organize the signals and send them to the brain.
-
-To understand the photoreceptor's behaviour to light intensities, it is necessary to understand the roles of different currents.
-
-There is an ongoing outward potassium current through nongated K^+^-selective channels. This outward current tends to hyperpolarize the photoreceptor at around -70 mV (the equilibrium potential for K^+^).
-
-There is also an inward sodium current carried by cGMP-gated sodium channels. This so-called 'dark current' depolarizes the cell to around -40 mV. Note that this is significantly more depolarized than most other neurons.
-
-A high density of Na^+^-K^+^ pumps enables the photoreceptor to maintain a steady intracellular concentration of Na^+^ and K^+^.
-
-In the dark
-Photoreceptor cells are unusual cells in that they depolarize in response to absence of stimuli or scotopic conditions (darkness). In photopic conditions (light), photoreceptors hyperpolarize to a potential of -60mV.
-
-In the dark, cGMP levels are high and keep cGMP-gated sodium channels open allowing a steady inward current, called the dark current. This dark current keeps the cell depolarized at about -40 mV, leading to glutamate release which inhibits excitation of neurons.
-
-The depolarization of the cell membrane in scotopic conditions opens voltage-gated calcium channels. An increased intracellular concentration of Ca^2+^ causes vesicles containing glutamate, a neurotransmitter, to merge with the cell membrane, therefore releasing glutamate into the synaptic cleft, an area between the end of one cell and the beginning of another neuron. Glutamate, though usually excitatory, functions here as an inhibitory neurotransmitter.
-
-In the cone pathway glutamate:
-
-Hyperpolarizes on-center bipolar cells. Glutamate that is released from the photoreceptors in the dark binds to metabotropic glutamate receptors (mGluR6), which, through a G-protein coupling mechanism, causes non-specific cation channels in the cells to close, thus hyperpolarizing the bipolar cell.
-Depolarizes off-center bipolar cells. Binding of glutamate to ionotropic glutamate receptors results in an inward cation current that depolarizes the bipolar cell.
-In the light
-In summary: Light closes cGMP-gated sodium channels, reducing the influx of both Na^+^ and Ca^2+^ ions. Stopping the influx of Na^+^ ions effectively switches off the dark current. Reducing this dark current causes the photoreceptor to hyperpolarise, which reduces glutamate release which thus reduces the inhibition of retinal nerves, leading to excitation of these nerves. This reduced Ca^2+^ influx during phototransduction enables deactivation and recovery from phototransduction, as discussed in Visual phototransduction#Deactivation of the phototransduction cascade.
-
-Low intracellular Ca^2+^ makes intracellular Ca-GCAP (Ca-Guanylate cyclase activating protein) dissociate into Ca^2+^ and GCAP. The liberated GCAP ultimately restores depleted cGMP levels, which re-opens the cGMP-gated cation channels (restoring dark current).
-Low intracellular Ca^2+^ makes intracellular Ca-GAP (Ca-GTPase Accelerating Protein) dissociate into Ca^2+^ and GAP. The liberated GAP deactivates activated-Transducin, terminating the phototransduction cascade (restoring dark current).
-Low intracellular Ca^2+^ makes intracellular Ca-recoverin-RK dissociate into Ca^2+^ and recoverin and RK. The liberated RK then phosphorylates the Metarhodopsin II, reducing its binding affinity for transducin. Arrestin then completely deactivates the phosphorylated-metarhodopsin II, terminating the phototransduction cascade (restoring dark current).
-Low intracellular Ca^2+^ make the Ca^2+^/Calmodulin complex within the cGMP-gated cation channels more sensitive to low cGMP levels (thereby, keeping the cGMP-gated cation channel open even at low cGMP levels, restoring dark current)
-In more detail:
-
-GTPase Accelerating Protein (GAP) interacts with the alpha subunit of transducin, and causes it to hydrolyse its bound GTP to GDP, and thus halts the action of phosphodiesterase, stopping the transformation of cGMP to GMP.
-
-In other words: Guanylate Cyclase Activating Protein (GCAP) is a calcium binding protein, and as the calcium levels in the cell have decreased, GCAP dissociates from its bound calcium ions, and interacts with Guanylate Cyclase, activating it. Guanylate Cyclase then proceeds to transform GTP to cGMP, replenishing the cell's cGMP levels and thus reopening the sodium channels that were closed during phototransduction.
-
-Finally, Metarhodopsin II is deactivated. Recoverin, another calcium binding protein, is normally bound to Rhodopsin Kinase when calcium is present. When the calcium levels fall during phototransduction, the calcium dissociates from recoverin, and rhodopsin kinase is released, when it (what?) proceeds to phosphorylate metarhodopsin II, which decreases its affinity for transducin. Finally, arrestin, another protein, binds the phosphorylated metarhodopsin II, completely deactivating it. Thus, finally, phototransduction is deactivated, and the dark current and glutamate release is restored. It is this pathway, where Metarhodopsin II is phosphorylated and bound to arrestin and thus deactivated, which is thought to be responsible for the S2 component of dark adaptation. The S2 component represents a linear section of the dark adaptation function present at the beginning of dark adaptation for all bleaching intensities.
-
-All-trans retinal is transported to the pigment epithelial cells to be reduced to all-trans retinol, the precursor to 11-cis retinal. This is then transported back to the rods. All-trans retinal cannot be synthesised by humans and must be supplied by vitamin A in the diet. Deficiency of all-trans retinal can lead to night blindness. This is part of the bleach and recycle process of retinoids in the photoreceptors and retinal pigment epithelium.
-
-Activation of rods and cones is actually hyperpolarization; when they are not being stimulated, they depolarize and release glutamate continuously. In the dark, cells have a relatively high concentration of cyclic guanosine 3'-5' monophosphate (cGMP), which opens ion channels (largely sodium channels, though calcium can enter through these channels as well). The positive charges of the ions that enter the cell down its electrochemical gradient change the cell's membrane potential, cause depolarization, and lead to the release of the neurotransmitter glutamate. Glutamate can depolarize some neurons and hyperpolarize others.
-
-When light hits a photoreceptive pigment within the photoreceptor cell, the pigment changes shape. The pigment, called iodopsin or rhodopsin, consists of large proteins called opsin (situated in the plasma membrane), attached to a covalently bound prosthetic group: an organic molecule called retinal (a derivative of vitamin A). The retinal exists in the 11-cis-retinal form when in the dark, and stimulation by light causes its structure to change to all-trans-retinal. This structural change causes it to activate a regulatory protein called transducin, which leads to the activation of cGMP phosphodiesterase, which breaks cGMP down into 5'-GMP. Reduction in cGMP allows the ion channels to close, preventing the influx of positive ions, hyperpolarizing the cell, and stopping the release of neurotransmitters. The entire process by which light initiates a sensory response is called visual phototransduction.
-
-Unstimulated (in the dark), cyclic-nucleotide gated channels in the outer segment are open because cyclic GMP (cGMP) is bound to them. Hence, positively charged ions (namely sodium ions) enter the photoreceptor, depolarizing it to about −40 mV (resting potential in other nerve cells is usually −65 mV). This depolarization current is often known as dark current.
-
-The signal transduction pathway is the mechanism by which the energy of a photon signals a mechanism in the cell that leads to its electrical polarization. This polarization ultimately leads to either the transmittance or inhibition of a neural signal that will be fed to the brain via the optic nerve. The steps, or signal transduction pathway, in the vertebrate eye's rod and cone photoreceptors are then:
-
-1. The rhodopsin or iodopsin in the disc membrane of the outer segment absorbs a photon, changing the configuration of a retinal Schiff base cofactor inside the protein from the cis-form to the trans-form, causing the retinal to change shape.
-1. This results in a series of unstable intermediates, the last of which binds stronger to a G protein in the membrane, called transducin, and activates it. This is the first amplification step – each photoactivated rhodopsin triggers activation of about 100 transducins.
-1. Each transducin then activates the enzyme cGMP-specific phosphodiesterase (PDE).
-1. PDE then catalyzes the hydrolysis of cGMP to 5' GMP. This is the second amplification step, where a single PDE hydrolyses about 1000 cGMP molecules.
-1. The net concentration of intracellular cGMP is reduced (due to its conversion to 5' GMP via PDE), resulting in the closure of cyclic nucleotide-gated Na^+^ ion channels located in the photoreceptor outer segment membrane.
-1. As a result, sodium ions can no longer enter the cell, and the photoreceptor outer segment membrane becomes hyperpolarized, due to the charge inside the membrane becoming more negative.
-1. This change in the cell's membrane potential causes voltage-gated calcium channels to close. This leads to a decrease in the influx of calcium ions into the cell and thus the intracellular calcium ion concentration falls.
-1. A decrease in the intracellular calcium concentration means that less glutamate is released via calcium-induced exocytosis to the bipolar cell (see below). (The decreased calcium level slows the release of the neurotransmitter glutamate, which excites the postsynaptic bipolar cells and horizontal cells.)
-1. Reduction in the release of glutamate means one population of bipolar cells will be depolarized and a separate population of bipolar cells will be hyperpolarized, depending on the nature of receptors (ionotropic or metabotropic) in the postsynaptic terminal (see receptive field).
-
-Thus, a rod or cone photoreceptor actually releases less neurotransmitter when stimulated by light. Less neurotransmitter in the synaptic cleft between a photoreceptor and bipolar cell will serve to either excite (depolarize) ON bipolar cells or inhibit (hyperpolarize) OFF bipolar cells. Thus, it is at the photoreceptor-bipolar cell synapse where visual signals are split into ON and OFF pathways.
-
-ATP provided by the inner segment powers the sodium-potassium pump. This pump is necessary to reset the initial state of the outer segment by taking the sodium ions that are entering the cell and pumping them back out.
-
-Although photoreceptors are neurons, they do not conduct action potentials with the exception of the photosensitive ganglion cell – which are involved mainly in the regulation of circadian rhythms, melatonin, and pupil dilation.
-
-Phototransduction in rods and cones is somewhat unusual in that the stimulus (in this case, light) reduces the cell's response or firing rate, different from most other sensory systems in which a stimulus increases the cell's response or firing rate. This difference has important functional consequences:
-
-First, the classic (rod or cone) photoreceptor is depolarized in the dark, which means many sodium ions are flowing into the cell. Thus, the random opening or closing of sodium channels will not affect the membrane potential of the cell; only the closing of a large number of channels, through absorption of a photon, will affect it and signal that light is in the visual field. This system may have less noise relative to sensory transduction schema that increase rate of neural firing in response to stimulus, like touch and olfaction.
-
-Second, there is a lot of amplification in two stages of classic phototransduction: one pigment will activate many molecules of transducin, and one PDE will cleave many cGMPs. This amplification means that even the absorption of one photon will affect membrane potential and signal to the brain that light is in the visual field. This is the main feature that differentiates rod photoreceptors from cone photoreceptors. Rods are extremely sensitive and have the capacity of registering a single photon of light, unlike cones. On the other hand, cones are known to have very fast kinetics in terms of rate of amplification of phototransduction, unlike rods.
-
-The rod and cone photoreceptors signal their absorption of photons via a decrease in the release of the neurotransmitter glutamate to bipolar cells at its axon terminal. Since the photoreceptor is depolarized in the dark, a high amount of glutamate is being released to bipolar cells in the dark. Absorption of a photon will hyperpolarize the photoreceptor and therefore result in the release of less glutamate at the presynaptic terminal to the bipolar cell.
-
-Every rod or cone photoreceptor releases the same neurotransmitter, glutamate. However, the effect of glutamate differs in the bipolar cells, depending upon the type of receptor imbedded in that cell's membrane. When glutamate binds to an ionotropic receptor, the bipolar cell will depolarize (and therefore will hyperpolarize with light as less glutamate is released). On the other hand, binding of glutamate to a metabotropic receptor results in a hyperpolarization, so this bipolar cell will depolarize to light as less glutamate is released.
-
-In essence, this property allows for one population of bipolar cells that gets excited by light and another population that gets inhibited by it, even though all photoreceptors show the same response to light. This complexity becomes both important and necessary for detecting color, contrast, edges, etc.
-
-Further complexity arises from the various interconnections among bipolar cells, horizontal cells, and amacrine cells in the retina. The final result is differing populations of ganglion cells in the retina, a sub-population of which is also intrinsically photosensitive, using the photopigment melanopsin.
-
-#### Ganglion cell (non-rod non-cone) photoreceptors
+#### Ganglion Cell (Non-Rod Non-Cone) Photoreceptors
 
 A non-rod non-cone photoreceptor in the eyes of mice, which was shown to mediate circadian rhythms, was discovered in 1991 by Foster et al. These neuronal cells, called intrinsically photosensitive retinal ganglion cells (ipRGC), are a small subset (≈1–3%) of the retinal ganglion cells located in the inner retina, that is, in front of the rods and cones located in the outer retina. These light sensitive neurons contain a photopigment, melanopsin, which has an absorption peak of the light at a different wavelength (≈480 nm) than rods and cones. Beside circadian / behavioral functions, ipRGCs have a role in initiating the pupillary light reflex.
 
@@ -248,14 +171,19 @@ In humans the retinal ganglion cell photoreceptor contributes to conscious sight
 
 Most work suggests that the peak spectral sensitivity of the receptor is between 460 and 482 nm. Steven Lockley et al. in 2003 showed that 460 nm wavelengths of light suppress melatonin twice as much as longer 555 nm light. However, in more recent work by Farhan Zaidi et al., using rodless coneless humans, it was found that what consciously led to light perception was a very intense 481 nm stimulus; this means that the receptor, in visual terms, enables some rudimentary vision maximally for blue light.
 
-Together the cornea and lens refract light into a small image and shine it on the retina. The retina transduces this image into electrical pulses using rods and cones. The optic nerve then carries these pulses through the optic canal. Upon reaching the optic chiasm the nerve fibers decussate (left becomes right). The fibers then branch and terminate in three places.
+## The Visual Pathways
+
+### The Opti Nerve And Optic Tract
+
+The optic nerve conducts the action potentials generated by the retinal ganglion cells through the optic canal to the subsequent processing centers in the brain. Upon reaching the optic chiasm the nerve fibers from the nasal part of the retina in each eye cross over to the other side (decussate; left becomes right). The fibers then branch and terminate in three places.
 
 The optic nerve, also known as cranial nerve II, or simply as CN II, is a paired cranial nerve that transmits visual information from the retina to the brain. The optic nerve is composed of retinal ganglion cell axons and glial cells. Each human optic nerve contains between 770,000 and 1.7 million nerve fibers, which are axons of the retinal ganglion cells of one retina. In the fovea, which has high acuity, these ganglion cells connect to as few as 5 photoreceptor cells; in other areas of retina, they connect to many thousand photoreceptors.
+
 In humans, the optic nerve is derived from optic stalks during the seventh week of development. It extends from the optic disc to the optic chiasma and continues as the optic tract to the lateral geniculate nucleus, pretectal nuclei, and superior colliculus.
 
 Most of the axons of the optic nerve terminate in the lateral geniculate nucleus from where information is relayed to the visual cortex, while other axons terminate in the pretectal nucleus and are involved in reflexive eye movements. Other axons terminate in the suprachiasmatic nucleus and are involved in regulating the sleep-wake cycle. Its diameter increases from about 1.6 mm within the eye to 3.5 mm in the orbit to 4.5 mm within the cranial space. The optic nerve component lengths are 1 mm in the globe, 24 mm in the orbit, 9 mm in the optic canal, and 16 mm in the cranial space before joining the optic chiasm. There, partial decussation occurs, and about 53% of the fibers cross to form the optic tracts. Most of these fibers terminate in the lateral geniculate body.
 
-## The superior colliculus
+## The Superior Colliculus
 
 The superior colliculus (Latin, upper hill) is a structure lying on the roof of the mammalian midbrain. In non-mammalian vertebrates the homologous structure, is known as the optic tectum or optic lobe. The adjective form tectal is commonly used for both structures.
 
@@ -322,7 +250,7 @@ The SC only receives visual inputs in its superficial layers, whereas the deeper
 
 The superior colliculus also receives auditory information from the inferior colliculus. This auditory information is integrated with the visual information already present to produce the ventriloquist effect.
 
-## The lateral geniculate nucleus (LGN)
+## The Lateral Geniculate Nucleus (LGN)
 
 The lateral geniculate nucleus (LGN; also called the lateral geniculate body or lateral geniculate complex) is a relay center in the thalamus for the visual pathway. It receives a major sensory input from the retina. The LGN is the main central connection for the optic nerve to the occipital lobe, particularly the primary visual cortex. In humans, each LGN has six layers of neurons (grey matter) alternating with optic fibers (white matter).
 
@@ -414,6 +342,8 @@ The primary visual cortex is divided into six functionally distinct layers, labe
 
 The average number of neurons in the adult human primary visual cortex in each hemisphere has been estimated at around 140 million.
 
+### V1
+
 The first stage of visual processing in the cortex is called V1. V1 performs edge-detection to understand spatial organization (initially, 40 milliseconds in, focusing on even small spatial and color changes. Then, 100 milliseconds in, upon receiving the translated LGN, V2, and V3 info, also begins focusing on global organization). V1 also creates a bottom-up saliency map (highlights what is important) to guide attention or gaze shift. V1 has a very well-defined map of the spatial information in vision. For example, in humans, the upper bank of the calcarine sulcus (in the occipital lobe) responds strongly to the lower half of visual field (below the center), and the lower bank of the calcarine to the upper half of visual field. In concept, this retinotopic mapping is a transformation of the visual image from retina to V1. The correspondence between a given location in V1 and in the subjective visual field is very precise: even the blind spots are mapped into V1. In terms of evolution, this correspondence is very basic and found in most animals that possess a V1. In humans and animals with a fovea (cones in the retina), a large portion of V1 is mapped to the small, central portion of visual field, a phenomenon known as cortical magnification. Perhaps for the purpose of accurate spatial encoding, neurons in V1 have the smallest receptive field size of any visual cortex microscopic regions.
 
 The tuning properties of V1 neurons (what the neurons respond to) differ greatly over time. Early in time (40 ms and further) individual V1 neurons have strong tuning to a small set of stimuli. That is, the neuronal responses can discriminate small changes in visual orientations, spatial frequencies and colors. Furthermore, individual V1 neurons in humans and animals with binocular vision have ocular dominance, namely tuning to one of the two eyes. In V1, and primary sensory cortex in general, neurons with similar tuning properties tend to cluster together as cortical columns. David Hubel and Torsten Wiesel proposed the classic ice-cube organization model of cortical columns for two tuning properties: ocular dominance and orientation. However, this model cannot accommodate the color, spatial frequency and many other features to which neurons are tuned. The exact organization of all these cortical columns within V1 remains a hot topic of current research. The mathematical modeling of this function has been compared to Gabor transforms.
@@ -424,6 +354,8 @@ The visual information relayed to V1 is not coded in terms of spatial (or optica
 
 Axiomatically determined functional models of simple cells in V1 have been determined by Lindeberg in terms of directional derivatives of affine Gaussian kernels over the spatial domain in combination with temporal derivatives of either non-causal or time-causal scale-space kernels over the temporal domain (see axiomatic theory of receptive fields). Specifically, it has been shown that this theory both leads to predictions about receptive fields with good qualitative agreement with the biological receptive field measurements performed by DeAngelis et al. and guarantees good theoretical properties of the mathematical receptive field model, including covariance and invariance properties under natural image transformations.[relevant? – discuss]
 
+### V2
+
 Visual area V2, or secondary visual cortex, also called prestriate cortex, is the second major area in the visual cortex, and the first region within the visual association area. It receives strong feedforward connections from V1 (direct and via the pulvinar) and sends strong connections to V3, V4, and V5. It also sends strong feedback connections to V1.
 
 In terms of anatomy, V2 is split into four quadrants, a dorsal and ventral representation in the left and the right hemispheres. Together, these four regions provide a complete map of the visual world. V2 has many properties in common with V1: Cells are tuned to simple properties such as orientation, spatial frequency, and colour. The responses of many V2 neurons are also modulated by more complex properties, such as the orientation of illusory contours, binocular disparity, and whether the stimulus is part of the figure or the ground. Recent research has shown that V2 cells show a small amount of attentional modulation (more than V1, less than V4), are tuned for moderately complex patterns, and may be driven by multiple orientations at different subregions within a single receptive field.
@@ -432,12 +364,15 @@ It is argued that the entire ventral visual-to-hippocampal stream is important f
 
 In a recent study, the Layer 6 cells of the V2 cortex were found to play a very important role in the storage of Object Recognition Memory as well as the conversion of short-term object memories into long-term memories.
 
-Third visual cortex, including area V3
+### V3
+
 The term third visual complex refers to the region of cortex located immediately in front of V2, which includes the region named visual area V3 in humans. The "complex" nomenclature is justified by the fact that some controversy still exists regarding the exact extent of area V3, with some researchers proposing that the cortex located in front of V2 may include two or three functional subdivisions. For example, David Van Essen and others (1986) have proposed the existence of a "dorsal V3" in the upper part of the cerebral hemisphere, which is distinct from the "ventral V3" (or ventral posterior area, VP) located in the lower part of the brain. Dorsal and ventral V3 have distinct connections with other parts of the brain, appear different in sections stained with a variety of methods, and contain neurons that respond to different combinations of visual stimulus (for example, colour-selective neurons are more common in the ventral V3). Additional subdivisions, including V3A and V3B have also been reported in humans. These subdivisions are located near dorsal V3, but do not adjoin V2.
 
 Dorsal V3 is normally considered to be part of the dorsal stream, receiving inputs from V2 and from the primary visual area and projecting to the posterior parietal cortex. It may be anatomically located in Brodmann area 19. Braddick using fMRI has suggested that area V3/V3A may play a role in the processing of global motion Other studies prefer to consider dorsal V3 as part of a larger area, named the dorsomedial area (DM), which contains a representation of the entire visual field. Neurons in area DM respond to coherent motion of large patterns covering extensive portions of the visual field (Lui and collaborators, 2006).
 
 Ventral V3 (VP), has much weaker connections from the primary visual area, and stronger connections with the inferior temporal cortex. While earlier studies proposed that VP contained a representation of only the upper part of the visual field (above the point of fixation), more recent work indicates that this area is more extensive than previously appreciated, and like other visual areas it may contain a complete visual representation. The revised, more extensive VP is referred to as the ventrolateral posterior area (VLP) by Rosa and Tweedale.
+
+### V4
 
 Visual area V4 is one of the visual areas in the extrastriate visual cortex. In macaques, it is located anterior to V2 and posterior to posterior inferotemporal area (PIT). It comprises at least four regions (left and right V4d, left and right V4v), and some groups report that it contains rostral and caudal subdivisions as well. It is unknown whether the human V4 is as expansive as that of the macaque homologue which is a subject of debate.
 
@@ -450,6 +385,8 @@ Like V2, V4 is tuned for orientation, spatial frequency, and color. Unlike V2, V
 The firing properties of V4 were first described by Semir Zeki in the late 1970s, who also named the area. Before that, V4 was known by its anatomical description, the prelunate gyrus. Originally, Zeki argued that the purpose of V4 was to process color information. Work in the early 1980s proved that V4 was as directly involved in form recognition as earlier cortical areas. This research supported the two-streams hypothesis, first presented by Ungerleider and Mishkin in 1982.
 
 Recent work has shown that V4 exhibits long-term plasticity, encodes stimulus salience, is gated by signals coming from the frontal eye fields, and shows changes in the spatial profile of its receptive fields with attention.
+
+### V5
 
 The middle temporal visual area (MT or V5) is a region of extrastriate visual cortex. In several species of both New World monkeys and Old World monkeys the MT area contains a high concentration of direction-selective neurons. The MT in primates is thought to play a major role in the perception of motion, the integration of local motion signals into global percepts, and the guidance of some eye movements.
 
@@ -469,6 +406,8 @@ There is still much controversy over the exact form of the computations carried 
 
 MT was shown to be organized in direction columns. DeAngelis argued that MT neurons were also organized based on their tuning for binocular disparity.
 
+### V6
+
 The dorsomedial area (DM) also known as V6, appears to respond to visual stimuli associated with self-motion and wide-field stimulation. V6, is a subdivision of the visual cortex of primates first described by John Allman and Jon Kaas in 1975. V6 is located in the dorsal part of the extrastriate cortex, near the deep groove through the centre of the brain (medial longitudinal fissure), and typically also includes portions of the medial cortex, such as the parieto-occipital sulcus. DM contains a topographically organized representation of the entire field of vision.
 
 There are similarities between the visual area V5 and V6 of the common marmoset. Both areas receive direct connections from the primary visual cortex. And both have a high myelin content, a characteristic that is usually present in brain structures involved in fast transmission of information.
@@ -482,17 +421,6 @@ However, in comparison with area MT, a much smaller proportion of DM cells shows
 Recently, an area responsive to wide-angle flow fields has been identified in the human and is thought to be a homologue of macaque area V6.
 
 The connections and response properties of cells in DM/ V6 suggest that this area is a key node in a subset of the 'dorsal stream', referred to by some as the 'dorsomedial pathway'. This pathway is likely to be important for the control of skeletomotor activity, including postural reactions and reaching movements towards objects The main 'feedforward' connection of DM is to the cortex immediately rostral to it, in the interface between the occipital and parietal lobes (V6A). This region has, in turn, relatively direct connections with the regions of the frontal lobe that control arm movements, including the premotor cortex.
-
-
-
-
-
-
-
-
-
-
-
 
 The retina translates an optical image into neural impulses starting with the patterned excitation of the colour-sensitive pigments of its rods and cones, the retina's photoreceptor cells. The excitation is processed by the neural system and various parts of the brain working in parallel to form a representation of the external environment in the brain.
 

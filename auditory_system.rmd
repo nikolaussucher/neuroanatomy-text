@@ -1,10 +1,10 @@
-# The Auditory and Vestibular Systems
+# The Auditory And Vestibular Systems
 
 The auditory system is the sensory system for the sense of hearing. It includes both the sensory organs (the ears) and the auditory parts of the sensory system. Hearing, or auditory perception, is the ability to perceive sounds by detecting vibrations, changes in the pressure of the surrounding medium through time, through the ear. 
 
 Providing balance, when moving or stationary, is also a central function of the ear. The ear facilitates two types of balance: static balance, which allows a person to feel the effects of gravity, and dynamic balance, which allows a person to sense acceleration.
 
-## The ear
+## The Ear
 
 In mammals, the ear is usually described as having three parts—the outer ear, the middle ear and the inner ear. The outer ear consists of the pinna and the ear canal. The folds of cartilage surrounding the ear canal are called the pinna. Sound waves are reflected and attenuated when they hit the pinna, and these changes provide additional information that will help the brain determine the sound direction. Since the outer ear is the only visible portion of the ear in most animals, the word "ear" often refers to the external part alone. The middle ear includes the tympanic cavity and the three ossicles. The inner ear sits in the bony labyrinth, and contains structures which are key to several senses: the semicircular canals, which enable balance and eye tracking when moving; the utricle and saccule, which enable balance when stationary; and the cochlea, which enables hearing. The ears of vertebrates are placed somewhat symmetrically on either side of the head, an arrangement that aids sound localisation.
 
@@ -25,7 +25,7 @@ Vestibular and tympanic ducts are filled with perilymph, and the smaller cochlea
 
 In humans and other vertebrates, hearing is performed primarily by the auditory system: mechanical waves, known as vibrations, are detected by the ear and transduced into nerve impulses that are perceived by the brain (primarily in the temporal lobe). Like touch, audition requires sensitivity to the movement of molecules in the world outside the organism. Both hearing and touch are types of mechanosensation. Sound may be heard through solid, liquid, or gaseous matter. It is one of the traditional five senses; partial or total inability to hear is called hearing loss.
 
-### Organ of Corti
+### Organ Of Corti
 
 The organ of Corti, or spiral organ, is the receptor organ for hearing and is located in the mammalian cochlea. This highly varied strip of epithelial cells allows for transduction of auditory signals into nerve impulses' action potential. Transduction occurs through vibrations of structures in the inner ear causing displacement of cochlear fluid and movement of hair cells at the organ of Corti to produce electrochemical signals.
 
@@ -45,7 +45,7 @@ If the cochlea were uncoiled it would roll out to be about 33 mm long in women a
 
 The function of the organ of Corti is to transduce auditory signals and minimise the hair cells’ extraction of sound energy. It is the auricle and middle ear that act as mechanical transformers and amplifiers so that the sound waves end up with amplitudes 22 times greater than when they entered the ear.
 
-### Auditory transduction
+### Auditory Transduction
 
 In normal hearing subjects, the majority of the auditory signals that reach the organ of Corti in the first place come from the outer ear. Sound waves enter through the auditory canal and vibrate the tympanic membrane, also known as the eardrum, which vibrates three small bones called the ossicles. As a result, the attached oval window moves and causes movement of the round window, which leads to displacement of the cochlear fluid. However, the stimulation can happen also via direct vibration of the cochlea from the skull. The latter is referred to as Bone Conduction (or BC) hearing, as complementary to the first one described, which is instead called Air Conduction (or AC) hearing. Both AC and BC stimulate the basilar membrane in the same way (Békésy, G.v., Experiments in Hearing. 1960).
 
@@ -71,7 +71,7 @@ Efferent projections from the brain to the cochlea also play a role in the perce
 
 The plan view of the human cochlea (typical of all mammalian and most vertebrates) shows where specific frequencies occur along its length. The frequency is an approximately exponential function of the length of the cochlea within the Organ of Corti. In some species, such as bats and dolphins, the relationship is expanded in specific areas to support their active sonar capability.
 
-### Auditory pathways
+### Auditory Pathways
 
 Afferent neurons innervate cochlear inner hair cells, at synapses where the neurotransmitter glutamate communicates signals from the hair cells to the dendrites of the primary auditory neurons.
 
@@ -79,11 +79,11 @@ There are far fewer inner hair cells in the cochlea than afferent nerve fibers �
 
 Efferent projections from the brain to the cochlea also play a role in the perception of sound, although this is not well understood. Efferent synapses occur on outer hair cells and on afferent (towards the brain) dendrites under inner hair cells
 
-### The cochlear nucleus
+### The Cochlear Nucleus
 
 The cochlear nucleus is the first site of the neuronal processing of the newly converted “digital” data from the inner ear (see also binaural fusion). In mammals, this region is anatomically and physiologically split into two regions, the dorsal cochlear nucleus (DCN), and ventral cochlear nucleus (VCN). The VCN is further divided by the nerve root into the posteroventral cochlear nucleus (PVCN) and the anteroventral cochlear nucleus (AVCN).
 
-### The trapezoid body
+### The Trapezoid Body
 
 The trapezoid body is a bundle of decussating fibers in the ventral pons that carry information used for binaural computations in the brainstem. Some of these axons come from the cochlear nucleus and cross over to the other side before traveling on to the superior olivary nucleus. This is believed to help with localization of sound.
 
@@ -91,19 +91,19 @@ The trapezoid body is a bundle of decussating fibers in the ventral pons that ca
 
 The superior olivary complex is located in the pons, and receives projections predominantly from the ventral cochlear nucleus, although the dorsal cochlear nucleus projects there as well, via the ventral acoustic stria. Within the superior olivary complex lies the lateral superior olive (LSO) and the medial superior olive (MSO). The former is important in detecting interaural level differences while the latter is important in distinguishing interaural time difference.
 
-### The lateral lemniscus
+### The Lateral Lemniscus
 
 The lateral lemniscus is a tract of axons in the brainstem that carries information about sound from the cochlear nucleus to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain.
 
-### The inferior colliculi
+### The Inferior Colliculi
 
 The inferior colliculi (IC) are located just below the visual processing centers known as the superior colliculi. The central nucleus of the IC is a nearly obligatory relay in the ascending auditory system, and most likely acts to integrate information (specifically regarding sound source localization from the superior olivary complex and dorsal cochlear nucleus) before sending it to the thalamus and cortex.
 
-### The medial geniculate nucleus (MGN)
+### The Medial Geniculate Nucleus (MGN)
 
 The medial geniculate nucleus is part of the thalamic relay system.
 
-### The primary auditory cortex
+### The Primary Auditory Cortex
 
 The primary auditory cortex is the first region of cerebral cortex to receive auditory input.
 
@@ -111,7 +111,7 @@ Perception of sound is associated with the left posterior superior temporal gyru
 
 The primary auditory cortex is surrounded by secondary auditory cortex, and interconnects with it. These secondary areas interconnect with further processing areas in the superior temporal gyrus, in the dorsal bank of the superior temporal sulcus, and in the frontal lobe. In humans, connections of these regions with the middle temporal gyrus are probably important for speech perception. The frontotemporal system underlying auditory perception allows us to distinguish sounds as speech, music, or noise.
 
-### The auditory ventral and dorsal streams
+### The Auditory Ventral And Dorsal Streams
 
 From the primary auditory cortex emerge two separate pathways: the auditory ventral stream and auditory dorsal stream. The auditory ventral stream includes the anterior superior temporal gyrus, anterior superior temporal sulcus, middle temporal gyrus and temporal pole. Neurons in these areas are responsible for sound recognition, and extraction of meaning from sentences. The auditory dorsal stream includes the posterior superior temporal gyrus and sulcus, inferior parietal lobule and intra-parietal sulcus. Both pathways project in humans to the inferior frontal gyrus. The most established role of the auditory dorsal stream in primates is sound localization. In humans, the auditory dorsal stream in the left hemisphere is also responsible for speech repetition and articulation, phonological long-term encoding of word names, and verbal working memory.
 
@@ -121,7 +121,7 @@ The vestibular system, in vertebrates, is part of the inner ear. In most mammals
 
 The brain uses information from the vestibular system in the head and from proprioception throughout the body to enable the animal to understand its body's dynamics and kinematics (including its position and acceleration) from moment to moment. How these two perceptive sources are integrated to provide the underlying structure of the sensorium is unknown.
 
-### The semicircular canals 
+### The Semicircular Canals 
 
 The semicircular canal system detects rotational movements. The semicircular canals are its main tools to achieve this detection.
 
@@ -141,7 +141,7 @@ This push-pull system makes it possible to sense all directions of rotation: whi
 
 Vertical canals are coupled in a crossed fashion, i.e. stimulations that are excitatory for an anterior canal are also inhibitory for the contralateral posterior, and vice versa.
 
-### The Otolithic organs
+### The Otolithic Organs
 
 Static balance is provided by two ventricles, the utricle and the saccule. Cells lining the walls of these ventricles contain fine filaments, and the cells are covered with a fine gelatinous layer. Each cell has 50–70 small filaments, and one large filament, the kinocilium. Within the gelatinous layer lie otoliths, tiny formations of calcium carbonate. When a person moves, these otoliths shift position. This shift alters the positions of the filaments, which opens ion channels within the cell membranes, creating depolarisation and an action potential that is transmitted to the brain along the vestibulocochlear nerve.
 
@@ -167,7 +167,7 @@ This push-pull system makes it possible to sense all directions of rotation: whi
 
 Vertical canals are coupled in a crossed fashion, i.e. stimulations that are excitatory for an anterior canal are also inhibitory for the contralateral posterior, and vice versa.
 
-### Vestibular pathways
+### Vestibular Pathways
 
 The vestibular nerve is one of the two branches of the vestibulocochlear nerve (the cochlear nerve being the other). In humans the vestibular nerve transmits sensory information from vestibular hair cells located in the two otolith organs (the utricle and the saccule) and the three semicircular canals via the vestibular ganglion. 
 

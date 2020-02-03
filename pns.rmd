@@ -6,7 +6,7 @@ The peripheral nervous system is divided into the somatic nervous system and the
 
 The peripheral nervous system is divided into the somatic nervous system, and the autonomic nervous system. The somatic nervous system is under voluntary control, and transmits signals from the brain to end organs such as muscles. The sensory nervous system is part of the somatic nervous system and transmits signals from senses such as taste and touch (including fine touch and gross touch) to the spinal cord and brain. The autonomic nervous system is a 'self-regulating' system which influences the function of organs outside voluntary control, such as the heart rate, or the functions of the digestive system.
 
-## The Somatic nervous system
+## The Somatic Nervous System
 
 The somatic nervous system includes the sensory neurons that convey information from the body to the CNS. The cell bodies of these sensory neurons lie in the dorsal root ganglia parallel to the spinal cord and in the cranial nerve ganglia.  
 
@@ -76,16 +76,16 @@ Damage to the facial nerve (VII) may cause facial palsy. This is where a person 
 
 The vestibulocochlear nerve (VIII) supplies information relating to balance and hearing via its two branches, the vestibular and cochlear nerves. The vestibular part is responsible for supplying sensation from the vestibules and semicircular canal of the inner ear, including information about balance, and is an important component of the vestibuloocular reflex, which keeps the head stable and allows the eyes to track moving objects. The cochlear nerve transmits information from the cochlea, allowing sound to be heard. When damaged, the vestibular nerve may give rise to the sensation of spinning and dizziness (vertigo). Function of the vestibular nerve may be tested by putting cold and warm water in the ears and watching eye movements caloric stimulation. Damage to the vestibulocochlear nerve can also present as repetitive and involuntary eye movements (nystagmus), particularly when the eye is moving horizontally. Damage to the cochlear nerve will cause partial or complete deafness in the affected ear.
 
-### Oral sensation, taste, and salivation (IX)
+### Oral Sensation, Taste, And Salivation (Ix)
 
 A damaged glossopharyngeal nerve (IX) may cause the uvula to deviate to the affected side.
 The glossopharyngeal nerve (IX) supplies the stylopharyngeus muscle and provides sensation to the oropharynx and back of the tongue. The glossopharyngeal nerve also provides parasympathetic input to the parotid gland. Damage to the nerve may cause failure of the gag reflex; a failure may also be seen in damage to the vagus nerve (X).
 
-### Vagus nerve (X)
+### Vagus Nerve (X)
 
 The vagus nerve (X) provides sensory and parasympathetic supply to structures in the neck and also to most of the organs in the chest and abdomen. Loss of function of the vagus nerve (X) will lead to a loss of parasympathetic supply to a very large number of structures. Major effects of damage to the vagus nerve may include a rise in blood pressure and heart rate. Isolated dysfunction of only the vagus nerve is rare, but - if the lesion is located above the point at which the vagus first branches off - can be indicated by a hoarse voice, due to dysfunction of one of its branches, the recurrent laryngeal nerve. Damage to this nerve may result in difficulties swallowing.
 
-### Shoulder elevation and head-turning (XI)
+### Shoulder Elevation And Head-Turning (XI)
 
 The accessory nerve (XI) supplies the sternocleidomastoid and trapezius muscles. Damage to the nerve may cause a winged scapula, shown here.
 
@@ -94,7 +94,7 @@ The accessory nerve (XI) supplies the sternocleidomastoid and trapezius muscles.
 
 Damage to the accessory nerve (XI) will lead to weakness in the trapezius muscle on the same side as the damage. The trapezius lifts the shoulder when shrugging, so the affected shoulder will not be able to shrug and the shoulder blade (scapula) will protrude into a winged position. Depending on the location of the lesion there may also be weakness present in the sternocleidomastoid muscle, which acts to turn the head so that the face points to the opposite side.
 
-### Tongue movement (XII)
+### Tongue Movement (XII)
 
 The hypoglossal nerve (XII) supplies the intrinsic muscles of the tongue, controlling tongue movement. The hypoglossal nerve (XII) is unique in that it is supplied by the motor cortices of both hemispheres of the brain. Damage to the nerve may lead to fasciculations or wasting (atrophy) of the muscles of the tongue. This will lead to weakness of tongue movement on that side. When damaged and extended, the tongue will move towards the weaker or damaged side, as shown in the image. The fasciculations of the tongue are sometimes said to look like a "bag of worms". Damage to the nerve tract or nucleus will not lead to atrophy or fasciculations, but only weakness of the muscles on the same side as the damage.
 
@@ -102,7 +102,7 @@ The hypoglossal nerve (XII) supplies the intrinsic muscles of the tongue, contro
 
 For the rest of the body, spinal nerves are responsible for somatosensory information. These arise from the spinal cord. Usually these arise as a web ("plexus") of interconnected nerves roots that arrange to form single nerves. These nerves control the functions of the rest of the body. In humans, there are 31 pairs of spinal nerves: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, and 1 coccygeal. These nerve roots are named according to the spinal vertebrata which they are adjacent to. In the cervical region, the spinal nerve roots come out above the corresponding vertebrae (i.e., nerve root between the skull and 1st cervical vertebrae is called spinal nerve C1). From the thoracic region to the coccygeal region, the spinal nerve roots come out below the corresponding vertebrae. It is important to note that this method creates a problem when naming the spinal nerve root between C7 and T1 (so it is called spinal nerve root C8). In the lumbar and sacral region, the spinal nerve roots travel within the dural sac and they travel below the level of L2 as the cauda equina.
 
-### Cervical spinal nerves (C1–C4)
+### Cervical Spinal Nerves (C1–C4)
 
 The first 4 cervical spinal nerves, C1 through C4, split and recombine to produce a variety of nerves that serve the neck and back of head.
 
@@ -110,11 +110,11 @@ Spinal nerve C1 is called the suboccipital nerve, which provides motor innervati
 
 The phrenic nerve is a nerve essential for our survival which arises from nerve roots C3, C4 and C5. It supplies the thoracic diaphragm, enabling breathing. If the spinal cord is transected above C3, then spontaneous breathing is not possible.
 
-### Brachial plexus (C5–T1)
+### Brachial Plexus (C5–T1)
 
 The last four cervical spinal nerves, C5 through C8, and the first thoracic spinal nerve, T1, combine to form the brachial plexus, or plexus brachialis, a tangled array of nerves, splitting, combining and recombining, to form the nerves that subserve the upper-limb and upper back. Although the brachial plexus may appear tangled, it is highly organized and predictable, with little variation between people. See brachial plexus injuries.
 
-### Lumbosacral plexus (L1–Co1)
+### Lumbosacral Plexus (L1–Co1)
 
 The anterior divisions of the lumbar nerves, sacral nerves, and coccygeal nerve form the lumbosacral plexus, the first lumbar nerve being frequently joined by a branch from the twelfth thoracic. For descriptive purposes this plexus is usually divided into three parts:
 
@@ -122,7 +122,7 @@ The anterior divisions of the lumbar nerves, sacral nerves, and coccygeal nerve 
 * sacral plexus
 * pudendal plexus
 
-## The Autonomic nervous system
+## The Autonomic Nervous System
 
 The autonomic nervous system (ANS) is a division of the peripheral nervous system that supplies smooth muscle and glands, and thus influences the function of internal organs. The autonomic nervous system is a control system that acts largely unconsciously and regulates bodily functions such as the heart rate, digestion, respiratory rate, pupillary response, urination, and sexual arousal. This system is the primary mechanism in control of the fight-or-flight response.
 
@@ -146,7 +146,7 @@ comparison <-  as_tibble(read.csv("data/autonomic.csv"))
 knitr::kable(comparison, col.names = c("Target organ/system", "Parasympathetic", "Sympathetic"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "Effects of the parasympathetic and sympathetic branches of the autonomic system on their target organs.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "35em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
 ```
 
-## The Sympathetic nervous system
+## The Sympathetic Nervous System
 
 The sympathetic nervous system is responsible for up- and down-regulating many homeostatic mechanisms in living organisms. Fibers from the SNS innervate tissues in almost every organ system, providing at least some regulation of functions as diverse as pupil diameter, gut motility, and urinary system output and function. It is perhaps best known for mediating the neuronal and hormonal stress response commonly known as the fight-or-flight response. This response is also known as sympatho-adrenal response of the body, as the preganglionic sympathetic fibers that end in the adrenal medulla (but also all other sympathetic fibers) secrete acetylcholine, which activates the great secretion of adrenaline (epinephrine) and to a lesser extent noradrenaline (norepinephrine) from it. Therefore, this response that acts primarily on the cardiovascular system is mediated directly via impulses transmitted through the sympathetic nervous system and indirectly via catecholamines secreted from the adrenal medulla.
 
@@ -178,7 +178,7 @@ In the sympathetic nervous system and other components of the peripheral nervous
 
 The ganglia include not just the sympathetic trunks but also the cervical ganglia (superior, middle and inferior), which send sympathetic nerve fibers to the head and thorax organs, and the celiac and mesenteric ganglia, which send sympathetic fibers to the gut.
 
-## The Parasympathetic nervous system
+## The Parasympathetic Nervous System
 
 The parasympathetic system is responsible for stimulation of "rest-and-digest" or "feed and breed" activities that occur when the body is at rest, especially after eating, including sexual arousal, salivation, lacrimation (tears), urination, digestion and defecation. Its action is described as being complementary to that of the sympathetic nervous system, which is responsible for stimulating activities associated with the fight-or-flight response.
 

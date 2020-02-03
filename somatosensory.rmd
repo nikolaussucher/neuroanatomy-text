@@ -8,7 +8,7 @@ The mapping of the body surfaces in the brain is called somatotopy. In the corte
 
 Peripheral neuropathy, often shortened to neuropathy, is a general term describing disease affecting the peripheral nerves, meaning nerves beyond the brain and spinal cord. Damage to peripheral nerves may impair sensation, movement, gland or organ function depending on which nerves are affected; in other words, neuropathy affecting motor, sensory, or autonomic nerves result in different symptoms. More than one type of nerve may be affected simultaneously. Peripheral neuropathy may be acute (with sudden onset, rapid progress) or chronic (symptoms begin subtly and progress slowly), and may be reversible or permanent. Paresthesia is an abnormal sensation of the skin (tingling, pricking, chilling, burning, numbness) with no apparent physical cause. Paresthesia may be transient or chronic, and may have any of dozens of possible underlying causes. Paresthesias are usually painless and can occur anywhere on the body, but most commonly occur in the arms and legs.
 
-## Sensory receptors
+## Sensory Receptors
 
 The four mechanoreceptors in the skin each respond to different stimuli for short or long periods.
 
@@ -20,7 +20,7 @@ Lamellar corpuscles determine gross touch and distinguish rough and soft substan
 
 Bulbous corpuscles react slowly and respond to sustained skin stretch. They are responsible for the feeling of object slippage and play a major role in the kinesthetic sense and control of finger position and movement. Merkel and bulbous cells - slow-response - are myelinated; the rest - fast-response - are not. All of these receptors are activated upon pressures that squish their shape causing an action potential.
 
-## The somatosensory pathways
+## The Somatosensory Pathways
 
 All afferent touch/vibration info ascends the spinal cord via the posterior (dorsal) column-medial lemniscus pathway via gracilis (T7 and below) or cuneatus (T6 and above). Cuneatus sends signals to the cochlear nucleus indirectly via spinal grey matter, this info is used in determining if a perceived sound is just villi noise/irritation. All fibers cross (left becomes right) in the medulla.
 
@@ -49,7 +49,7 @@ The somatosensory cortex encodes incoming sensory information from receptors all
 
 Meanwhile, the feeling of pleasantness associated with affective touch activates the anterior cingulate cortex more than the primary somatosensory cortex. Functional magnetic resonance imaging (fMRI) data shows that increased blood-oxygen-level contrast (BOLD) signal in the anterior cingulate cortex as well as the prefrontal cortex is highly correlated with pleasantness scores of an affective touch. Inhibitory transcranial magnetic stimulation (TMS) of the primary somatosensory cortex inhibits the perception of affective touch intensity, but not affective touch pleasantness. Therefore, the S1 is not directly involved in processing socially affective touch pleasantness, but still plays a role in discriminating touch location and intensity.
 
-## The primary somatosensory cortex
+## The Primary Somatosensory Cortex
 
 The primary somatosensory cortex is located in the postcentral gyrus, and is part of the somatosensory system. It was initially defined from surface stimulation studies of Wilder Penfield, and parallel surface potential studies of Bard, Woolsey, and Marshall. Although initially defined to be roughly the same as Brodmann areas 3, 1 and 2, more recent work by Kaas has suggested that for homogeny with other sensory fields only area 3 should be referred to as "primary somatosensory cortex", as it receives the bulk of the thalamocortical projections from the sensory input fields.
 
@@ -66,3 +66,36 @@ Somatosensory cortex, like other neocortex, is layered. Like other sensory corte
 This area of cortex, as shown by Wilder Penfield and others, is organized somatotopically, having the pattern of a homunculus. That is, the legs and trunk fold over the midline; the arms and hands are along the middle of the area shown here; and the face is near the bottom of the figure. While it is not well-shown here, the lips and hands are enlarged on a proper homunculus, since a larger number of neurons in the cerebral cortex are devoted to processing information from these areas.
 
 These areas contain cells that project to the secondary somatosensory cortex.
+
+## Proprioception
+
+Proprioception is the sense of self-movement and body position. It is sometimes described as the "sixth sense".
+
+Proprioception is mediated by proprioceptors, mechanosensory neurons located within muscles, tendons, and joints. There are multiple types of proprioceptors which are activated during distinct behaviors and encode distinct types of information: limb velocity and movement, load on a limb, and limb limits. Vertebrates and invertebrates have distinct but similar modes of encoding this information.
+
+The central nervous system integrates proprioception and other sensory systems, such as vision and the vestibular system, to create an overall representation of body position, movement, and acceleration.
+
+In vertebrates, limb velocity and movement (muscle length and the rate of change) are encoded by one group of sensory neurons (Type Ia sensory fiber) and another type encode static muscle length (Group II neurons). These two types of sensory neurons compose muscle spindles. There is a similar division of encoding in invertebrates; different subgroups of neurons of the Chordotonal organ encode limb position and velocity.
+
+To determine the load on a limb, vertebrates use sensory neurons in the Golgi tendon organs: type Ib afferents. These proprioceptors are activated at given muscle forces, which indicate the resistance that muscle is experiencing. Similarly, invertebrates have a mechanism to determine limb load: the Campaniform sensilla. These proprioceptors are active when a limb experiences resistance.
+
+A third role for proprioceptors is to determine when a joint is at a specific position. In vertebrates, this is accomplished by Ruffini endings and Pacinian corpuscles. These proprioceptors are activated when the joint is at a threshold, usually at the extremes of joint position. Invertebrates use hair plates to accomplish this; a row of bristles located along joints detect when the limb moves.
+
+The sense of proprioception is ubiquitous across mobile animals and is essential for the motor coordination of the body. Proprioceptors can form reflex circuits with motor neurons to provide rapid feedback about body and limb position. These mechanosensory circuits are important for flexibly maintaining posture and balance, especially during locomotion. For example, consider the stretch reflex, in which stretch across a muscle is detected by a sensory receptor (e.g., muscle spindle, chordotonal neurons), which activates a motor neuron to induce muscle contraction and oppose the stretch. During locomotion, sensory neurons can reverse their activity when stretched, to promote rather than oppose movement.
+
+In humans, a distinction is made between conscious proprioception and non-conscious proprioception:
+
+Non-conscious proprioception is communicated primarily via the dorsal spinocerebellar tract and ventral spinocerebellar tract, to the cerebellum. A non-conscious reaction is seen in the human proprioceptive reflex, or righting reflex—in the event that the body tilts in any direction, the person will cock their head back to level the eyes against the horizon. This is seen even in infants as soon as they gain control of their neck muscles. This control comes from the cerebellum, the part of the brain affecting balance.
+
+Proprioception is mediated by mechanically sensitive proprioceptor neurons distributed throughout an animal's body. Most vertebrates possess three basic types of proprioceptors: muscle spindles, which are embedded in skeletal muscle fibers, Golgi tendon organs, which lie at the interface of muscles and tendons, and joint receptors, which are low-threshold mechanoreceptors embedded in joint capsules. Many invertebrates, such as insects, also possess three basic proprioceptor types with analogous functional properties: chordotonal neurons, campaniform sensilla, and hair plates.
+
+The initiation of proprioception is the activation of a proprioreceptor in the periphery. The proprioceptive sense is believed to be composed of information from sensory neurons located in the inner ear (motion and orientation) and in the stretch receptors located in the muscles and the joint-supporting ligaments (stance). There are specific nerve receptors for this form of perception termed "proprioreceptors", just as there are specific receptors for pressure, light, temperature, sound, and other sensory experiences. Proprioreceptors are sometimes known as adequate stimuli receptors. TRPN, a member of the transient receptor potential family of ion channels, has been found to be responsible for proprioception in fruit flies, nematode worms, African clawed frogs, and zebrafish. PIEZO2, a nonselective cation channel, has been shown to underlie the mechanosensitivity of proprioceptors in mice. The channel mediating human proprioceptive mechanosensation has yet to be discovered.
+
+Proprioception of the head stems from the muscles innervated by the trigeminal nerve, where the GSA fibers pass without synapsing in the trigeminal ganglion (first-order sensory neuron), reaching the mesencephalic tract and the mesencephalic nucleus of trigeminal nerve.
+
+Although it was known that finger kinesthesia relies on skin sensation, recent research has found that kinesthesia-based haptic perception relies strongly on the forces experienced during touch. This research allows the creation of "virtual", illusory haptic shapes with different perceived qualities.
+
+An important role for proprioception is to allow an animal to stabilize itself against perturbations. For instance, for a person to walk or stand upright, they must continuously monitor their posture and adjust muscle activity as needed to provide balance. Similarly, when walking on unfamiliar terrain or even tripping, the person must adjust the output of their muscles quickly based on estimated limb position and velocity. Proprioceptor reflex circuits are thought to play an important role to allow fast and unconscious execution of these behaviors, To make control of these behaviors efficient, proprioceptors are also thought to regulate reciprocal inhibition in muscles, leading to agonist-antagonist muscle pairs.
+
+When planning complex movements such as reaching or grooming, animals must consider the current position and velocity of their limb and use it to adjust dynamics to target a final position. If the animal's estimate of their limb's initial position is wrong, this can lead to a deficiency in the movement. Furthermore, proprioception is crucial in refining the movement if it deviates from the trajectory.
+
