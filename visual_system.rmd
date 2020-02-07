@@ -39,6 +39,12 @@ The vertebrate retina has ten distinct layers. From closest to farthest from the
 
 These layers can be grouped into 4 main processing stages: photoreception; transmission to bipolar cells; transmission to ganglion cells, which also contain photoreceptors, the photosensitive ganglion cells; and transmission along the optic nerve. At each synaptic stage there are also laterally connecting horizontal and amacrine cells.
 
+(ref:retina) Vertical section of the adult human retina. Carmine and Nissl stain. *A*, Photoreceptor layer. *B*, Cell bodies of the photoreceptors. *C*, Outer plexiform layer. *D*, Internal granule layer. *E*, Internal plexiform layer. *F*, Ganglion cell layer. *G*, Ganglion cell axons. *a*, external limiting membrane. *b*, internal limiting membrane. *c*, Spherical endfeet of the rod photoreceptors. *d*, endfeet of the cones. e. *a*, cone. *f*, a rod *g*, horizontal cells. *h*, amacrine cells. Fig. 188 from [Histologie du système nerveux de l'homme & des vertébrés](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=0&z=-0.9137%2C-0.0887%2C2.8274%2C1.7747) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+
+```{r retcajal, fig.cap='(ref:retina)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/visual/retina_cajal.png")
+```
+
 The optic nerve is a central tract of many axons of ganglion cells connecting primarily to the lateral geniculate body, a visual relay station in the diencephalon (the rear of the forebrain). It also projects to the superior colliculus, the suprachiasmatic nucleus, and the nucleus of the optic tract. It passes through the other layers, creating the optic disc in primates.
 
 Additional structures, not directly associated with vision, are found as outgrowths of the retina in some vertebrate groups. In birds, the pecten is a vascular structure of complex shape that projects from the retina into the vitreous humour; it supplies oxygen and nutrients to the eye, and may also aid in vision. Reptiles have a similar, but much simpler, structure.
