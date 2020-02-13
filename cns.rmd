@@ -2,10 +2,6 @@
 
 The central nervous system (CNS) is the part of the nervous system consisting of the brain and spinal cord. The CNS is so named because it integrates the received information and coordinates and influences the activity of all parts of the bodies of bilaterally symmetric animals—that is, all multicellular animals except sponges and radially symmetric animals such as jellyfish—and it contains the majority of the nervous system. The CNS is contained within the dorsal body cavity, with the brain housed in the cranial cavity and the spinal cord in the spinal canal. In vertebrates, the brain is protected by the skull, while the spinal cord is protected by the vertebrae. The brain and spinal cord are both enclosed in the meninges. 
 
-The cerebrum is the largest part of the human brain. It is divided into two cerebral hemispheres. The cerebral cortex is an outer layer of grey matter, covering the core of white matter. The cortex is split into the neocortex and the much smaller allocortex. The neocortex is made up of six neuronal layers, while the allocortex has three or four. Each hemisphere is conventionally divided into four lobes – the frontal, temporal, parietal, and occipital lobes. Within each lobe, cortical areas are associated with specific functions, such as the sensory, motor and association regions. Although the left and right hemispheres are broadly similar in shape and function, some functions are associated with one side, such as language in the left and visual-spatial ability in the right. The hemispheres are connected by commissural nerve tracts, the largest being the corpus callosum.
-
-The cerebrum is connected by the brainstem to the spinal cord. The brainstem consists of the midbrain, the pons, and the medulla oblongata. The cerebellum is connected to the brainstem by pairs of tracts. Within the cerebrum is the ventricular system, consisting of four interconnected ventricles in which cerebrospinal fluid is produced and circulated. Underneath the cerebral cortex are several important structures, including the thalamus, the epithalamus, the pineal gland, the hypothalamus, the pituitary gland, and the subthalamus; the limbic structures, including the amygdala and the hippocampus; the claustrum, the various nuclei of the basal ganglia; the basal forebrain structures, and the three circumventricular organs. 
-
 ## The Meninges
 
 The meninges (from Ancient Greek: μῆνιγξ, romanized: mēninx, lit. 'membrane', adjectival: meningeal) are the three membranes that envelop the brain and spinal cord. In mammals, the meninges are the dura mater, the arachnoid mater, and the pia mater. Cerebrospinal fluid is located in the subarachnoid space between the arachnoid mater and the pia mater. The primary function of the meninges is to protect the central nervous system.
@@ -50,6 +46,12 @@ The system comprises four ventricles:
 * lateral ventricles right and left (one for each hemisphere)
 * third ventricle
 * fourth ventricle
+
+(ref:ventricle) The ventricular system of the brain as seen from above. [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
+
+```{r ventricles, fig.cap='(ref:ventricle)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Ventricles.jpg")
+```
 
 There are several foramina, openings acting as channels, that connect the ventricles. The interventricular foramina (also called the foramina of Monro) connect the lateral ventricles to the third ventricle through which the cerebrospinal fluid can flow.
 
@@ -106,18 +108,74 @@ However, in a later experiment in 1913, [Edwin Goldmann](https://en.wikipedia.or
 
 ## The Cerebrum
 
-The cerebrum is the largest part of the brain, and is divided into nearly symmetrical left and right hemispheres by a deep groove, the longitudinal fissure. The hemispheres are connected by five commissures that span the longitudinal fissure, the largest of these is the corpus callosum. Each hemisphere is conventionally divided into four main lobes; the frontal lobe, parietal lobe, temporal lobe, and occipital lobe, named according to the skull bones that overlie them. The surface of the brain is folded into ridges (gyri) and grooves (sulci), many of which are named, usually according to their position, such as the frontal gyrus of the frontal lobe or the central sulcus separating the central regions of the hemispheres. There are many small variations in the secondary and tertiary folds.
+The cerebrum is the largest part of the brain, and is divided into nearly symmetrical left and right hemispheres by a deep groove, the longitudinal fissure (Figure \@ref(fig:topview)). The hemispheres are connected by five commissures that span the longitudinal fissure, the largest of these is the corpus callosum (Figure \@ref(fig:medialview)). Each hemisphere is conventionally divided into four main lobes; the frontal lobe, parietal lobe, temporal lobe, and occipital lobe, named according to the skull bones that overlie them. The surface of the brain is folded into ridges (gyri) and grooves (sulci), many of which are named, usually according to their position, such as the frontal gyrus of the frontal lobe or the central sulcus separating the central regions of the hemispheres. There are many small variations in the secondary and tertiary folds.
+
+(ref:top) View of the human brain (cerebrum) showing the left and right hemispheres from the top. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_628.png)
+
+```{r topview, fig.cap='(ref:top)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_628.jpg")
+```
+
+(ref:medial) Medial view of the left hemisphere of the human brain. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_624.png)
+
+```{r medialview, fig.cap='(ref:medial)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_624.jpg")
+```
+
+(ref:lateral) Lateral view of the left hemisphere of the human brain. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_626.png)
+
+```{r lateralview, fig.cap='(ref:medial)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_626.jpg")
+```
+
+(ref:bottom) Bottom view of the human brain. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_623.png)
+
+```{r bottomview, fig.cap='(ref:bottom)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_623.jpg")
+```
 
 ### The Cerebral Cortex
 
-The outer part of the cerebrum is the cerebral cortex, made up of grey matter arranged in layers. It is 2 to 4 millimetres thick, and deeply folded to give a convoluted appearance. Beneath the cortex is the cerebral white matter. Based on the differences in laminar organization the cerebral cortex can be classified into two types, the large area of neocortex which has six cell layers, and the much smaller area of allocortex that has three or four layers:
+The outer part of the cerebrum is the cerebral cortex, made up of grey matter arranged in layers. It is 2 to 4 millimetres thick, and deeply folded to give a convoluted appearance. Beneath the cortex is the cerebral white matter (Figure \@ref(fig:coronalsection)). Based on the differences in laminar organization the cerebral cortex can be classified into two types, the large area of neocortex which has six cell layers, and the much smaller area of allocortex that has three or four layers:
 
-* The neocortex is also known as the isocortex or neopallium and is the part of the mature cerebral cortex with six distinct layers. Examples of neocortical areas include the granular primary motor cortex, and the striate primary visual cortex. The neocortex has two subtypes, the true isocortex and the proisocortex which is a transitional region between the isocortex and the regions of the periallocortex.
+(ref:coronal) Coronal section of the human brain through the anterior end of the third ventricle showing the cerebral cortex (dark grey) above the underlying white matter (light grey). [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_645.png)
+
+```{r coronalsection, fig.cap='(ref:coronal)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_645_no_labels.jpg")
+```
+
+* The neocortex is also known as the isocortex or neopallium and is the part of the mature cerebral cortex with six distinct layers. Examples of neocortical areas include the granular primary motor cortex, and the striate primary visual cortex "(Figure \@ref(fig:viscortex))". The neocortex has two subtypes, the true isocortex and the proisocortex which is a transitional region between the isocortex and the regions of the periallocortex.
 * The allocortex is the part of the cerebral cortex with three or four layers, and has three subtypes, the paleocortex with three cortical laminae, the archicortex which has four or five, and a transitional area adjacent to the allocortex, the periallocortex. Examples of allocortex are the olfactory cortex and the hippocampus.
 
-The six cortical layers of the neocortex each contain a characteristic distribution of different neurons and their connections with other cortical and subcortical regions. There are direct connections between different cortical areas and indirect connections via the thalamus.
+Staining cross-sections of the cortex to reveal the position of neuronal cell bodies allowed neuroanatomists to produce a detailed description of the laminar structure of the cortex (Figure \@ref(fig:cajallayers) and Figure \@ref(fig:brodmannlayers)). 
 
-Staining cross-sections of the cortex to reveal the position of neuronal cell bodies and the intracortical axon tracts allowed neuroanatomists in the early 20^th^ century to produce a detailed description of the laminar structure of the cortex in different species. The cortex is mapped by divisions into fifty-two different areas known as Brodmann's areas. These areas are distinctly different when seen under a microscope. Brodmann areas were originally defined and numbered by the German anatomist [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann) based on the cytoarchitectural organization of neurons he observed in the cerebral cortex using the Nissl method of cell staining. Brodmann published his maps of cortical areas in humans, monkeys, and other species in 1909, along with many other findings and observations regarding the general cell types and laminar organization of the mammalian cortex. The same Brodmann area number in different species does not necessarily indicate homologous areas. Brodmann postulated that areas with different structures performed different functions. Indeed, some of these areas were later associated to nervous functions, such as the following:
+(ref:layers1) A section of the visual cortex close to the calcarine fissure from the brain of a 29 year old male. Cajal distinguished 9 different layers based on differences of the morpholical features of groups of neurons. [Studien über die Hirnrinde des Menschen by S. R. y Cajal](https://wellcomelibrary.org/item/b28084585)
+
+```{r cajallayers, fig.cap='(ref:layers1)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/cajal_shm_fig1.jpg")
+```
+
+Based on the cytoarchitectural organization of neurons observed using the Nissl method of cell staining, the German anatomist [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann) distinguished in the human cortex 7 major cytoarchitectonic regions (*Hauptregionen* in German; Figure \@ref(fig:brodmannregions)) which he subdived into 52 distinct areas (*Felder* in German; Figure \@ref(fig:brodmannareas)).
+
+(ref:layers2) [Based on his studies of developing and adult brains of humans and other animals, Korbinian Brodmann proposed that the cerebral cortex consists of six layers. During development and in different brain regions, individual layers can combine or split into sublayers creating location specific cytoarchitectonics.](https://wellcomelibrary.org/item/b28062449)
+
+```{r brodmannlayers, fig.cap='(ref:layers2)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/cortex_area_5.jpg")
+```
+
+(ref:brodreg) [Brodmann's diagram of the cerebral cortex with the areas he identified](https://wellcomelibrary.org/item/b28062449)
+
+```{r brodmannregions, fig.cap='(ref:brodreg)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Brodmann_hauptregionen.jpg")
+```
+
+(ref:brodar) [Brodmann's diagram of the cerebral cortex with the areas he identified](https://wellcomelibrary.org/item/b28062449)
+
+```{r brodmannareas, fig.cap='(ref:brodar)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Brodmann_original.jpg")
+```
+
+These areas are distinctly different when seen under a microscope. Brodmann published his maps of cortical areas in humans, monkeys, and other species in 1909, along with many other findings and observations regarding the general cell types and laminar organization of the mammalian cortex. The same Brodmann area number in different species does not necessarily indicate homologous areas. Brodmann postulated that areas with different structures performed different functions. Indeed, some of these areas were later associated to nervous functions, such as the following:
 
 * Brodmann area 41 and 42 in the temporal lobe, related to hearing
 * Brodmann area 45 and 44 overlap with the Broca's area for language in humans
@@ -125,15 +183,9 @@ Staining cross-sections of the cortex to reveal the position of neuronal cell bo
 * Brodmann area 4 in the precentral gyrus of the frontal lobe (the primary motor area)
 * Brodmann area 17 and 18 in the occipital lobe (the primary visual areas).
 
-(ref:brod)[Brodmann's diagram of the cerebral cortex with the areas he identified](https://commons.wikimedia.org/wiki/File:Brodmann-areas.png)
-
-```{r brodmann, fig.cap='(ref:brod)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/cns/Brodmann-areas.png")
-```
-
 His work to characterize brain cytoarchitecture was strongly influenced by [Oskar](https://en.wikipedia.org/wiki/Oskar_Vogt), and [Cécile](https://en.wikipedia.org/wiki/Cécile_Vogt-Mugnier) Vogt who postulated over 200 distinct areas in the brain. Another cortical map was published in the two volume work "Die Cytoarchitektonik der Hirnrinde des erwachsenen Menschen" ("Cytoarchitectonics of the Adult Human Cerebral Cortex") by [Constantin von Economo](https://en.wikipedia.org/wiki/Constantin_von_Economo) and [Georg N. Koskinas](https://en.wikipedia.org/wiki/Georg_N._Koskinas) in 1925.
 
-(ref:vogt)[Korbinian Brodmann, Cécile Vogt-Mugnier, Oskar Vogt, Max Borcherdt, and Max Lewandowsky.](https://commons.wikimedia.org/wiki/File:Lewandowsky_Vogts_Brodmann.JPG)
+(ref:vogt) [Korbinian Brodmann, Cécile Vogt-Mugnier, Oskar Vogt, Max Borcherdt, and Max Lewandowsky.](https://commons.wikimedia.org/wiki/File:Lewandowsky_Vogts_Brodmann.JPG)
 
 ```{r vogtlab, fig.cap='(ref:vogt)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/Lewandowsky_Vogts_Brodmann.jpg")
@@ -150,6 +202,12 @@ Layer IV, the internal granular layer, contains different types of stellate and 
 Layer V, the internal pyramidal layer, contains large pyramidal neurons. Axons from these leave the cortex and connect with subcortical structures including the basal ganglia. In the primary motor cortex of the frontal lobe, layer V contains giant pyramidal cells called Betz cells, whose axons travel through the internal capsule, the brain stem, and the spinal cord forming the corticospinal tract, which is the main pathway for voluntary motor control.
 
 Layer VI, the polymorphic or multiform layer, contains few large pyramidal neurons and many small spindle-like pyramidal and multiform neurons; layer VI sends efferent fibers to the thalamus, establishing a very precise reciprocal interconnection between the cortex and the thalamus. That is, layer VI neurons from one cortical column connect with thalamus neurons that provide input to the same cortical column. These connections are both excitatory and inhibitory. Neurons send excitatory fibers to neurons in the thalamus and also send collaterals to the thalamic reticular nucleus that inhibit these same thalamus neurons or ones adjacent to them.
+
+(ref:vis1718) The layers in Brodmann areas 17 (towards the right from the arrows) and 18 (towards the left of the arrows) in the human occipital cortex. Like Cajal, Brodmann identified 9 layers (right) in the calcarine area of the visual cortex but in order to fit this observation into this overall scheme of six layers, he chose to subdivide layers 4 and 6. The layers are: I. Lamina zonalis, II. Lamina granularis externa, III Lamina pyramidalis, IV Lamina granularis interna, IVa Sublamina granularis superficialis, IVb Sublamina granularis intermedia, IVc Sublamina granularis interna profunda, V Lamina ganglionaris, VI Lamina multiformis, VIa Sublamina trinagularis, VIb Sublamina fusiformis Sublamina granularis superficialis, IVb Sublamina granularis intermedia, IVc Sublamina granularis interna profunda, V Lamina ganglionaris, VI Lamina multiformis, VIa Sublamina trinagularis, VIb Sublamina fusiformis. [Vergleichende Lokalisationslehre der Grosshirnrinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues by K. Brodmann, 1909](https://wellcomelibrary.org/item/b28062449)
+
+```{r viscortex, fig.cap='(ref:vis1718)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/cortex_area_17_18.jpg")
+```
 
 The cerebral cortex is connected to various subcortical structures such as the thalamus and the basal ganglia, sending information to them along efferent connections and receiving information from them via afferent connections. Most sensory information is routed to the cerebral cortex via the thalamus. Olfactory information, however, passes through the olfactory bulb to the olfactory cortex (piriform cortex).
 
@@ -226,6 +284,13 @@ Anatomically, it is a midline symmetrical structure of two halves (left and righ
 
 The thalamus has many connections to the hippocampus via the mammillothalamic tract, this tract comprises the mammillary bodies and fornix.
 
+(ref:thalamus) View of the left hemisphere from medial and below with the brainstem and cerebellum removed by an oblique section through the thalamus. The entire fornix is visible as are the mammilary body. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_634.png)
+
+
+```{r thalamusview, fig.cap='(ref:thalamus)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_634.jpg")
+```
+
 The thalamus is connected to the cerebral cortex via the thalamocortical radiations.
 
 The spinothalamic tract is a sensory pathway originating in the spinal cord. It transmits information to the thalamus about pain, temperature, itch and crude touch. There are two main parts: the lateral spinothalamic tract, which transmits pain and temperature, and the anterior (or ventral) spinothalamic tract, which transmits crude touch and pressure.
@@ -260,7 +325,7 @@ Sectioning of the midbrain is usually performed axially, at one of two levels �
 
 The tectum (Latin for roof) is the dorsal side of the midbrain. The position of the tectum is contrasted with the tegmentum, which refers to the region in front of the ventricular system, or floor of the midbrain.
 
-The mesencephalon is considered part of the brainstem. Its substantia nigra is closely associated with motor system pathways of the basal ganglia. The human mesencephalon is archipallian in origin, meaning that its general architecture is shared with the most ancient of vertebrates. Dopamine produced in the substantia nigra and ventral tegmental area plays a role in movement, movement planning, excitation, motivation and habituation of species from humans to the most elementary animals such as insects. Laboratory house mice from lines that have been selectively bred for high voluntary wheel running have enlarged midbrains. The midbrain helps to relay information for vision and hearing.It is involved in certain reflexes in response to visual or auditory stimuli. The reticulospinal tract, which exerts some control over alertness, takes input from the tectum, and travels both rostrally and caudally from it.
+The mesencephalon is considered part of the brainstem (Figure \@ref(fig:quadrigemina)). Its substantia nigra is closely associated with motor system pathways of the basal ganglia. The human mesencephalon is archipallian in origin, meaning that its general architecture is shared with the most ancient of vertebrates. Dopamine produced in the substantia nigra and ventral tegmental area plays a role in movement, movement planning, excitation, motivation and habituation of species from humans to the most elementary animals such as insects. Laboratory house mice from lines that have been selectively bred for high voluntary wheel running have enlarged midbrains. The midbrain helps to relay information for vision and hearing.It is involved in certain reflexes in response to visual or auditory stimuli. The reticulospinal tract, which exerts some control over alertness, takes input from the tectum, and travels both rostrally and caudally from it.
 
 The corpora quadrigemina are four mounds, called colliculi, in two pairs – a superior and an inferior pair, on the surface of the tectum. The superior colliculi process some visual information, aid the decussation of several fibres of the optic nerve (some fibres remain ipsilateral), and are involved with saccadic eye movements. The tectospinal tract connects the superior colliculi to the cervical nerves of the neck, and co-ordinates head and eye movements. Each superior colliculi also sends information to the corresponding lateral geniculate nucleus, with which it is directly connected. The homologous structure to the superior colliculus in non mammalian vertebrates including fish and amphibians, is called the optic tectum; in those animals, the optic tectum integrates sensory information from the eyes and certain auditory reflexes.
 
@@ -296,13 +361,31 @@ At the level of gross anatomy, the cerebellum consists of a tightly folded layer
 
 The cerebellum is located in the posterior cranial fossa. The fourth ventricle, pons and medulla are in front of the cerebellum. It is separated from the overlying cerebrum by a layer of leathery dura mater, the tentorium cerebelli; all of its connections with other parts of the brain travel through the pons. Anatomists classify the cerebellum as part of the metencephalon, which also includes the pons; the metencephalon is the upper part of the rhombencephalon or "hindbrain". Like the cerebral cortex, the cerebellum is divided into two hemispheres; it also contains a narrow midline zone (the vermis). A set of large folds is, by convention, used to divide the overall structure into 10 smaller "lobules". Because of its large number of tiny granule cells, the cerebellum contains more neurons than the total from the rest of the brain, but takes up only 10% of the total brain volume. The number of neurons in the cerebellum is related to the number of neurons in the neocortex. There are about 3.6 times as many neurons in the cerebellum as in the neocortex, a ratio that is conserved across many different mammalian species.
 
+(ref:cerebellumab) View of the cerebellum viewed from above and behind (top) and from below (bottom). [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_653.png)
+
+```{r cerebellumabovebelow, fig.cap='(ref:cerebellumab)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobotta_1909_653.jpg")
+```
+
 The unusual surface appearance of the cerebellum conceals the fact that most of its volume is made up of a very tightly folded layer of gray matter: the cerebellar cortex. Each ridge or gyrus in this layer is called a folium. It is estimated that, if the human cerebellar cortex were completely unfolded, it would give rise to a layer of neural tissue about 1 meter long and averaging 5 centimeters wide—a total surface area of about 500 square cm, packed within a volume of dimensions 6 cm × 5 cm × 10 cm. Underneath the gray matter of the cortex lies white matter, made up largely of myelinated nerve fibers running to and from the cortex. Embedded within the white matter—which is sometimes called the arbor vitae (tree of life) because of its branched, tree-like appearance in cross-section—are four deep cerebellar nuclei, composed of gray matter.
 
 Connecting the cerebellum to different parts of the nervous system are three paired cerebellar peduncles. These are the superior cerebellar peduncle, the middle cerebellar peduncle and the inferior cerebellar peduncle, named by their position relative to the vermis. The superior cerebellar peduncle is mainly an output to the cerebral cortex, carrying efferent fibers via thalamic nuclei to upper motor neurons in the cerebral cortex. The fibers arise from the deep cerebellar nuclei. The middle cerebellar peduncle is connected to the pons and receives all of its input from the pons mainly from the pontine nuclei. The input to the pons is from the cerebral cortex and is relayed from the pontine nuclei via transverse pontine fibers to the cerebellum. The middle peduncle is the largest of the three and its afferent fibers are grouped into three separate fascicles taking their inputs to different parts of the cerebellum. The inferior cerebellar peduncle receives input from afferent fibers from the vestibular nuclei, spinal cord and the tegmentum. Output from the inferior peduncle is via efferent fibers to the vestibular nuclei and the reticular formation. The whole of the cerebellum receives modulatory input from the inferior olivary nucleus via the inferior cerebellar peduncle.
 
+(ref:cerebellumai) Anterior (top) and inferior (bottom) view of the cerebellum viewed from above and behind (top). [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_655.png)
+
+```{r cerebellumanteriorinferior, fig.cap='(ref:cerebellumai)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobotta_1909_655.jpg")
+```
+
 Based on the surface appearance, three lobes can be distinguished within the cerebellum: the anterior lobe (above the primary fissure), the posterior lobe (below the primary fissure), and the flocculonodular lobe (below the posterior fissure). These lobes divide the cerebellum from rostral to caudal (in humans, top to bottom). In terms of function, however, there is a more important distinction along the medial-to-lateral dimension. Leaving out the flocculonodular lobe, which has distinct connections and functions, the cerebellum can be parsed functionally into a medial sector called the spinocerebellum and a larger lateral sector called the cerebrocerebellum. A narrow strip of protruding tissue along the midline is called the cerebellar vermis. (Vermis is Latin for "worm".)
 
 The smallest region, the flocculonodular lobe, is often called the vestibulocerebellum. It is the oldest part in evolutionary terms (archicerebellum) and participates mainly in balance and spatial orientation; its primary connections are with the vestibular nuclei, although it also receives visual and other sensory input. Damage to this region causes disturbances of balance and gait.
+
+(ref:cerebellumiv) Parts of the cerebellum were removed to expose the fourth ventricle (top) and cross section of the cerebellum showing the cerebellar nuclei (bottom). [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_655.png)
+
+```{r cerebellumcut, fig.cap='(ref:cerebellumiv)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobotta_1909_657.jpg")
+```
 
 The medial zone of the anterior and posterior lobes constitutes the spinocerebellum, also known as paleocerebellum. This sector of the cerebellum functions mainly to fine-tune body and limb movements. It receives proprioceptive input from the dorsal columns of the spinal cord (including the spinocerebellar tract) and from the cranial trigeminal nerve, as well as from visual and auditory systems. It sends fibers to deep cerebellar nuclei that, in turn, project to both the cerebral cortex and the brain stem, thus providing modulation of descending motor systems.
 
@@ -310,7 +393,19 @@ The lateral zone, which in humans is by far the largest part, constitutes the ce
 
 Two types of neuron play dominant roles in the cerebellar circuit: Purkinje cells and granule cells. Three types of axons also play dominant roles: mossy fibers and climbing fibers (which enter the cerebellum from outside), and parallel fibers (which are the axons of granule cells). There are two main pathways through the cerebellar circuit, originating from mossy fibers and climbing fibers, both eventually terminating in the deep cerebellar nuclei.
 
+(ref:purkinje) A Purkinje cell in the cerebellum of a cat. [A drawing of a Golgi stained cell by S. Ramon y Cajal.](https://commons.wikimedia.org/wiki/File:Purkinje_cell_by_Cajal.png)
+
+```{r purkinjecell, fig.cap='(ref:purkinje)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/purkinje_cell.jpg")
+```
+
 Mossy fibers project directly to the deep nuclei, but also give rise to the following pathway: mossy fibers → granule cells → parallel fibers → Purkinje cells → deep nuclei. Climbing fibers project to Purkinje cells and also send collaterals directly to the deep nuclei. The mossy fiber and climbing fiber inputs each carry fiber-specific information; the cerebellum also receives dopaminergic, serotonergic, noradrenergic, and cholinergic inputs that presumably perform global modulation.
+
+(ref:folium) Transverse section through a cerebellar folium. Golgi stain. P. Axon of Pukinje cell. F. Mossy fiber. GR. Granule cell. GR^1^ Axons of granule cells in the molecular layer. M. Stellate cells. M^1^. Basket cells. Basket cell processes around cell bodies of Purkinje cells. Gl. Glial cell. [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
+
+```{r cerebellumfolium, fig.cap='(ref:folium)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/cerebellar_folium.jpg")
+```
 
 The cerebellar cortex is divided into three layers. At the bottom lies the thick granular layer, densely packed with granule cells, along with interneurons, mainly Golgi cells but also including Lugaro cells and unipolar brush cells. In the middle lies the Purkinje layer, a narrow zone that contains the cell bodies of Purkinje cells and Bergmann glial cells. At the top lies the molecular layer, which contains the flattened dendritic trees of Purkinje cells, along with the huge array of parallel fibers penetrating the Purkinje cell dendritic trees at right angles. This outermost layer of the cerebellar cortex also contains two types of inhibitory interneuron: stellate cells and basket cells. Both stellate and basket cells form GABAergic synapses onto Purkinje cell dendrites.
 
@@ -354,6 +449,12 @@ The cerebellum is provided with blood from three paired major arteries: the supe
 ### The Brainstem
 
 The brainstem lies beneath the cerebrum and consists of the midbrain, pons and medulla. It lies in the back part of the skull, resting on the part of the base known as the clivus, and ends at the foramen magnum, a large opening in the occipital bone. The brainstem continues below this as the spinal cord, protected by the vertebral column.
+
+(ref:quadri) View of the brainstem from behind (left) and from the left (right).  [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_660.png)
+
+```{r quadrigemina, fig.cap='(ref:quadri)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobotta_1909_660.jpg")
+```
 
 Ten of the twelve pairs of cranial nerves emerge directly from the brainstem. The brainstem also contains many cranial nerve nuclei and nuclei of peripheral nerves, as well as nuclei involved in the regulation of many essential processes including breathing, control of eye movements and balance. The reticular formation, a network of nuclei of ill-defined formation, is present within and along the length of the brainstem. Many nerve tracts, which transmit information to and from the cerebral cortex to the rest of the body, pass through the brainstem.
 

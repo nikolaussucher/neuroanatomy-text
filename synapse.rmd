@@ -132,7 +132,7 @@ setwd("~/Dropbox/R/neuroanatomy-text-master")
 
 comparison <-  as_tibble(read.csv("data/modulators.csv"))
 
-knitr::kable(comparison, col.names = c("System", "Origin", "Targets", "Effects"), digits = 2, align = 'llll', longtable = TRUE, booktabs = TRUE, caption = "Major modulatory neurotransmitter systems") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "10em") %>% column_spec(2, width = "15em") %>% column_spec(3, width = "10em") %>% column_spec(4, width = "15em") %>% collapse_rows(columns = 1:4, latex_hline = "major", valign = "middle") 
+knitr::kable(comparison, col.names = c("System", "Origin", "Targets", "Effects"), digits = 2, align = 'llll', longtable = TRUE, booktabs = TRUE, caption = "Major modulatory neurotransmitter systems") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "15em") %>% column_spec(3, width = "10em") %>% column_spec(4, width = "15em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
 ```
 
 ## Neurotransmitter Receptors
