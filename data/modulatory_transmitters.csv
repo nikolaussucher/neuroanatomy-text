@@ -1,70 +1,70 @@
 ﻿System,Pathway origin and projections,Regulated cognitive processes and behaviors
 Noradrenaline system,Noradrenergic pathways:,anxiety
-[26][27][28][29][30][31],Locus coeruleus (LC) projections,arousal (wakefulness)
-,LC → Amygdala and Hippocampus,circadian rhythm
-,LC → Brain stem and Spinal cord,cognitive control and working memory (co-regulated by dopamine)
-,LC → Cerebellum,feeding and energy homeostasis
-,LC → Cerebral cortex,medullary control of respiration
-,LC → Hypothalamus,negative emotional memory
-,LC → Tectum,nociception (perception of pain)
-,LC → Thalamus,reward (minor role)
-,LC → Ventral tegmental area,
-,Lateral tegmental field (LTF) projections,
-,LTF → Brain stem and Spinal cord,
-,LTF → Olfactory bulb,
+Noradrenaline system,Locus coeruleus (LC) projections,arousal (wakefulness)
+Noradrenaline system,LC → Amygdala and Hippocampus,circadian rhythm
+Noradrenaline system,LC → Brain stem and Spinal cord,cognitive control and working memory (co-regulated by dopamine)
+Noradrenaline system,LC → Cerebellum,feeding and energy homeostasis
+Noradrenaline system,LC → Cerebral cortex,medullary control of respiration
+Noradrenaline system,LC → Hypothalamus,negative emotional memory
+Noradrenaline system,LC → Tectum,nociception (perception of pain)
+Noradrenaline system,LC → Thalamus,reward (minor role)
+Noradrenaline system,LC → Ventral tegmental area,
+Noradrenaline system,Lateral tegmental field (LTF) projections,
+Noradrenaline system,LTF → Brain stem and Spinal cord,
+Noradrenaline system,LTF → Olfactory bulb,
 Dopamine system,Dopaminergic pathways:,arousal (wakefulness)
-[28][29][30][32][33][34],Ventral tegmental area (VTA) projections,aversion
-,VTA → Amygdala,cognitive control and working memory (co-regulated by norepinephrine)
-,VTA → Cingulate cortex,emotion and mood
-,VTA → Hippocampus,motivation (motivational salience)
-,VTA → Ventral striatum (Mesolimbic pathway),motor function and control
-,VTA → Olfactory bulb,positive reinforcement
-,VTA → Prefrontal cortex (Mesocortical pathway),reward (primary mediator)
-,Nigrostriatal pathway,"sexual arousal, orgasm, and refractory period (via neuroendocrine regulation)"
-,Substantia nigra pars compacta → Dorsal striatum,
-,Tuberoinfundibular pathway,
-,Arcuate nucleus → Median eminence,
-,Hypothalamospinal projection,
-,Hypothalamus → Spinal cord,
-,Incertohypothalamic pathway,
-,Zona incerta → Hypothalamus,
+Dopamine system,Ventral tegmental area (VTA) projections,aversion
+Dopamine system,VTA → Amygdala,cognitive control and working memory (co-regulated by norepinephrine)
+Dopamine system,VTA → Cingulate cortex,emotion and mood
+Dopamine system,VTA → Hippocampus,motivation (motivational salience)
+Dopamine system,VTA → Ventral striatum (Mesolimbic pathway),motor function and control
+Dopamine system,VTA → Olfactory bulb,positive reinforcement
+Dopamine system,VTA → Prefrontal cortex (Mesocortical pathway),reward (primary mediator)
+Dopamine system,Nigrostriatal pathway,"sexual arousal, orgasm, and refractory period (via neuroendocrine regulation)"
+Dopamine system,Substantia nigra pars compacta → Dorsal striatum,
+Dopamine system,Tuberoinfundibular pathway,
+Dopamine system,Arcuate nucleus → Median eminence,
+Dopamine system,Hypothalamospinal projection,
+Dopamine system,Hypothalamus → Spinal cord,
+Dopamine system,Incertohypothalamic pathway,
+Dopamine system,Zona incerta → Hypothalamus,
 Histamine system,Histaminergic pathways:,arousal (wakefulness)
-[29][30][35],Tuberomammillary nucleus (TMN) projections,feeding and energy homeostasis
-,TMN → Cerebral cortex,learning
-,TMN → Hippocampus,memory
-,TMN → Neostriatum,
-,TMN → Nucleus accumbens,
-,TMN → Amygdala,
-,TMN → Hypothalamus,
+Histamine system,Tuberomammillary nucleus (TMN) projections,feeding and energy homeostasis
+Histamine system,TMN → Cerebral cortex,learning
+Histamine system,TMN → Hippocampus,memory
+Histamine system,TMN → Neostriatum,
+Histamine system,TMN → Nucleus accumbens,
+Histamine system,TMN → Amygdala,
+Histamine system,TMN → Hypothalamus,
 Serotonin system,Serotonergic pathways:,arousal (wakefulness)
-[26][28][29][30][36][37][38],Caudal nuclei (CN):,body temperature regulation
-,"Raphe magnus, raphe pallidus, and raphe obscurus","emotion and mood, potentially including aggression"
-,Caudal projections,feeding and energy homeostasis
-,CN → Cerebral cortex,reward (minor role)
-,CN → Thalamus,sensory perception
-,CN → Caudate-putamen and nucleus accumbens,
-,CN → Substantia nigra and ventral tegmental area,
-,Rostral nuclei (RN):,
-,"Nucleus linearis, dorsal raphe, medial raphe, and raphe pontis",
-,Rostral projections,
-,RN → Amygdala,
-,RN → Cingulate cortex,
-,RN → Hippocampus,
-,RN → Hypothalamus,
-,RN → Neocortex,
-,RN → Septum,
-,RN → Thalamus,
-,RN → Ventral tegmental area,
+Serotonin system,Caudal nuclei (CN):,body temperature regulation
+Serotonin system,"Raphe magnus, raphe pallidus, and raphe obscurus","emotion and mood, potentially including aggression"
+Serotonin system,Caudal projections,feeding and energy homeostasis
+Serotonin system,CN → Cerebral cortex,reward (minor role)
+Serotonin system,CN → Thalamus,sensory perception
+Serotonin system,CN → Caudate-putamen and nucleus accumbens,
+Serotonin system,CN → Substantia nigra and ventral tegmental area,
+Serotonin system,Rostral nuclei (RN):,
+Serotonin system,"Nucleus linearis, dorsal raphe, medial raphe, and raphe pontis",
+Serotonin system,Rostral projections,
+Serotonin system,RN → Amygdala,
+Serotonin system,RN → Cingulate cortex,
+Serotonin system,RN → Hippocampus,
+Serotonin system,RN → Hypothalamus,
+Serotonin system,RN → Neocortex,
+Serotonin system,RN → Septum,
+Serotonin system,RN → Thalamus,
+Serotonin system,RN → Ventral tegmental area,
 Acetylcholine system,Cholinergic pathways:,arousal (wakefulness)
-[26][28][29][30][39],Forebrain cholinergic nuclei (FCN):,emotion and mood
-,"Nucleus basalis of Meynert, medial septal nucleus, and diagonal band",learning
-,Forebrain nuclei projections,motor function
-,FCN → Hippocampus,motivation (motivational salience)
-,FCN → Cerebral cortex,short-term memory
-,FCN → Limbic cortex and sensory cortex,reward (minor role)
-,Brainstem cholinergic nuclei (BCN):,
-,"Pedunculopontine nucleus, laterodorsal tegmentum, medial habenula, and",
-,parabigeminal nucleus,
-,Brainstem nuclei projections,
-,BCN → Ventral tegmental area,
-,BCN → Thalamus,
+Acetylcholine system,Forebrain cholinergic nuclei (FCN):,emotion and mood
+Acetylcholine system,"Nucleus basalis of Meynert, medial septal nucleus, and diagonal band",learning
+Acetylcholine system,Forebrain nuclei projections,motor function
+Acetylcholine system,FCN → Hippocampus,motivation (motivational salience)
+Acetylcholine system,FCN → Cerebral cortex,short-term memory
+Acetylcholine system,FCN → Limbic cortex and sensory cortex,reward (minor role)
+Acetylcholine system,Brainstem cholinergic nuclei (BCN):,
+Acetylcholine system,"Pedunculopontine nucleus, laterodorsal tegmentum, medial habenula, and",
+Acetylcholine system,parabigeminal nucleus,
+Acetylcholine system,Brainstem nuclei projections,
+Acetylcholine system,BCN → Ventral tegmental area,
+Acetylcholine system,BCN → Thalamus,

@@ -5,9 +5,9 @@ bookdown::gitbook:
     toc:
       collapse:           section
       before:             |
-        <li><strong><a href="./">Genetics</a></strong></li>
+        <li><strong><a href="./">Neuroanatomy</a></strong></li>
     edit:
-      link:               https://github.com/nikolaussucher/genetics/edit/master/%s
+      link:               https://github.com/nikolaussucher/neuroanatomy-text/edit/master/%s
       text:               "Edit"
     sharing:              no
 #    download:             ["pdf", "epub"]

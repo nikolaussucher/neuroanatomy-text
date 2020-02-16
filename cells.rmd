@@ -154,7 +154,7 @@ setwd("~/Dropbox/R/neuroanatomy-text-master")
 
 comparison <-  as_tibble(read.csv("data/macroglia.csv"))
 
-knitr::kable(comparison, col.names = c("Location","Name","Description"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "Types of macroglia and their location and function.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "35em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
+knitr::kable(comparison, col.names = c("Location","Name","Description"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "Types of macroglia and their location and function.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "20em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
 ```
 
 Microglia are specialized macrophages capable of phagocytosis that protect neurons of the central nervous system. They are derived from the earliest wave of mononuclear cells that originate in yolk sac blood islands early in development, and colonize the brain shortly after the neural precursors begin to differentiate.

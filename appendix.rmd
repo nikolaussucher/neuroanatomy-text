@@ -14,17 +14,12 @@ For humans, one type of vertebrate, anatomical terms may differ from other forms
 
 ## Anatomical Planes
 
-Anatomical planes in a human
+Anatomical planes
+
 * A transverse plane, also known as a cross-section, divides the body into cranial and caudal (head and tail) portions.
 * A longitudinal plane is any plane that is perpendicular to the transverse plane. The main longitudinal planes are:
     * The frontal plane or coronal plane divides the body into dorsal and ventral (back and front, or posterior and anterior) portions. For post-embryonic humans a coronal plane is vertical and a transverse plane is horizontal, but for embryos and quadrupeds a coronal plane is horizontal and a transverse plane is vertical.
-    * The sagittal plane is a plane parallel to the sagittal suture. All other sagittal planes (referred to as parasagittal planes) are parallel to it. The plane is a Y-Z plane, perpendicular to the ground.
-A special sagittal plane is the median plane or midsagittal plane in the midline of the body, and divides the body into left and right (sinister and dexter) portions. This passes through the head, spinal cord, navel, and, in many animals, the tail. The term "median plane" can also refer to the midsagittal plane of other structures, such as a digit.
-
-In human anatomy:
-
-* A transverse (also known as horizontal) plane is an X-Z plane, parallel to the ground, which (in humans) separates the superior from the inferior or, put another way, the head from the feet.
-* A coronal (also known as frontal) plane is a X-Y plane, perpendicular to the ground, which (in humans) separates the anterior from the posterior, the front from the back, the ventral from the dorsal.
+    * The sagittal plane is a plane parallel to the sagittal suture. All other sagittal planes (referred to as parasagittal planes) are parallel to it. The plane is a Y-Z plane, perpendicular to the ground. A special sagittal plane is the median plane or midsagittal plane in the midline of the body, and divides the body into left and right (sinister and dexter) portions. This passes through the head, spinal cord, navel, and, in many animals, the tail. The term "median plane" can also refer to the midsagittal plane of other structures, such as a digit.
 
 ## Anatomical Axes
 
@@ -40,7 +35,7 @@ setwd("~/Dropbox/R/neuroanatomy-text-master")
 
 comparison <-  as_tibble(read.csv("data/axes.csv"))
 
-knitr::kable(comparison, col.names = c("Axis","Directional term","Directed towards"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "The main anatomical axes.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "30em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "10em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
+knitr::kable(comparison, col.names = c("Axis","Directional term","Directed towards"), digits = 2, align = 'lll', longtable = TRUE, booktabs = TRUE, caption = "The main anatomical axes.") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "15em") %>% column_spec(2, width = "10em") %>% column_spec(3, width = "10em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
 ```
 
 The terms "intermediate", "ipsilateral", "contralateral", "superficial", and "deep", while indicating directions, are relative terms and thus do not properly define fixed anatomical axes. Also, while the "rostrocaudal" and anteroposterior directionality are equivalent in a significant portion of the human body, they are different directions in other parts of the body.

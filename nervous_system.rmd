@@ -14,11 +14,23 @@ Nervous tissue first arose in wormlike organisms about 550 to 600 million years 
 
 ## The Cells Of The Nervous System
 
-At the cellular level, the nervous system is defined by the presence of a special type of cell, called the neuron, also known as a "nerve cell". Neurons have special structures that allow them to send signals rapidly and precisely to other cells. They send these signals in the form of electrochemical waves traveling along thin fibers called axons, which cause chemicals called neurotransmitters to be released at junctions called synapses. A cell that receives a synaptic signal from a neuron may be excited, inhibited, or otherwise modulated. The connections between neurons can form neural pathways, neural circuits, and larger networks that generate an organism's perception of the world and determine its behavior. Along with neurons, the nervous system contains other specialized cells called glial cells (or simply glia), which provide structural and metabolic support.
+At the cellular level, the nervous system is defined by the presence of a special type of cell, called the neuron, also known as a nerve cell. Neurons have special structures that allow them to receive and send signals from and to other cells. They send these signals in the form of electrochemical waves traveling along thin fibers called axons, which cause chemicals called neurotransmitters to be released at junctions called synapses. Neurons usually receive signalls at tree-like processes called dendrites. A cell that receives a synaptic signal from another neuron may be excited, inhibited, or otherwise modulated. The connections between neurons can form neural pathways, neural circuits, and larger networks that generate an organism's perception of the world and determine its behavior. Along with neurons, the nervous system contains other specialized cells called glial cells (or simply glia), which provide structural and metabolic support.
+
+(ref:pyramid) A nerve cell from the cerebral cortex of a rabbit. Notice the extensive tree of dendrites at the top, the long axon at the bottom. Because of the pyramid-like shape of the cell body, this type of neuron is referred to as a pyramidal cell. 
+
+```{r pyramidalcell, fig.cap='(ref:pyramid)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cells/RabbitPyramidalCellCajalMetodos.jpg")
+```
 
 Even in the nervous system of a single species such as humans, hundreds of different types of neurons exist, with a wide variety of morphologies and functions. These include sensory neurons that convert physical stimuli such as light and sound into neural signals, and motor neurons that activate muscles or glands; however in many species the great majority of neurons participate in the formation of centralized structures (the brain and ganglia) and they receive all of their input from other neurons and send their output to other neurons.
 
 Glial cells (named from the Greek for "glue") are non-neuronal cells that provide support and nutrition, maintain homeostasis, form myelin, and participate in signal transmission in the nervous system. In the human brain, it is estimated that the total number of glia roughly equals the number of neurons, although the proportions vary in different brain areas. Among the most important functions of glial cells are to support neurons and hold them in place; to supply nutrients to neurons; to insulate neurons electrically; to destroy pathogens and remove dead neurons; and to provide guidance cues directing the axons of neurons to their targets. A very important type of glial cell (oligodendrocytes in the central nervous system, and Schwann cells in the peripheral nervous system) generates layers of a fatty substance called myelin that wraps around axons and provides electrical insulation which allows them to transmit action potentials much more rapidly and efficiently. Microglia serve as important resident immune cells within the central nervous system.
+
+(ref:astro) Glial cells from the cerebral cortex. Because of their star-like shape, this type of glial cells are called astrocytes. 
+
+```{r astrocyte, fig.cap='(ref:astro)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/astrocytes.jpg")
+```
 
 ## Comparative Anatomy And Evolution Of Nervous Systems
 
@@ -91,7 +103,27 @@ The vertebrate nervous system can also be divided into areas called gray matter 
 
 ## The Human Brain
 
-The adult human brain weighs on average about 1.2–1.4 kg (2.6–3.1 lb) which is about 2% of the total body weight, with a volume of around 1260 cm3 in men and 1130 cm3 in women. There is substantial individual variation, with the standard reference range for men being 1,180–1,620 g (2.60–3.57 lb) and for women 1,030–1,400 g (2.27–3.09 lb).
+The adult human brain weighs on average about 1.2–1.4 kg (2.6–3.1 lb) which is about 2% of the total body weight, with a volume of around 1260 cm^3^ in men and 1130 cm^3^ in women. There is substantial individual variation, with the standard reference range for men being 1,180–1,620 g (2.60–3.57 lb) and for women 1,030–1,400 g (2.27–3.09 lb).
+
+The human brain is divided into nearly symmetrical left and right hemispheres by a deep groove, the longitudinal fissure. Each hemisphere is conventionally divided into four main lobes; the frontal lobe, parietal lobe, temporal lobe, and occipital lobe, named according to the skull bones that overlie them. The surface of the brain is folded into ridges (gyri) and grooves (sulci), many of which are named, usually according to their position, such as the frontal gyrus of the frontal lobe or the central sulcus separating the central regions of the hemispheres. There are many small variations in the secondary and tertiary folds.
+
+(ref:gyril) Diagram showing a lateral view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
+
+```{r gyrilateral, fig.cap='(ref:gyril)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/gyri_lat.jpg")
+```
+
+(ref:gyrim) Diagram showing a medial view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
+
+```{r gyrimedial, fig.cap='(ref:gyrim)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/gyri_med.jpg")
+```
+
+(ref:gyrib) Diagram showing a view from the bottom of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
+
+```{r gyribottom, fig.cap='(ref:gyrib)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/gyri_bot.jpg")
+```
 
 Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization. The brain mostly uses glucose for energy, and deprivation of glucose, as can happen in hypoglycemia, can result in loss of consciousness. The energy consumption of the brain does not vary greatly over time, but active regions of the cortex consume somewhat more energy than inactive regions: this fact forms the basis for the functional brain imaging methods PET and fMRI. These functional imaging techniques provide a three-dimensional image of metabolic activity.
 
