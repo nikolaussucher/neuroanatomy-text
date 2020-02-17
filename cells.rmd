@@ -42,15 +42,21 @@ Fully differentiated neurons are permanently postmitotic however, stem cells pre
 
 Like all animal cells, the cell body of every neuron is enclosed by a plasma membrane, a bilayer of lipid molecules with many types of protein structures embedded in it. A lipid bilayer is a powerful electrical insulator, but in neurons, many of the protein structures embedded in the membrane are electrically active. These include ion channels that permit electrically charged ions to flow across the membrane and ion pumps that transport ions from one side of the membrane to the other. Most ion channels are permeable only to specific types of ions. Some ion channels are voltage gated, meaning that they can be switched between open and closed states by altering the voltage difference across the membrane. Others are chemically gated, meaning that they can be switched between open and closed states by interactions with chemicals that diffuse through the extracellular fluid. The ions include sodium, potassium, chloride, and calcium. The interactions between ion channels and ion pumps produce a voltage difference across the membrane, typically a bit less than 1/10 of a volt at baseline. This voltage has two functions: first, it provides a power source for an assortment of voltage-dependent protein machinery that is embedded in the membrane; second, it provides a basis for electrical signal transmission between different parts of the membrane.
 
-### Histology And Internal Structure
-
 Numerous microscopic clumps called Nissl bodies (or Nissl substance) are seen when nerve cell bodies are stained with a basophilic ("base-loving") dye. These structures consist of rough endoplasmic reticulum and associated ribosomal RNA. Named after German psychiatrist and neuropathologist [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl) (1860–1919), they are involved in protein synthesis and their prominence can be explained by the fact that nerve cells are very metabolically active. Basophilic dyes such as aniline or (weakly) haematoxylin  highlight negatively charged components, and so bind to the phosphate backbone of the ribosomal RNA.
 
 The cell body of a neuron is supported by a complex mesh of structural proteins called neurofilaments, which together with neurotubules (neuronal microtubules) are assembled into larger neurofibrils. Some neurons also contain pigment granules, such as neuromelanin (a brownish-black pigment that is byproduct of synthesis of catecholamines), and lipofuscin (a yellowish-brown pigment), both of which accumulate with age. Other structural proteins that are important for neuronal function are actin and the tubulin of microtubules. Class III β-tubulin is found almost exclusively in neurons. Actin is predominately found at the tips of axons and dendrites during neuronal development. There the actin dynamics can be modulated via an interplay with microtubule.
 
 There are different internal structural characteristics between axons and dendrites. Typical axons almost never contain ribosomes, except some in the initial segment. Dendrites contain granular endoplasmic reticulum or ribosomes, in diminishing amounts as the distance from the cell body increases.
 
-Neurons vary in shape and size and can be classified by their morphology and function. The anatomist [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi) grouped neurons into two types; type I with long axons used to move signals over long distances and type II with short axons, which can often be confused with dendrites. Type I cells can be further classified by the location of the soma. The basic morphology of type I neurons, represented by spinal motor neurons, consists of a cell body called the soma and a long thin axon covered by a myelin sheath. The dendritic tree wraps around the cell body and receives signals from other neurons. The end of the axon has branching terminals (axon terminal) that release neurotransmitters into a gap called the synaptic cleft between the terminals and the dendrites of the next neuron.
+Neurons vary in shape and size and can be classified by their morphology and function. The anatomist [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi) grouped neurons into two types; type I with long axons used to move signals over long distances and type II with short axons, which can often be confused with dendrites. Type I cells can be further classified by the location of the soma. The basic morphology of type I neurons, represented by spinal motor neurons, consists of a cell body called the soma and a long thin axon covered by a myelin sheath.
+
+(ref:myelin) A neuron from the electric lobe in the brain of the electric ray (*Torpedo*). A single, thick axon emerges from the cell body unmyelinated (middle, left) but becomes surrounded by a think layer of myelin (dark grey).  Multiple, thin dendrites emerge from the remainder of the cell body. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+
+```{r axonmyelinated, fig.cap='(ref:myelin)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cells/CajalMyelinAxon.jpg")
+```
+
+The dendritic tree wraps around the cell body and receives signals from other neurons. The end of the axon has branching terminals (axon terminal) that release neurotransmitters into a gap called the synaptic cleft between the terminals and the dendrites of the next neuron.
 
 Most neurons can be anatomically characterized as:
 
@@ -62,6 +68,13 @@ Most neurons can be anatomically characterized as:
 * Anaxonic: where the axon cannot be distinguished from the dendrite(s)
 * Pseudounipolar: 1 process which then serves as both an axon and a dendrite
 * Other
+
+(ref:neurons) Morpholoigcally distinct types of neurons after Cajal. A) Unipolar neurons; B) bipolar neurons; Golgi I neurons: C) a Purkinje cell; D) spinal motor neuron E) a pyramidal cell; F) Golgi II neuron. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+
+
+```{r neurontypes, fig.cap='(ref:neurons)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cells/Cajal_neurons.jpg")
+```
 
 Some unique neuronal types can be identified according to their location in the nervous system and distinct shape. Some examples are:
 
@@ -84,17 +97,57 @@ Neurons can also be characterized based on various aspects of their function:
 * Interneurons connect neurons within specific regions of the central nervous system.
 Afferent and efferent also refer generally to neurons that, respectively, bring information to or send information from the brain.
 
-A neuron affects other neurons by releasing a neurotransmitter that binds to chemical receptors. The effect upon the postsynaptic neuron is determined by the type of receptor that is activated, not by the presynaptic neuron or by the neurotransmitter. A neurotransmitter can be thought of as a key, and a receptor as a lock: the same neurotransmitter can activate multiple types of receptors. Receptors can be classified broadly as excitatory (causing an increase in firing rate), inhibitory (causing a decrease in firing rate), or modulatory (causing long-lasting effects not directly related to firing rate).
+The axons of neurons in the human peripheral nervous system can be classified based on their physical features and signal conduction properties. Axons were known to have different thicknesses (from 0.1 to 20 µm)[3] and these differences were thought to relate to the speed at which an action potential could travel along the axon – its conductance velocity. Erlanger and Gasser proved this hypothesis, and identified several types of nerve fiber, establishing a relationship between the diameter of an axon and its nerve conduction velocity. They published their findings in 1941 giving the first classification of axons.
 
-The two most common neurotransmitters in the brain, glutamate and GABA, have largely consistent actions. Glutamate acts on several types of receptors, and has effects that are excitatory at ionotropic receptors and a modulatory effect at metabotropic receptors. Similarly, GABA acts on several types of receptors, but all of them have inhibitory effects (in adult animals, at least). Because of this consistency, it is common for neuroscientists to refer to cells that release glutamate as "excitatory neurons", and cells that release GABA as "inhibitory neurons". Some other types of neurons have consistent effects, for example, "excitatory" motor neurons in the spinal cord that release acetylcholine, and "inhibitory" spinal neurons that release glycine.
+Axons are classified in two systems. The first one introduced by Erlanger and Gasser, grouped the fibers into three main groups using the letters A, B, and C. These groups, group A, group B, and group C include both the sensory fibers (afferents) and the motor fibres (efferents). The first group A, was subdivided into alpha, beta, gamma, and delta fibers — Aα, Aβ, Aγ, and Aδ. The motor neurons of the different motor fibers, were the lower motor neurons – alpha motor neuron, beta motor neuron, and gamma motor neuron having the Aα, Aβ, and Aγ nerve fibers respectively.
 
-The distinction between excitatory and inhibitory neurotransmitters is not absolute. Rather, it depends on the class of chemical receptors present on the postsynaptic neuron. In principle, a single neuron, releasing a single neurotransmitter, can have excitatory effects on some targets, inhibitory effects on others, and modulatory effects on others still. For example, photoreceptor cells in the retina constantly release the neurotransmitter glutamate in the absence of light. So-called OFF bipolar cells are, like most neurons, excited by the released glutamate. However, neighboring target neurons called ON bipolar cells are instead inhibited by glutamate, because they lack typical ionotropic glutamate receptors and instead express a class of inhibitory metabotropic glutamate receptors. When light is present, the photoreceptors cease releasing glutamate, which relieves the ON bipolar cells from inhibition, activating them; this simultaneously removes the excitation from the OFF bipolar cells, silencing them.
+```{r erlanger, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+
+setwd("~/Dropbox/R/neuroanatomy-text-master")
+
+comparison <-  as_tibble(read.csv("data/erlanger_gasser.csv"))
+
+knitr::kable(comparison, col.names = c("Type","Erlanger-Gasser Classification","Diameter (µm)","Myelin","Conduction Velocity (m/s)","Associated Muscle Fibers"), digits = 2, align = 'llllll', longtable = TRUE, booktabs = TRUE, caption = "Erlanger Gasser Classification of Lower Motor Neuron Fiber Types") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "5em") %>% column_spec(3, width = "5em") %>% column_spec(4, width = "5em") %>% column_spec(5, width = "5em") %>% column_spec(6, width = "10em") 
+```
+
+Later findings by other researchers identified two groups of Aα fibers that were sensory fibers. These were then introduced into a system that only included sensory fibers (though some of these were mixed nerves and were also motor fibers). This system refers to the sensory groups as types and uses Roman numerals: Type Ia, Type Ib, Type II, Type III, and Type IV.
+
+```{r sensory, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+
+setwd("~/Dropbox/R/neuroanatomy-text-master")
+
+comparison <-  as_tibble(read.csv("data/sensory_fiber_classification.csv"))
+
+knitr::kable(comparison, col.names = c("Type","Erlanger-Gasser Classification","Diameter (µm)","Myelin","Conduction Velocity (m/s)","Associated Sensory Receptors","Function"), digits = 2, align = 'lllllll', longtable = TRUE, booktabs = TRUE, caption = "Erlanger Gasser Classification of Sensory Fiber Types") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "5em") %>% column_spec(3, width = "5em") %>% column_spec(4, width = "5em") %>% column_spec(5, width = "5em") %>% column_spec(6, width = "5em") %>% column_spec(7, width = "5em") 
+
+```
+
 
 Neurons have intrinsic electroresponsive properties like intrinsic transmembrane voltage oscillatory patterns. So neurons can be classified according to their electrophysiological characteristics:
 
 * Tonic or regular spiking. Some neurons are typically constantly (tonically) active, typically firing at a constant frequency. Example: interneurons in neurostriatum.
 * Phasic or bursting. Neurons that fire in bursts are called phasic.
 * Fast spiking. Some neurons are notable for their high firing rates, for example some types of cortical inhibitory interneurons, cells in globus pallidus, retinal ganglion cells.
+
+Neurons communicate with each another via synapses, where either the axon terminal of one cell contacts another neuron's dendrite, soma or, less commonly, axon. Neurons such as Purkinje cells in the cerebellum can have over 1000 dendritic branches, making connections with tens of thousands of other cells; other neurons, such as the magnocellular neurons of the supraoptic nucleus, have only one or two dendrites, each of which receives thousands of synapses.
+
+Synapses can be excitatory or inhibitory, either increasing or decreasing activity in the target neuron, respectively. Some neurons also communicate via electrical synapses, which are direct, electrically conductive junctions between cells.
+
+When an action potential reaches the axon terminal, it opens voltage-gated calcium channels, allowing calcium ions to enter the terminal. Calcium causes synaptic vesicles filled with neurotransmitter molecules to fuse with the membrane, releasing their contents into the synaptic cleft. The neurotransmitters diffuse across the synaptic cleft and activate receptors on the postsynaptic neuron. High cytosolic calcium in the axon terminal triggers mitochondrial calcium uptake, which, in turn, activates mitochondrial energy metabolism to produce ATP to support continuous neurotransmission.
+
+An autapse is a synapse in which a neuron's axon connects to its own dendrites.
+
+The human brain has some 8.6 x 10^10^ (eighty six billion) neurons. Each neuron has on average 7,000 synaptic connections to other neurons. It has been estimated that the brain of a three-year-old child has about 10^15^ synapses (1 quadrillion). This number declines with age, stabilizing by adulthood. Estimates vary for an adult, ranging from 10^14^ to 5 x 10^14^ synapses (100 to 500 trillion).
+
+The two most common neurotransmitters in the brain, glutamate and GABA, have largely consistent actions. Glutamate acts on several types of receptors, and has effects that are excitatory at ionotropic receptors and a modulatory effect at metabotropic receptors. Similarly, GABA acts on several types of receptors, but all of them have inhibitory effects (in adult animals, at least). Because of this consistency, it is common for neuroscientists to refer to cells that release glutamate as "excitatory neurons", and cells that release GABA as "inhibitory neurons". Some other types of neurons have consistent effects, for example, "excitatory" motor neurons in the spinal cord that release acetylcholine, and "inhibitory" spinal neurons that release glycine.
+
+The distinction between excitatory and inhibitory neurotransmitters is not absolute. Rather, it depends on the class of chemical receptors present on the postsynaptic neuron. In principle, a single neuron, releasing a single neurotransmitter, can have excitatory effects on some targets, inhibitory effects on others, and modulatory effects on others still. For example, photoreceptor cells in the retina constantly release the neurotransmitter glutamate in the absence of light. So-called OFF bipolar cells are, like most neurons, excited by the released glutamate. However, neighboring target neurons called ON bipolar cells are instead inhibited by glutamate, because they lack typical ionotropic glutamate receptors and instead express a class of inhibitory metabotropic glutamate receptors. When light is present, the photoreceptors cease releasing glutamate, which relieves the ON bipolar cells from inhibition, activating them; this simultaneously removes the excitation from the OFF bipolar cells, silencing them.
 
 Neurons can also be classified based on the neurotransmitter they release at synapses:
 
@@ -108,16 +161,6 @@ Neurons can also be classified based on the neurotransmitter they release at syn
 Eight different types of mGluRs, labeled mGluR1 to mGluR8 (GRM1 to GRM8), are divided into groups I, II, and III. Receptor types are grouped based on receptor structure and physiological activity. The mGluRs are further divided into subtypes, such as mGluR7a and mGluR7b.The mGluRs perform a variety of functions in the central and peripheral nervous systems: For example, they are involved in learning, memory, anxiety, and the perception of pain. They are found in pre- and postsynaptic neurons in synapses of retina, the hippocampus, cerebellum, and the cerebral cortex, as well as other parts of the brain and in peripheral tissues.
 * Dopaminergic neurons—dopamine. Dopamine is a neurotransmitter that acts on D1 type (D1 and D5) Gs-coupled receptors, which stimulate the production of cAMP which stimulates protein kinase A (PKA), and D2 type (D2, D3, and D4) receptors, which activate Gi-coupled receptors that decrease cAMP and PKA. Dopamine is connected to mood and behavior and modulates both pre- and post-synaptic neurotransmission. Loss of dopamine neurons in the substantia nigra has been linked to Parkinson's disease. Dopamine is synthesized from the amino acid tyrosine. Tyrosine is converted into levadopa (or L-DOPA) by tyrosine hydroxlase, and levadopa is then converted into dopamine by the aromatic amino acid decarboxylase.
 * Serotonergic neurons—serotonin. Serotonin (5-hydroxytryptamine, 5-HT) can act as excitatory or inhibitory. Of its four 5-HT receptor classes, 3 are GPCR and 1 is a ligand-gated cation channel. Serotonin is synthesized from tryptophan by tryptophan hydroxylase, and then further by decarboxylase. A lack of 5-HT at postsynaptic neurons has been linked to depression. Drugs that block the presynaptic serotonin transporter are used for treatment, such as Prozac and Zoloft.
-
-Neurons communicate with each another via synapses, where either the axon terminal of one cell contacts another neuron's dendrite, soma or, less commonly, axon. Neurons such as Purkinje cells in the cerebellum can have over 1000 dendritic branches, making connections with tens of thousands of other cells; other neurons, such as the magnocellular neurons of the supraoptic nucleus, have only one or two dendrites, each of which receives thousands of synapses.
-
-Synapses can be excitatory or inhibitory, either increasing or decreasing activity in the target neuron, respectively. Some neurons also communicate via electrical synapses, which are direct, electrically conductive junctions between cells.
-
-When an action potential reaches the axon terminal, it opens voltage-gated calcium channels, allowing calcium ions to enter the terminal. Calcium causes synaptic vesicles filled with neurotransmitter molecules to fuse with the membrane, releasing their contents into the synaptic cleft. The neurotransmitters diffuse across the synaptic cleft and activate receptors on the postsynaptic neuron. High cytosolic calcium in the axon terminal triggers mitochondrial calcium uptake, which, in turn, activates mitochondrial energy metabolism to produce ATP to support continuous neurotransmission.
-
-An autapse is a synapse in which a neuron's axon connects to its own dendrites.
-
-The human brain has some 8.6 x 10^10^ (eighty six billion) neurons. Each neuron has on average 7,000 synaptic connections to other neurons. It has been estimated that the brain of a three-year-old child has about 10^15^ synapses (1 quadrillion). This number declines with age, stabilizing by adulthood. Estimates vary for an adult, ranging from 10^14^ to 5 x 10^14^ synapses (100 to 500 trillion).
 
 ## Glia
 
@@ -142,6 +185,12 @@ Some glial cells function primarily as the physical support for neurons. Others 
 Glia are crucial in the development of the nervous system and in processes such as synaptic plasticity and synaptogenesis. Glia have a role in the regulation of repair of neurons after injury. In the central nervous system (CNS), glia suppress repair. Glial cells known as astrocytes enlarge and proliferate to form a scar and produce inhibitory molecules that inhibit regrowth of a damaged or severed axon. In the peripheral nervous system (PNS), glial cells known as Schwann cells promote repair. After axonal injury, Schwann cells regress to an earlier developmental state to encourage regrowth of the axon. This difference between the CNS and the PNS, raises hopes for the regeneration of nervous tissue in the CNS. For example, a spinal cord may be able to be repaired following injury or severance. Schwann cells are also known as neuri-lemmocytes. These cells envelop nerve fibers of the PNS by winding repeatedly around a nerve fiber with the nucleus inside of it. This process creates a myelin sheath, which not only aids in conductivity but also assists in the regeneration of damaged fibers.
 
 Astrocytes are crucial participants in the tripartite synapse. They have several crucial functions, including clearance of neurotransmitters from within the synaptic cleft, which aids in distinguishing between separate action potentials and prevents toxic build-up of certain neurotransmitters such as glutamate, which would otherwise lead to excitotoxicity. Furthermore, astrocytes release gliotransmitters such as glutamate, ATP, and D-serine in response to stimulation.
+
+(ref:astro) Astrocytes (A) and oligodendrocytes (B) are the major types of mcroglia in the grey and white matter of the brain, respectively. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+
+```{r astrocytes, fig.cap='(ref:neurons)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cells/Cajal_glia.jpg")
+```
 
 Oligodendrocytes are found in the CNS and resemble an octopus: they have bulbous cell bodies with up to fifteen arm-like processes. Each "arm" reaches out to a nerve fiber and spirals around it, creating a myelin sheath. The myelin sheath insulates the nerve fiber from the extracellular fluid and speeds up signal conduction along the nerve fiber.
 
