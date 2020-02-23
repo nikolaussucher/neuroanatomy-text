@@ -18,7 +18,7 @@ This is a Text for the Neuroanatomy course (BIO400) at SSU
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("Brain_case.jpg")
+knitr::include_graphics("neuroanatomy_text_dark_cover.png")
 ```
 
 
