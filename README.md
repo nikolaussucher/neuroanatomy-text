@@ -1,6 +1,6 @@
 # Text for Neuroanatomy
 
-This is an open source, open educational resource (OER) text that I am  developing for the BIO400 Neuroanatomy course at [Salem State University(http://www.salemstate.edu) in Salem, Massachusetts. This course provides an introduction to  neuroanatomy.  
+This is an open source, open educational resource (OER) text that I am  developing for the BIO400 Neuroanatomy course at [Salem State University](http://www.salemstate.edu) in Salem, Massachusetts. This course provides an introduction to  neuroanatomy.  
 
 I am developing this text as [free software](https://www.gnu.org/philosophy/free-sw.en.html) but license it under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) United States License because I love [Wikipedia](https://www.wikipedia.org) from which I mostly compiled this text.
 
