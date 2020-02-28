@@ -1,9 +1,7 @@
-UWisc
-*.pse
 _bookdown_files
 _book
 _main.epub
-pdf/_main.pdf
+./pdf/_main.pdf
 *.aux
 *.swp
 *.*~
