@@ -27,8 +27,7 @@ Neurons are highly specialized for the processing and transmission of cellular s
 The soma is the body of the neuron. As it contains the nucleus, most protein synthesis occurs here. The nucleus can range from 3 to 18 micrometers in diameter.
 The dendrites of a neuron are cellular extensions with many branches. This overall shape and structure is referred to metaphorically as a dendritic tree. This is where the majority of input to the neuron occurs via the dendritic spine.
 
-The axon is a finer, cable-like projection that can extend tens, hundreds, or even tens of thousands of times the diameter of the soma in length. The axon primarily carries nerve signals away from the soma, and carries some types of information back to it. Many neurons have only one axon, but this axon may—and usually will—undergo extensive branching, enabling communication with many target cells. The part of the axon where it emerges from the soma is called the axon hillock. Besides being an anatomical structure, the axon hillock also has the greatest density of voltage-dependent sodium channels. This makes it the most easily excited part of the neuron and the spike initiation zone for the axon. In electrophysiological terms, it has the most negative threshold potential.
-While the axon and axon hillock are generally involved in information outflow, this region can also receive input from other neurons.
+The axon is a finer, cable-like projection that can extend tens, hundreds, or even tens of thousands of times the diameter of the soma in length. The axon primarily carries nerve signals away from the soma, and carries some types of information back to it. Many neurons have only one axon, but this axon may—and usually will—undergo extensive branching, enabling communication with many target cells. The part of the axon where it emerges from the soma is called the axon hillock. Besides being an anatomical structure, the axon hillock also has the greatest density of voltage-dependent sodium channels. This makes it the most easily excited part of the neuron and the spike initiation zone for the axon. In electrophysiological terms, it has the most negative threshold potential. While the axon and axon hillock are generally involved in information outflow, this region can also receive input from other neurons.
 
 The axon terminal is found at the end of the axon farthest from the soma and contains synapses. Synaptic boutons are specialized structures where neurotransmitter chemicals are released to communicate with target neurons. In addition to synaptic boutons at the axon terminal, a neuron may have en passant boutons, which are located along the length of the axon.
 
@@ -46,11 +45,17 @@ Numerous microscopic clumps called Nissl bodies (or Nissl substance) are seen wh
 
 The cell body of a neuron is supported by a complex mesh of structural proteins called neurofilaments, which together with neurotubules (neuronal microtubules) are assembled into larger neurofibrils. Some neurons also contain pigment granules, such as neuromelanin (a brownish-black pigment that is byproduct of synthesis of catecholamines), and lipofuscin (a yellowish-brown pigment), both of which accumulate with age. Other structural proteins that are important for neuronal function are actin and the tubulin of microtubules. Class III β-tubulin is found almost exclusively in neurons. Actin is predominately found at the tips of axons and dendrites during neuronal development. There the actin dynamics can be modulated via an interplay with microtubule.
 
+(ref:neuron) [Diagram of a myelinated vertebrate motor neuron.](https://commons.wikimedia.org/wiki/File:Complete_neuron_cell_diagram_en.svg)
+
+```{r motorneuron, fig.cap='(ref:neuron)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cells/Complete_neuron_cell_diagram_en.svg")
+```
+
 There are different internal structural characteristics between axons and dendrites. Typical axons almost never contain ribosomes, except some in the initial segment. Dendrites contain granular endoplasmic reticulum or ribosomes, in diminishing amounts as the distance from the cell body increases.
 
 Neurons vary in shape and size and can be classified by their morphology and function. The anatomist [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi) grouped neurons into two types; type I with long axons used to move signals over long distances and type II with short axons, which can often be confused with dendrites. Type I cells can be further classified by the location of the soma. The basic morphology of type I neurons, represented by spinal motor neurons, consists of a cell body called the soma and a long thin axon covered by a myelin sheath.
 
-(ref:myelin) A neuron from the electric lobe in the brain of the electric ray (*Torpedo*). A single, thick axon emerges from the cell body unmyelinated (middle, left) but becomes surrounded by a think layer of myelin (dark grey).  Multiple, thin dendrites emerge from the remainder of the cell body. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+(ref:myelin) A Golgi type I neuron from the electric lobe in the brain of the electric ray (*Torpedo*). A single, thick axon emerges from the cell body unmyelinated (middle, left) but becomes surrounded by a think layer of myelin (dark grey).  Multiple, thin dendrites emerge from the remainder of the cell body. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
 ```{r axonmyelinated, fig.cap='(ref:myelin)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cells/CajalMyelinAxon.jpg")
@@ -97,7 +102,7 @@ Neurons can also be characterized based on various aspects of their function:
 * Interneurons connect neurons within specific regions of the central nervous system.
 Afferent and efferent also refer generally to neurons that, respectively, bring information to or send information from the brain.
 
-The axons of neurons in the human peripheral nervous system can be classified based on their physical features and signal conduction properties. Axons were known to have different thicknesses (from 0.1 to 20 µm)[3] and these differences were thought to relate to the speed at which an action potential could travel along the axon – its conductance velocity. Erlanger and Gasser proved this hypothesis, and identified several types of nerve fiber, establishing a relationship between the diameter of an axon and its nerve conduction velocity. They published their findings in 1941 giving the first classification of axons.
+The axons of neurons in the human peripheral nervous system can be classified based on their physical features and signal conduction properties. Axons were known to have different thicknesses (from 0.1 to 20 µm) and these differences were thought to relate to the speed at which an action potential could travel along the axon – its conductance velocity. Erlanger and Gasser proved this hypothesis, and identified several types of nerve fiber, establishing a relationship between the diameter of an axon and its nerve conduction velocity. They published their findings in 1941 giving the first classification of axons.
 
 Axons are classified in two systems. The first one introduced by Erlanger and Gasser, grouped the fibers into three main groups using the letters A, B, and C. These groups, group A, group B, and group C include both the sensory fibers (afferents) and the motor fibres (efferents). The first group A, was subdivided into alpha, beta, gamma, and delta fibers — Aα, Aβ, Aγ, and Aδ. The motor neurons of the different motor fibers, were the lower motor neurons – alpha motor neuron, beta motor neuron, and gamma motor neuron having the Aα, Aβ, and Aγ nerve fibers respectively.
 
@@ -127,7 +132,6 @@ comparison <-  as_tibble(read.csv("data/sensory_fiber_classification.csv"))
 knitr::kable(comparison, col.names = c("Type","Erlanger-Gasser Classification","Diameter (µm)","Myelin","Conduction Velocity (m/s)","Associated Sensory Receptors","Function"), digits = 2, align = 'lllllll', longtable = TRUE, booktabs = TRUE, caption = "Erlanger Gasser Classification of Sensory Fiber Types") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "5em") %>% column_spec(3, width = "5em") %>% column_spec(4, width = "5em") %>% column_spec(5, width = "5em") %>% column_spec(6, width = "5em") %>% column_spec(7, width = "5em") 
 
 ```
-
 
 Neurons have intrinsic electroresponsive properties like intrinsic transmembrane voltage oscillatory patterns. So neurons can be classified according to their electrophysiological characteristics:
 

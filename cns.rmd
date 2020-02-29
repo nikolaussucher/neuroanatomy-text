@@ -428,6 +428,12 @@ The cerebellum is provided with blood from three paired major arteries: the supe
 
 The spinal cord is a long, thin, tubular structure made up of nervous tissue, which extends from the medulla oblongata in the brainstem to the lumbar region of the vertebral column. It encloses the central canal of the spinal cord, which contains cerebrospinal fluid. 
 
+(ref:spinalcord) Anterior (Figure 1 and 2) and posterior (Figure 3 and 4) view of the spinal cord and the denticulate ligaments (triangular shaped ligaments named for their tooth-like appearance that arise from the pia mater and anchor the spinal cord along its length, at each side, to the arachnoid and dura mater). Figure 7. Cross section of the spinal cord at the levelo f the first cervical vertebra (Atlas). Figure 8: Cross section of the spinal cord in the dorsal region. Figure 9: Section of the spinal cord at the level of the lumbar region. From [Bourgery, Jean Baptiste Marc; Jacob, Nicolas Henri [Editor], Traité complet de l'anatomie de l'homme: comprenant la médicine opératoire (Volume 3, Atlas) — Paris, 1844](https://digi.ub.uni-heidelberg.de/diglit/bourgey1844bd3_2)
+
+```{r spinalcordanatomy, fig.cap='(ref:spinalcord)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/bourgey1844bd3_2_0027.jpg")
+```
+
 The spinal cord functions primarily in the transmission of nerve signals from the motor cortex to the body, and from the afferent fibers of the sensory neurons to the sensory cortex. It is also a center for coordinating many reflexes and contains reflex arcs that can independently control reflexes. It is also the location of groups of spinal interneurons that make up the neural circuits known as central pattern generators. These circuits are responsible for controlling motor instructions for rhythmic movements such as walking.
 
 The spinal cord is the main pathway for information connecting the brain and peripheral nervous system. Much shorter than its protecting spinal column, the human spinal cord originates in the brainstem, passes through the foramen magnum, and continues through to the conus medullaris near the second lumbar vertebra before terminating in a fibrous extension known as the filum terminale.
