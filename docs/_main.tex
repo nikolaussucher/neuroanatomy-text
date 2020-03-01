@@ -194,6 +194,20 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
 
 \begin{document}
 \maketitle
@@ -1003,7 +1017,7 @@ Astrocytes are crucial participants in the tripartite synapse. They have several
 
 }
 
-\caption{Morpholoigcally distinct types of neurons after Cajal. A) Unipolar neurons; B) bipolar neurons; Golgi I neurons: C) a Purkinje cell; D) spinal motor neuron E) a pyramidal cell; F) Golgi II neuron. \href{https://wellcomelibrary.org/item/b2129592x\#?c=0\&m=0\&s=0\&cv=14\&z=0\%2C-3.48\%2C1\%2C8.6591}{Histologie du système nerveux de l'homme \& des vertébrés, Tome Premier} (1909) by Santiago Ramón y Cajal translated from Spanish by Dr.~L. Azoulay.}\label{fig:astrocytes}
+\caption{Astrocytes (A) and oligodendrocytes (B) are the major types of mcroglia in the grey and white matter of the brain, respectively. \href{https://wellcomelibrary.org/item/b2129592x\#?c=0\&m=0\&s=0\&cv=14\&z=0\%2C-3.48\%2C1\%2C8.6591}{Histologie du système nerveux de l'homme \& des vertébrés, Tome Premier} (1909) by Santiago Ramón y Cajal translated from Spanish by Dr.~L. Azoulay.}\label{fig:astrocytes}
 \end{figure}
 
 Oligodendrocytes are found in the CNS and resemble an octopus: they have bulbous cell bodies with up to fifteen arm-like processes. Each ``arm'' reaches out to a nerve fiber and spirals around it, creating a myelin sheath. The myelin sheath insulates the nerve fiber from the extracellular fluid and speeds up signal conduction along the nerve fiber.
@@ -1106,9 +1120,20 @@ The fundamental properties of currents mediated by ion channels were analyzed by
 
 Channels differ with respect to the ion they let pass (for example, Na\textsuperscript{+}, K\textsuperscript{+}, Cl\textsuperscript{−}), the ways in which they may be regulated, the number of subunits of which they are composed and other aspects of structure. Channels belonging to the largest class, which includes the voltage-gated channels that underlie the nerve impulse, consists of four subunits with six transmembrane helices each. On activation, these helices move about and open the pore. Two of these six helices are separated by a loop that lines the pore and is the primary determinant of ion selectivity and conductance in this channel class and some others. The existence and mechanism for ion selectivity was first postulated in the late 1960s by \href{https://en.wikipedia.org/wiki/Bertil_Hille}{Bertil Hille} and \href{https://en.wikipedia.org/wiki/Clay_Armstrong}{Clay Armstrong}. The idea of the ionic selectivity for potassium channels was that the carbonyl oxygens of the protein backbones of the ``selectivity filter'' (named by Bertil Hille) could efficiently replace the water molecules that normally shield potassium ions, but that sodium ions were smaller and cannot be completely dehydrated to allow such shielding, and therefore could not pass through. This mechanism was finally confirmed when the first structure of an ion channel was elucidated. A bacterial potassium channel KcsA, consisting of just the selectivity filter, ``P'' loop and two transmembrane helices was used as a model to study the permeability and the selectivity of ion channels. The determination of the molecular structure of KcsA by \href{https://en.wikipedia.org/wiki/Roderick_MacKinnon}{Roderick MacKinnon} using X-ray crystallography won a share of the 2003 Nobel Prize in Chemistry.
 
-Because of their small size and the difficulty of crystallizing integral membrane proteins for X-ray analysis, it is only very recently that scientists have been able to directly examine what channels ``look like.'' Particularly in cases where the crystallography required removing channels from their membranes with detergent, many researchers regard images that have been obtained as tentative. An example is the long-awaited crystal structure of a voltage-gated potassium channel, which was reported in May 2003. One inevitable ambiguity about these structures relates to the strong evidence that channels change conformation as they operate (they open and close, for example), such that the structure in the crystal could represent any one of these operational states. Most of what researchers have deduced about channel operation so far they have established through electrophysiology, biochemistry, gene sequence comparison and mutagenesis.
 
-Channels can have single (e.g.~members of the Chloride Intracellular Ion Channel family) to multiple transmembrane (K\textsuperscript{+} channels, P2X receptors, Na\textsuperscript{+} channels) domains which span plasma membrane to form pores. Pore can determine the selectivity of the channel. Gate can be formed either inside or outside the pore region.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/Kcsa} 
+
+}
+
+\caption{The structure of the potassium channel KcsA fromn \emph{Streptomyces lividans} determined by X-ray crystallography. KcsA shares sequence similarity with all known K\textsuperscript{+} channels and was the first ion channel to have its structure solved at atomic resolution. It consists of four identical subunits that together form a cone shaped structure (top) with a ion selectivity filter at its outer end. Three K\textsuperscript{+} ions are present in the channel, two of which are helt 7.5 angstroms apart by the selectivity filter, a third K\textsuperscript{+} ion shown in the channel pore below. Molecular graphics were created with \href{http://www.rbvi.ucsf.edu/chimera/}{UCSF Chimera}, developed by the Resource for Biocomputing, Visualization, and Informatics at the University of California, San Francisco, with support from NIH P41-GM103311 used atomic coordinates from \href{https://www.rcsb.org/structure/1BL8}{PDB 1BL8}.}\label{fig:kchannel}
+\end{figure}
+
+Because of their small size and the difficulty of crystallizing integral membrane proteins for X-ray analysis, it is only very recently that scientists have been able to directly examine what channels ``look like.'' Most of what researchers have deduced about channel operation so far they have established through electrophysiology, biochemistry, gene sequence comparison and mutagenesisi and structural studies (X-ray crystallography and cryoelectronmicroscopy).
+
+Channels can have single (e.g.~members of the Chloride Intracellular Ion Channel family) or multiple transmembrane (K\textsuperscript{+} channels, P2X receptors, Na\textsuperscript{+} channels) domains which span the plasma membrane to form pores.
 
 Ion channels can be classified by how they respond to their environment. For example, the ion channels involved in the action potential are voltage-sensitive channels; they open and close in response to the voltage across the membrane. Ligand-gated channels form another important class; these ion channels open and close in response to the binding of a ligand molecule, such as a neurotransmitter. Other ion channels open and close with mechanical forces. Still other ion channels---such as those of sensory neurons---open and close in response to other stimuli, such as light, temperature or pressure.
 
@@ -1787,7 +1812,7 @@ The blood-brain barrier acts effectively to protect the brain from circulating p
 
 The blood-brain barrier may become leaky in select neurological diseases, such as amyotrophic lateral sclerosis, epilepsy, brain trauma and edema, and in systemic diseases, such as liver failure. The blood-brain barrier becomes more permeable during inflammation, allowing antibiotics and phagocytes to move across the BBB. However, this also allows bacteria and viruses to infiltrate the blood-brain barrier. Examples of pathogens that can traverse the blood-brain barrier include \emph{Toxoplasma gondii} which causes toxoplasmosis, spirochetes like \emph{Borrelia} (Lyme disease), Group B streptococci which causes meningitis in newborns, and \emph{Treponema pallidum} which causes syphilis. Some of these harmful bacteria gain access by releasing cytotoxins like pneumolysin which have a direct toxic effect on brain microvascular endothelium and tight junctions.
 
-Astrocytes (A) and oligodendrocytes (B) are the major types of mcroglia in the grey and white matter of the brain, respectively. \href{https://wellcomelibrary.org/item/b2129592x\#?c=0\&m=0\&s=0\&cv=14\&z=0\%2C-3.48\%2C1\%2C8.6591}{Histologie du système nerveux de l'homme \& des vertébrés, Tome Premier} (1909) by Santiago Ramón y Cajal translated from Spanish by Dr.~L. Azoulay. Astrocytes in the grey matter of the cerebral cortex with their endfeet on brain capillaries.
+Astrocytes (A) and oligodendrocytes (B) are the major types of mcroglia in the grey and white matter of the brain, respectively. \href{https://wellcomelibrary.org/item/b2129592x\#?c=0\&m=0\&s=0\&cv=14\&z=0\%2C-3.48\%2C1\%2C8.6591}{Histologie du système nerveux de l'homme \& des vertébrés, Tome Premier} (1909) by Santiago Ramón y Cajal translated from Spanish by Dr.~L. Azoulay. Astrocytes in the grey matter of the cerebral cortex with their endfeet on brain capillaries. \href{https://wellcomelibrary.org/item/b2129592x\#?c=0\&m=0\&s=0\&cv=14\&z=0\%2C-3.48\%2C1\%2C8.6591}{Histologie du système nerveux de l'homme \& des vertébrés, Tome Premier} (1909) by Santiago Ramón y Cajal translated from Spanish by Dr.~L. Azoulay.
 
 \begin{figure}
 
@@ -1806,7 +1831,7 @@ Astrocytes (A) and oligodendrocytes (B) are the major types of mcroglia in the g
 
 }
 
-\caption{Oligodendrocytes in the white matter of the cerebral cortex with their endfeet touching a brain capillary.}\label{fig:oligobbb}
+\caption{Oligodendrocytes in the white matter of the cerebral cortex with their endfeet touching a brain capillary. \href{https://wellcomelibrary.org/item/b2129592x\#?c=0\&m=0\&s=0\&cv=14\&z=0\%2C-3.48\%2C1\%2C8.6591}{Histologie du système nerveux de l'homme \& des vertébrés, Tome Premier} (1909) by Santiago Ramón y Cajal translated from Spanish by Dr.~L. Azoulay.}\label{fig:oligobbb}
 \end{figure}
 
 \hypertarget{circumventricular-organs}{%
@@ -1857,7 +1882,7 @@ The cerebrum is the largest part of the brain, and is divided into nearly symmet
 
 }
 
-\caption{Medial view of the left hemisphere of the human brain. \href{https://commons.wikimedia.org/wiki/File:Sobo_1909_624.png}{Sobotta's Textbook and Atlas of Human Anatomy 1909}}\label{fig:lateralview}
+\caption{Lateral view of the left hemisphere of the human brain. \href{https://commons.wikimedia.org/wiki/File:Sobo_1909_626.png}{Sobotta's Textbook and Atlas of Human Anatomy 1909}}\label{fig:lateralview}
 \end{figure}
 
 
@@ -1918,7 +1943,7 @@ Based on the cytoarchitectural organization of neurons observed using the Nissl 
 
 }
 
-\caption{\href{https://wellcomelibrary.org/item/b28062449}{Based on his studies of developing and adult brains of humans and other animals, Korbinian Brodmann proposed that the cerebral cortex consists of six layers. During development and in different brain regions, individual layers can combine or split into sublayers creating location specific cytoarchitectonics.}}\label{fig:brodmannlayers}
+\caption{Based on his studies of developing and adult brains of humans and other animals, Korbinian Brodmann proposed that the cerebral cortex consists of six layers. During development and in different brain regions, individual layers can combine or split into sublayers creating location specific cytoarchitectonics. From \href{https://wellcomelibrary.org/item/b28062449}{Broadmann, Korbinian: Vergleichende Lokalisationslehre der Grosshirnrinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues. Verlag von Johann Ambrosius Barth, Leipzig, 1909.}}\label{fig:brodmannlayers}
 \end{figure}
 
 
@@ -3506,6 +3531,17 @@ Another major function of the nose is olfaction, the sense of smell. The area of
 
 The peripheral olfactory system consists mainly of the nostrils, ethmoid bone, nasal cavity, and the olfactory epithelium (layers of thin tissue covered in mucus that line the nasal cavity). The primary components of the layers of epithelial tissue are the mucous membranes, olfactory glands, olfactory neurons, and nerve fibers of the olfactory nerves.
 
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/olfactory/GrayP572} 
+
+}
+
+\caption{View of the right side of the nasal septum showing the olfactory bulb and the filaments of the olfactory nerve.From \href{https://wellcomelibrary.org/item/b21688692}{Gray, Henry: Anatomy Descriptive And Surgical. 7\textsuperscript{th} Edition, Longmans, Green, And Co., London, 1875}.}\label{fig:rightseptum}
+\end{figure}
+
 Odor molecules can enter the peripheral pathway and reach the nasal cavity either through the nostrils when inhaling (olfaction) or through the throat when the tongue pushes air to the back of the nasal cavity while chewing or swallowing (retro-nasal olfaction). Inside the nasal cavity, mucus lining the walls of the cavity dissolves odor molecules. Mucus also covers the olfactory epithelium, which contains mucous membranes that produce and store mucus and olfactory glands that secrete metabolic enzymes found in the mucus.
 
 \hypertarget{olfactory-sensory-neurons}{%
@@ -3583,7 +3619,7 @@ Taste, along with smell (olfaction) and trigeminal nerve stimulation (registerin
 
 The tongue is a muscular organ in the mouth of most vertebrates that manipulates food for mastication and is used in the act of swallowing. It has importance in the digestive system and is the primary organ of taste in the gustatory system. The tongue's upper surface (dorsum) is covered by taste buds housed in numerous lingual papillae. It is sensitive and kept moist by saliva and is richly supplied with nerves and blood vessels. The tongue also serves as a natural means of cleaning the teeth. A major function of the tongue is the enabling of speech in humans and vocalization in other animals.
 
-(ref:ton)
+
 
 \begin{figure}
 
@@ -3591,7 +3627,7 @@ The tongue is a muscular organ in the mouth of most vertebrates that manipulates
 
 }
 
-\caption{(ref:ton)}\label{fig:tongue}
+\caption{The tongue and three kinds of papillae magnified. Bottom left to right: filiform, fungiform and circumvallate papillae. From \href{https://wellcomelibrary.org/item/b21688692}{Gray, Henry: Anatomy Descriptive And Surgical. 7\textsuperscript{th} Edition, Longmans, Green, And Co., London, 1875}}\label{fig:tongue}
 \end{figure}
 
 Innervation of the tongue consists of motor fibers, special sensory fibers for taste, and general sensory fibers for sensation.
@@ -3630,10 +3666,43 @@ Innervation of the tongue consists of motor fibers, special sensory fibers for t
 
 The tongue is covered with thousands of small bumps called papillae, which are visible to the naked eye. Within each papilla are hundreds of taste buds. The exception to this is the filiform papillae that do not contain taste buds. Each taste bud contains 50 to 100 taste receptor cells.
 
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/gustatory/CunninghamSection2Page770} 
+
+}
+
+\caption{Section through a papilla vallata of the human tongue. 1) Papilla. 2) Vallum. 3) Taste buds. From \href{https://wellcomelibrary.org/item/b21271070}{Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham}}\label{fig:vallatepapilla}
+\end{figure}
+
 \hypertarget{the-five-basic-tastes}{%
 \section{The Five Basic Tastes}\label{the-five-basic-tastes}}
 
 The sensation of taste includes five established basic tastes: sweetness, sourness, saltiness, bitterness, and savoriness (also known as savory or umami). Taste buds are able to distinguish between different tastes through detecting interaction with different molecules or ions. Sweet, savoriness, and bitter tastes are triggered by the binding of molecules to G protein-coupled receptors on the cell membranes of taste buds. Saltiness and sourness are perceived when alkali metal or hydrogen ions enter taste buds, respectively.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/gustatory/CunninghamSection2Page771} 
+
+}
+
+\caption{A. Three quarter surface view of a taste bud from the papilla foliata of a rabbit (highly mgnified). B. Vertical section of taste bud from the papilla foliata of a rabbit (highly mgnified). From \href{https://wellcomelibrary.org/item/b21271070}{Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham}}\label{fig:tastebuds}
+\end{figure}
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/gustatory/CunninghamSection2Page771Cells} 
+
+}
+
+\caption{Isolated cells from taste bud of a rabbit. a, Supporting cells. b, Gustatory cells. From \href{https://wellcomelibrary.org/item/b21271070}{Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham}}\label{fig:tastecells}
+\end{figure}
 
 The basic tastes contribute only partially to the sensation and flavor of food in the mouth---other factors include smell, detected by the olfactory epithelium of the nose; texture, detected through a variety of mechanoreceptors; temperature, detected by thermoreceptors; and ``coolness'' (such as of menthol) and ``hotness'' (pungency), through \href{https://en.wikipedia.org/wiki/Chemesthesis}{chemesthesis}.
 
