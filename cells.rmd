@@ -192,7 +192,7 @@ Astrocytes are crucial participants in the tripartite synapse. They have several
 
 (ref:astro) Astrocytes (A) and oligodendrocytes (B) are the major types of mcroglia in the grey and white matter of the brain, respectively. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-```{r astrocytes, fig.cap='(ref:neurons)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r astrocytes, fig.cap='(ref:astro)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cells/Cajal_glia.jpg")
 ```
 
