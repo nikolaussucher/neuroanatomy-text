@@ -100,15 +100,13 @@ The blood-brain barrier acts effectively to protect the brain from circulating p
 
 The blood-brain barrier may become leaky in select neurological diseases, such as amyotrophic lateral sclerosis, epilepsy, brain trauma and edema, and in systemic diseases, such as liver failure. The blood-brain barrier becomes more permeable during inflammation, allowing antibiotics and phagocytes to move across the BBB. However, this also allows bacteria and viruses to infiltrate the blood-brain barrier. Examples of pathogens that can traverse the blood-brain barrier include *Toxoplasma gondii* which causes toxoplasmosis, spirochetes like *Borrelia* (Lyme disease), Group B streptococci which causes meningitis in newborns, and *Treponema pallidum* which causes syphilis. Some of these harmful bacteria gain access by releasing cytotoxins like pneumolysin which have a direct toxic effect on brain microvascular endothelium and tight junctions.
 
-(ref:astro) Astrocytes in the grey matter of the cerebral cortex with their endfeet on brain capillaries. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+(ref:astrocytes) Astrocytes in the grey matter of the cerebral cortex with their endfeet on brain capillaries. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
-
-```{r astrobbb, fig.cap='(ref:astro)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r astrobbb, fig.cap='(ref:astrocytes)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/astrocytes_vessel.jpg") 
 ```
 
 (ref:oligo) Oligodendrocytes in the white matter of the cerebral cortex with their endfeet touching a brain capillary. [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
-
 
 ```{r oligobbb, fig.cap='(ref:oligo)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/ologodendrocytes_vessel.jpg")
