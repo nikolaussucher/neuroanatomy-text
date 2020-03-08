@@ -40,9 +40,51 @@ knitr::include_graphics("./figures/development/envhper00312-0143page3.svg")
 
 The spinal cord forms from the lower part of the neural tube. The wall of the neural tube consists of neuroepithelial cells, which differentiate into neuroblasts, forming the mantle layer (the gray matter). Nerve fibers emerge from these neuroblasts to form the marginal layer (the white matter). The ventral part of the mantle layer (the basal plates) forms the motor areas of the spinal cord, whilst the dorsal part (the alar plates) forms the sensory areas. Between the basal and alar plates is an intermediate layer that contains neurons of the autonomic nervous system.
 
+(ref:medulla) Transverse section of medulla oblongata of human embryo. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r medullaoblongata, fig.cap='(ref:medulla)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p749.jpg")
+```
+
 In the fifth week, the alar plate of the prosencephalon expands to form the cerebral hemispheres (the telencephalon). The basal plate becomes the diencephalon.
 
+(ref:four) Brain of human embryo of four and a half weeks, showing interior of forebrain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r fourandahalf, fig.cap='(ref:four)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p740.jpg")
+```
+
+(ref:fivex) Exterior of brain of human embryo of five weeks. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r fivexterior, fig.cap='(ref:fivex)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p741.jpg")
+```
+
+(ref:fivein) Interior of brain of human embryo of five weeks. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r fiveinterior, fig.cap='(ref:fivein)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p742.jpg")
+```
+
 The diencephalon, mesencephalon and rhombencephalon constitute the brain stem of the embryo. It continues to flex at the mesencephalon. The rhombencephalon folds posteriorly, which causes its alar plate to flare and form the fourth ventricle of the brain. The pons and the cerebellum form in the upper part of the rhombencephalon, whilst the medulla oblongata forms in the lower part.
+
+(ref:threemo) Interior of brain of human embryo of five weeks. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r threemonths, fig.cap='(ref:threemo)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p743.jpg")
+```
+
+(ref:fourmo) Inferior surface of brain of embryo at beginning of fourth month. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r fourmonths, fig.cap='(ref:fourmo)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p744.jpg")
+```
+
+(ref:fourmomed) Median sagittal section of brain of human embryo of four months. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r fourmonthsmedian, fig.cap='(ref:fourmomed)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/development/GrayAnat1918p746.jpg")
+```
 
 Some landmarks of neural development include the birth and differentiation of neurons from stem cell precursors, the migration of immature neurons from their birthplaces in the embryo to their final positions, outgrowth of axons and dendrites from neurons, guidance of the motile growth cone through the embryo towards postsynaptic partners, the generation of synapses between these axons and their postsynaptic partners, and finally the lifelong changes in synapses, which are thought to underlie learning and memory.
 

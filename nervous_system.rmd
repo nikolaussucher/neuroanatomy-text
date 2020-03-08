@@ -1,3 +1,21 @@
+```{r include=FALSE, cache=FALSE}
+set.seed(1014)
+options(digits = 3)
+
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE,
+  cache = TRUE,
+  out.width = "70%",
+  fig.align = 'center',
+  fig.width = 6,
+  fig.asp = 0.618,  # 1 / phi
+  fig.show = "hold"
+)
+
+options(dplyr.print_min = 6, dplyr.print_max = 6)
+options(knitr.graphics.auto_pdf = TRUE)
+```
 # The Nervous System 
 
 ## Introduction
@@ -161,16 +179,22 @@ The adult human brain weighs on average about 1.2–1.4 kg (2.6–3.1 lb) which 
 
 The human brain is divided into nearly symmetrical left and right hemispheres by a deep groove, the longitudinal fissure. Each hemisphere is conventionally divided into four main lobes; the frontal lobe, parietal lobe, temporal lobe, and occipital lobe, named according to the skull bones that overlie them. The surface of the brain is folded into ridges (gyri) and grooves (sulci), many of which are named, usually according to their position, such as the frontal gyrus of the frontal lobe or the central sulcus separating the central regions of the hemispheres. There are many small variations in the secondary and tertiary folds.
 
-(ref:gyril) Diagram showing a lateral view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
+(ref:lobes) Principal lobes and fissures of the cerebrum viewed laterally. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
-```{r gyrilateral, fig.cap='(ref:gyril)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nervoussystem/gyri_lat.jpg")
+```{r principallobes, fig.cap='(ref:lobes)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/GrayAnat1918p821.jpg")
 ```
 
-(ref:gyrim) Diagram showing a medial view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
+(ref:gyril) Diagram showing a lateral view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+
+```{r gyrilateral, fig.cap='(ref:gyril)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/GrayAnat1918p819.jpg")
+```
+
+(ref:gyrim) Diagram showing a medial view of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain. From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
 
 ```{r gyrimedial, fig.cap='(ref:gyrim)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nervoussystem/gyri_med.jpg")
+knitr::include_graphics("./figures/nervoussystem/GrayAnat1918p820.jpg")
 ```
 
 (ref:gyrib) Diagram showing a view from the bottom of the ridges (gyri) and grooves (sulci) of the left hemisphere of the brain.
