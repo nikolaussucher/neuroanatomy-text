@@ -233,6 +233,14 @@ Layer VI, the polymorphic or multiform layer, contains few large pyramidal neuro
 knitr::include_graphics("./figures/cns/cortex_area_17_18.jpg")
 ```
 
+Many of those brain areas defined by Brodmann have their own complex internal structures. In a number of cases, brain areas are organized into topographic maps, where adjoining bits of the cortex correspond to adjoining parts of the body, or of some more abstract entity. A simple example of this type of correspondence is the primary motor cortex, a strip of tissue running along the anterior edge of the central sulcus. Motor areas innervating each part of the body arise from a distinct zone, with neighboring body parts represented by neighboring zones. Electrical stimulation of the cortex at any point causes a muscle-contraction in the represented body part. This "somatotopic" representation is not evenly distributed, however. The head, for example, is represented by a region about three times as large as the zone for the entire back and trunk. The size of any zone correlates to the precision of motor control and sensory discrimination possible. The areas for the lips, fingers, and tongue are particularly large, considering the proportional size of their represented body parts.
+
+In visual areas, the maps are retinotopic; this means they reflect the topography of the retina, the layer of light-activated neurons lining the back of the eye. In this case too, the representation is uneven: the fovea—the area at the center of the visual field—is greatly overrepresented compared to the periphery. The visual circuitry in the human cerebral cortex contains several dozen distinct retinotopic maps, each devoted to analyzing the visual input stream in a particular way. The primary visual cortex (Brodmann area 17), which is the main recipient of direct input from the visual part of the thalamus, contains many neurons that are most easily activated by edges with a particular orientation moving across a particular point in the visual field. Visual areas farther downstream extract features such as color, motion, and shape.
+
+In auditory areas, the primary map is tonotopic. Sounds are parsed according to frequency (i.e., high pitch vs. low pitch) by subcortical auditory areas, and this parsing is reflected by the primary auditory zone of the cortex. As with the visual system, there are a number of tonotopic cortical maps, each devoted to analyzing sound in a particular way.
+
+Within a topographic map there can sometimes be finer levels of spatial structure. In the primary visual cortex, for example, where the main organization is retinotopic and the main responses are to moving edges, cells that respond to different edge-orientations are spatially segregated from one another.
+
 The cerebral cortex is connected to various subcortical structures such as the thalamus and the basal ganglia, sending information to them along efferent connections and receiving information from them via afferent connections. Most sensory information is routed to the cerebral cortex via the thalamus. Olfactory information, however, passes through the olfactory bulb to the olfactory cortex (piriform cortex).
 
 In more general terms the cortex is typically described as comprising three parts: sensory, motor, and association areas.
@@ -310,7 +318,8 @@ Another reference appeared with the term pes hippocampi, which may date back to 
 
 Since different neuronal cell types are neatly organized into layers in the hippocampus, it has frequently been used as a model system for studying neurophysiology. The form of neural plasticity known as long-term potentiation (LTP) was initially discovered to occur in the hippocampus and has often been studied in this structure. LTP is widely believed to be one of the main neural mechanisms by which memories are stored in the brain.
 
-(ref:hippocor) Coronal section of the brain of a macaque monkey, showing hippocampus.
+(ref:hippocor) Coronal section of the brain of a macaque monkey, showing the hippocampus. From [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_634.png)
+
 
 ```{r hippocross, fig.cap='(ref:hippocor)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/Sobo_1909_646.jpg")
@@ -320,7 +329,7 @@ In rodents as model organisms, the hippocampus has been studied extensively as p
 
 Spatial memory was found to have many sub-regions in the hippocampus, such as the dentate gyrus (DG) in the dorsal hippocampus, the left hippocampus, and the parahippocampal region. The dorsal hippocampus was found to be an important component for the generation of new neurons, called adult-born granules (GC), in adolescence and adulthood. These new neurons contribute to pattern separation in spatial memory, increasing the firing in cell networks, and overall causing stronger memory formations. This is thought to integrate spatial and episodic memories with the limbic system via a feedback loop that provides emotional context of a particular sensory input.
 
-(ref:hippocirc) Basic circuit of the hippocampus, as drawn by Cajal DG: dentate gyrus. Sub: subiculum. EC: entorhinal cortex. From [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
+(ref:hippocirc) Diagram of the structure and connections of the hippocampus. A, Molecular layer of the subiculum. B, Pyramidal cell layer of the Subiculum. C, Hippocampus. D, Fascia dentata. E, Fimbria. F, Cingulum. G, H, Corpus callosum. a, axons entering the cingulum. From [Histologie du système nerveux de l'homme & des vertébrés, Tome Premier](https://wellcomelibrary.org/item/b2129592x#?c=0&m=0&s=0&cv=14&z=0%2C-3.48%2C1%2C8.6591) (1909) by Santiago Ramón y Cajal translated from Spanish by Dr. L. Azoulay.
 
 ```{r hippocircuit, fig.cap='(ref:hippocirc)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/CajalHippocampus.jpg")
@@ -720,7 +729,7 @@ A motor homunculus represents a map of brain areas dedicated to motor processing
 
 A sensory homunculus represents a map of brain areas dedicated to sensory processing for different anatomical divisions of the body. The primary sensory cortex is located in the postcentral gyrus, and handles signals coming from the thalamus.
 
-(ref:hom) [The sensory homunculus](https://commons.wikimedia.org/wiki/File:Sensory_homunculus.svg) (left) and [motor homunculus](https://commons.wikimedia.org/wiki/File:Motor_homunculus.svg) (right). The body surface is projected onto the gyrus post- and precentralis (coronal sections of the right hemisphere), respectively.
+(ref:hom) The sensory homunculus (left) and motor homunculus (right). The body surface is projected onto the gyrus post- and precentralis (coronal sections of the right hemisphere), respectively. From The Cerebral Cortex of Man. By Wilder Penfield and Theodore Rasmussen. The Macmillan Company, New York, N.Y., 1950.
 
 ```{r homunculus, fig.cap='(ref:hom)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/motor_and_sensory_homunculus.svg")
