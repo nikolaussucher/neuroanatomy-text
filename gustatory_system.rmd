@@ -41,7 +41,7 @@ knitr::include_graphics("./figures/gustatory/CunninghamSection2Page770.jpg")
 
 The sensation of taste includes five established basic tastes: sweetness, sourness, saltiness, bitterness, and savoriness (also known as savory or umami). Taste buds are able to distinguish between different tastes through detecting interaction with different molecules or ions. Sweet, savoriness, and bitter tastes are triggered by the binding of molecules to G protein-coupled receptors on the cell membranes of taste buds. Saltiness and sourness are perceived when alkali metal or hydrogen ions enter taste buds, respectively.
 
-(ref:buds) A. Three quarter surface view of a taste bud from the papilla foliata of a rabbit (highly mgnified). B. Vertical section of taste bud from the papilla foliata of a rabbit (highly mgnified). From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
+(ref:buds) A. Three quarter surface view of a taste bud from the papilla foliata of a rabbit (highly magnified). B. Vertical section of taste bud from the papilla foliata of a rabbit (highly magnified). From [Textbook of anatomy. Section 2. The muscular system: the nervous system: the organs of sense and integument edited by D. J. Cunningham](https://wellcomelibrary.org/item/b21271070) 
 
 ```{r tastebuds, fig.cap='(ref:buds)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/gustatory/CunninghamSection2Page771.jpg")
