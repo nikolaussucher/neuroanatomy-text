@@ -729,7 +729,7 @@ A motor homunculus represents a map of brain areas dedicated to motor processing
 
 A sensory homunculus represents a map of brain areas dedicated to sensory processing for different anatomical divisions of the body. The primary sensory cortex is located in the postcentral gyrus, and handles signals coming from the thalamus.
 
-(ref:hom) The sensory homunculus (left) and motor homunculus (right). The body surface is projected onto the gyrus post- and precentralis (coronal sections of the right hemisphere), respectively. From The Cerebral Cortex of Man. By Wilder Penfield and Theodore Rasmussen. The Macmillan Company, New York, N.Y., 1950.
+(ref:hom) The motor homunculus (left) and sensory homunculus (right). The body surface is projected onto the gyrus pre- and postcentralis (coronal section), respectively. From The Cerebral Cortex of Man. By Wilder Penfield and Theodore Rasmussen. The Macmillan Company, New York, N.Y., 1950.
 
 ```{r homunculus, fig.cap='(ref:hom)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/cns/motor_and_sensory_homunculus.svg")
