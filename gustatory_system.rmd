@@ -75,7 +75,7 @@ The simplest receptor found in the mouth is the sodium chloride (salt) receptor.
 
 The size of lithium and potassium ions most closely resemble those of sodium, and thus the saltiness is most similar. In contrast, rubidium and caesium ions are far larger, so their salty taste differs accordingly. The saltiness of substances is rated relative to sodium chloride (NaCl), which has an index of 1. Potassium, as potassium chloride (KCl), is the principal ingredient in salt substitutes and has a saltiness index of 0.6.
 
-Other monovalent cations, e.g. ammonium (NH4+), and divalent cations of the alkali earth metal group of the periodic table, e.g. calcium (Ca^2+^), ions generally elicit a bitter rather than a salty taste even though they, too, can pass directly through ion channels in the tongue, generating an action potential.
+Other monovalent cations, e.g. ammonium (NH~4~^+^), and divalent cations of the alkali earth metal group of the periodic table, e.g. calcium (Ca^2+^), ions generally elicit a bitter rather than a salty taste even though they, too, can pass directly through ion channels in the tongue, generating an action potential.
 
 ### Bitterness
 
@@ -95,7 +95,7 @@ Savory, or savoriness is an appetitive taste and is occasionally described by it
 
 There are four types taste receptors. When food or other substances enter the mouth, molecules interact with saliva and are bound to taste receptors in the oral cavity and other locations. Molecules which give a sensation of taste are considered "sapid".
 
-Taste receptors are divided into two families:[citation needed]
+Taste receptors are divided into two families:
 
 * Type 1, sweet: TAS1R2+TAS1R3; umami: TAS1R1+TAS1R3
 * Type 2, bitter: TAS2R
