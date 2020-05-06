@@ -306,11 +306,23 @@ The high temporal resolution of MEG and EEG allow these methods to measure brain
 
 Computed tomography (CT) or Computed Axial Tomography (CAT) scanning uses a series of x-rays of the head taken from many different directions. Typically used for quickly viewing brain injuries, CT scanning uses a computer program that performs a numerical integral calculation (the inverse Radon transform) on the measured x-ray series to estimate how much of an x-ray beam is absorbed in a small volume of the brain. Typically the information is presented as cross-sections of the brain.
 
+(ref:ct) Normal brain CT scan. [Case courtesy of Assoc Prof Frank Gaillard](https://radiopaedia.org/cases/35508)
+
+```{r brainct, fig.cap='(ref:ct)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/normal-brain-ct.png")
+```
+
 The CT scan was introduced in the 1970s and quickly became one of the most widely used methods of imaging. A CT scan can be performed in under a second and produce rapid results for clinicians, with its ease of use leading to an increase in CT scans performed in the United States from 3 million in 1980 to 62 million in 2007. Clinicians oftentimes take multiple scans, with 30% of individuals undergoing at least 3 scans in one study of CT scan usage. CT scans can expose patients to levels of radiation 100-500 times higher than traditional x-rays, with higher radiation doses producing better resolution imaging. While easy to use, increases in CT scan use, especially in asymptomatic patients, is a topic of concern since patients are exposed to significantly high levels of radiation.
 
 ### Magnetic resonance imaging
 
 Magnetic resonance imaging (MRI) uses magnetic fields and radio waves to produce high quality two- or three-dimensional images of brain structures without the use of ionizing radiation (X-rays) or radioactive tracers.
+
+(ref:mri) Normal MRI T1 sagittal section through the brain. [Case courtesy of Assoc Prof Frank Gaillard.](https://radiopaedia.org/cases/2756)
+
+```{r brainmri, fig.cap='(ref:mri)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/normal-midline-brain-mri-2.jpg")
+```
 
 Functional magnetic resonance imaging (fMRI) and arterial spin labeling (ASL) relies on the paramagnetic properties of oxygenated and deoxygenated hemoglobin to see images of changing blood flow in the brain associated with neural activity. This allows images to be generated that reflect which brain structures are activated (and how) during the performance of different tasks or at resting state. According to the oxygenation hypothesis, changes in oxygen usage in regional cerebral blood flow during cognitive or behavioral activity can be associated with the regional neurons as being directly related to the cognitive or behavioral tasks being attended.
 
@@ -331,5 +343,11 @@ PET scanning is also used for diagnosis of brain disease, most notably because b
 ### Single-photon emission computed tomography
 
 Single-photon emission computed tomography (SPECT) is similar to PET and uses gamma ray-emitting radioisotopes and a gamma camera to record data that a computer uses to construct two- or three-dimensional images of active brain regions. SPECT relies on an injection of radioactive tracer, or "SPECT agent," which is rapidly taken up by the brain but does not redistribute. Uptake of SPECT agent is nearly 100% complete within 30 to 60 seconds, reflecting cerebral blood flow (CBF) at the time of injection. These properties of SPECT make it particularly well-suited for epilepsy imaging, which is usually made difficult by problems with patient movement and variable seizure types. SPECT provides a "snapshot" of cerebral blood flow since scans can be acquired after seizure termination (so long as the radioactive tracer was injected at the time of the seizure). A significant limitation of SPECT is its poor resolution (about 1 cm) compared to that of MRI. Today, SPECT machines with Dual Detector Heads are commonly used, although Triple Detector Head machines are available in the marketplace. Tomographic reconstruction, (mainly used for functional "snapshots" of the brain) requires multiple projections from Detector Heads which rotate around the human skull, so some researchers have developed 6 and 11 Detector Head SPECT machines to cut imaging time and give higher resolution.
+
+(ref:spect) Normal brain perfusion SPECT. [Case courtesy of Dr Bruno Di Muzio.](https://radiopaedia.org/cases/30090)
+
+```{r brainspect, fig.cap='(ref:spect)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nervoussystem/normal-brain-perfusion-spect.jpg")
+```
 
 Like PET, SPECT also can be used to differentiate different kinds of disease processes which produce dementia, and it is increasingly used for this purpose. Neuro-PET has a disadvantage of requiring the use of tracers with half-lives of at most 110 minutes, such as FDG. These must be made in a cyclotron, and are expensive or even unavailable if necessary transport times are prolonged more than a few half-lives. SPECT, however, is able to make use of tracers with much longer half-lives, such as technetium-99m, and as a result, is far more widely available.

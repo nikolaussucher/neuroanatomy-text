@@ -188,109 +188,109 @@ Myelencephalon
 * Caudal ventrolateral medulla
 * Solitary nucleus (Nucleus of the solitary tract)
 * Respiratory center-Respiratory groups
-* Dorsal respiratory group
-* Ventral respiratory group or Apneustic centre
-* Pre-Bötzinger complex
-* Botzinger complex
-* Retrotrapezoid nucleus
-* Nucleus retrofacialis
-* Nucleus retroambiguus
-* Nucleus para-ambiguus
+  * Dorsal respiratory group
+  * Ventral respiratory group or Apneustic centre
+    * Pre-Bötzinger complex
+    * Bötzinger complex
+    * Retrotrapezoid nucleus
+    * Nucleus retrofacialis
+    * Nucleus retroambiguus
+    * Nucleus para-ambiguus
 * Paramedian reticular nucleus
 * Gigantocellular reticular nucleus
 * Parafacial zone
 * Cuneate nucleus
 * Gracile nucleus
 * Perihypoglossal nuclei
-* Intercalated nucleus
-* Prepositus nucleus
-* Sublingual nucleus
+  * Intercalated nucleus
+  * Prepositus nucleus
+  * Sublingual nucleus
 * Area postrema
 * Medullary cranial nerve nuclei
-* Inferior salivatory nucleus
-* Nucleus ambiguus
-* Dorsal nucleus of vagus nerve
-* Hypoglossal nucleus
+  * Inferior salivatory nucleus
+  * Nucleus ambiguus
+  * Dorsal nucleus of vagus nerve
+  * Hypoglossal nucleus
 * Chemoreceptor trigger zone
 
 Metencephalon
 
 * Pons
-* Pontine nuclei
-* Pontine cranial nerve nuclei
-* chief or pontine nucleus of the trigeminal nerve sensory nucleus (V)
-* Motor nucleus for the trigeminal nerve (V)
-* Abducens nucleus (VI)
-* Facial nerve nucleus (VII)
-* vestibulocochlear nuclei (vestibular nuclei and cochlear nuclei) (VIII)
-* Superior salivatory nucleus
+  * Pontine nuclei
+  * Pontine cranial nerve nuclei
+  * chief or pontine nucleus of the trigeminal nerve sensory nucleus (V)
+  * Motor nucleus for the trigeminal nerve (V)
+  * Abducens nucleus (VI)
+  * Facial nerve nucleus (VII)
+  * vestibulocochlear nuclei (vestibular nuclei and cochlear nuclei) (VIII)
+  * Superior salivatory nucleus
 * Pontine tegmentum
-* Pontine micturition center (Barrington's nucleus)
-* Locus coeruleus
-* Pedunculopontine nucleus
-* Laterodorsal tegmental nucleus
-* Tegmental pontine reticular nucleus
-* Nucleus incertus
+  * Pontine micturition center (Barrington's nucleus)
+  * Locus coeruleus
+  * Pedunculopontine nucleus
+  * Laterodorsal tegmental nucleus
+  * Tegmental pontine reticular nucleus
+  * Nucleus incertus
 * Parabrachial area
-* Medial parabrachial nucleus
-* Lateral parabrachial nucleus
-* Subparabrachial nucleus (Kölliker-Fuse nucleus)
-* Pontine respiratory group
+  * Medial parabrachial nucleus
+  * Lateral parabrachial nucleus
+  * Subparabrachial nucleus (Kölliker-Fuse nucleus)
+    * Pontine respiratory group
 * Superior olivary complex
-* Medial superior olive
-* Lateral superior olive
-* Medial nucleus of the trapezoid body
+  * Medial superior olive
+  * Lateral superior olive
+  * Medial nucleus of the trapezoid body
 * Paramedian pontine reticular formation
 * Parvocellular reticular nucleus
 * Caudal pontine reticular nucleus
 * Cerebellar peduncles
-* Superior cerebellar peduncle
-* Middle cerebellar peduncle
-* Inferior cerebellar peduncle
-* Fourth ventricle
+  * Superior cerebellar peduncle
+  * Middle cerebellar peduncle
+  * Inferior cerebellar peduncle
+  * Fourth ventricle
 * Cerebellum
-* Cerebellar vermis
-* Cerebellar hemispheres
-* Anterior lobe
-* Posterior lobe
-* Flocculonodular lobe
+  * Cerebellar vermis
+  * Cerebellar hemispheres
+    * Anterior lobe
+    * Posterior lobe
+    * Flocculonodular lobe
 * Cerebellar nuclei
-* Fastigial nucleus
-* Interposed nucleus
-* Globose nucleus
-* Emboliform nucleus
-* Dentate nucleus
+  * Fastigial nucleus
+  * Interposed nucleus
+     * Globose nucleus
+     * Emboliform nucleus
+  * Dentate nucleus
 
 ## Midbrain (mesencephalon)
 
 * Tectum
-* Corpora quadrigemina
-* inferior colliculi
-* superior colliculi
+  * Corpora quadrigemina
+    * inferior colliculi
+    * superior colliculi
 * Pretectum
 * Tegmentum
-* Periaqueductal gray
-* Rostral interstitial nucleus of medial longitudinal fasciculus
-* Midbrain reticular formation
-* Dorsal raphe nucleus
-* Red nucleus
-* Ventral tegmental area
-* Parabrachial pigmented nucleus
-* Paranigral nucleus
-* Rostromedial tegmental nucleus
-* Caudal linear nucleus
-* Rostral linear nucleus of the raphe
-* Interfascicular nucleus
-* Substantia nigra
-* Pars compacta
-* Pars reticulata
-* Interpeduncular nucleus
+  * Periaqueductal gray
+  * Rostral interstitial nucleus of medial longitudinal fasciculus
+  * Midbrain reticular formation
+  * Dorsal raphe nucleus
+  * Red nucleus
+  * Ventral tegmental area
+    * Parabrachial pigmented nucleus
+    * Paranigral nucleus
+    * Rostromedial tegmental nucleus
+  * Caudal linear nucleus
+  * Rostral linear nucleus of the raphe
+  * Interfascicular nucleus
+  * Substantia nigra
+    * Pars compacta
+    * Pars reticulata
+  * Interpeduncular nucleus
 * Cerebral peduncle
-* Crus cerebri
+  * Crus cerebri
 * Mesencephalic cranial nerve nuclei
-* Oculomotor nucleus (III)
-* Edinger-Westphal nucleus
-* Trochlear nucleus (IV)
+  * Oculomotor nucleus (III)
+  * Edinger-Westphal nucleus
+  * Trochlear nucleus (IV)
 * Mesencephalic duct (cerebral aqueduct, aqueduct of Sylvius)
 
 ## Forebrain (prosencephalon)
@@ -350,16 +350,16 @@ Hypothalamus (limbic system) (HPA axis)
         * INAH 2
         * INAH 3
         * INAH 4
-* Suprachiasmatic nucleus
-* Paraventricular nucleus
-* Supraoptic nucleus (mainly)
-* Anterior hypothalamic nucleus
-* Lateral area
+    * Suprachiasmatic nucleus
+    * Paraventricular nucleus
+    * Supraoptic nucleus (mainly)
+    * Anterior hypothalamic nucleus
+  * Lateral area
    * Parts of preoptic area
     * Lateral preoptic nucleus
   * Anterior part of Lateral nucleus
   * Part of supraoptic nucleus
-* Other nuclei of preoptic area
+  * Other nuclei of preoptic area
     * median preoptic nucleus
     * periventricular preoptic nucleus
 * Tuberal
