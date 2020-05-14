@@ -73,7 +73,21 @@ Ion channels can be classified by how they respond to their environment. For exa
 
 Leakage channels are the simplest type of ion channel, in that their permeability is more or less constant. The types of leakage channels that have the greatest significance in neurons are potassium and chloride channels. Even these are not perfectly constant in their properties: First, most of them are voltage-dependent in the sense that they conduct better in one direction than the other (in other words, they are rectifiers); second, some of them are capable of being shut off by chemical ligands even though they do not require ligands in order to operate.
 
-Also known as ionotropic receptors, ligand-gated ion channels are channels whose permeability is greatly increased when some type of chemical ligand binds to the protein structure. Ligand binding causes a conformational change in the structure of the channel protein that ultimately leads to the opening of the channel gate and subsequent ion flux across the plasma membrane. One example of this type is the AMPA receptor, a receptor for the neurotransmitter glutamate that when activated allows passage of sodium and potassium ions. Another example is the GABA~A~ receptor, a receptor for the neurotransmitter GABA that when activated allows passage of chloride ions. Animal cells contain hundreds, if not thousands, of types of these. A large subset function as neurotransmitter receptors—they occur at postsynaptic sites, and the chemical ligand that gates them is released by the presynaptic axon terminal. Ion channels activated by second messengers may also be categorized in this group, although ligands and second messengers are otherwise distinguished from each other.
+Also known as ionotropic receptors, ligand-gated ion channels are channels whose permeability is greatly increased when some type of chemical ligand binds to the protein structure. Ligand binding causes a conformational change in the structure of the channel protein that ultimately leads to the opening of the channel gate and subsequent ion flux across the plasma membrane. One example of this type is the AMPA receptor (Figure \@ref(fig:ampar)), a receptor for the neurotransmitter glutamate that when activated allows passage of sodium and potassium ions.
+
+(ref:ampa) A cartoon representation of the cryo-cryoelectronmicroscopy structure of GluA2/3 AMPA subtype of the ionotropic glutamate receptor family. Data from [PDB 5IDE](https://www.rcsb.org/structure/5IDE), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
+
+```{r ampar, fig.cap='(ref:ampa)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/potential/AMPA_receptor.png")
+```
+Another example is the GABA~A~ receptor (Figure \@ref(fig:gabaa)), a receptor for the neurotransmitter GABA that when activated allows passage of chloride ions. Animal cells contain hundreds, if not thousands, of types of these. A large subset function as neurotransmitter receptors—they occur at postsynaptic sites, and the chemical ligand that gates them is released by the presynaptic axon terminal. Ion channels activated by second messengers may also be categorized in this group, although ligands and second messengers are otherwise distinguished from each other.
+
+
+(ref:gaba) A cartoon representation of the atomic structure of the human GABA~A~ receptor α1 (orange), β2 (green), γ2 (red) subtype. Top: side view; bottom: top view. Data from [PDB 6D6U](https://www.rcsb.org/structure/6D6U), rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
+
+```{r gabaa, fig.cap='(ref:gaba)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/potential/GABAA_receptor.png")
+```
 
 Voltage-gated ion channels, also known as voltage dependent ion channels, are channels whose permeability is influenced by the membrane potential. They form another very large group, with each member having a particular ion selectivity and a particular voltage dependence. Many are also time-dependent—in other words, they do not respond immediately to a voltage change but only after a delay.
 
