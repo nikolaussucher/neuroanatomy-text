@@ -1,4 +1,5 @@
 \input{preamble}
+
 \begin{document}
 
 
@@ -27,7 +28,6 @@
 The creation of this text was greatly facilitated and owes a major debt to \href{https://www.wikipedia.org}{Wikipedia} and its large number of voluntary contributors. I very liberally copied from many Wikipedia pages and then remixed, edited, adapted and added text. With your continued support and help this book can only get better over time. I urge you to email me with your criticisms and suggestions at \href{mailto:nsucher@salemstate.mass.edu}{\nolinkurl{nsucher@salemstate.mass.edu}}. This book is made available as an open educational resource under \href{https://creativecommons.org/licenses/by-sa/3.0/deed.en}{Creative Commons Attribution-Share Alike 3.0 Unported} United States License for others to do as I did and improve and adapt to specific requirements. I am grateful for the support provided by the \href{}{Salem State University's OER initiative}.
 
 \mainmatter
-
 \hypertarget{the-nervous-system}{%
 \chapter{The Nervous System}\label{the-nervous-system}}
 
@@ -452,12 +452,34 @@ The high temporal resolution of MEG and EEG allow these methods to measure brain
 
 Computed tomography (CT) or Computed Axial Tomography (CAT) scanning uses a series of x-rays of the head taken from many different directions. Typically used for quickly viewing brain injuries, CT scanning uses a computer program that performs a numerical integral calculation (the inverse Radon transform) on the measured x-ray series to estimate how much of an x-ray beam is absorbed in a small volume of the brain. Typically the information is presented as cross-sections of the brain.
 
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/normal-brain-ct} 
+
+}
+
+\caption{Normal brain CT scan. \href{https://radiopaedia.org/cases/35508}{Case courtesy of Assoc Prof Frank Gaillard}}\label{fig:brainct}
+\end{figure}
+
 The CT scan was introduced in the 1970s and quickly became one of the most widely used methods of imaging. A CT scan can be performed in under a second and produce rapid results for clinicians, with its ease of use leading to an increase in CT scans performed in the United States from 3 million in 1980 to 62 million in 2007. Clinicians oftentimes take multiple scans, with 30\% of individuals undergoing at least 3 scans in one study of CT scan usage. CT scans can expose patients to levels of radiation 100-500 times higher than traditional x-rays, with higher radiation doses producing better resolution imaging. While easy to use, increases in CT scan use, especially in asymptomatic patients, is a topic of concern since patients are exposed to significantly high levels of radiation.
 
 \hypertarget{magnetic-resonance-imaging}{%
 \subsection{Magnetic resonance imaging}\label{magnetic-resonance-imaging}}
 
 Magnetic resonance imaging (MRI) uses magnetic fields and radio waves to produce high quality two- or three-dimensional images of brain structures without the use of ionizing radiation (X-rays) or radioactive tracers.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/normal-midline-brain-mri-2} 
+
+}
+
+\caption{Normal MRI T1 sagittal section through the brain. \href{https://radiopaedia.org/cases/2756}{Case courtesy of Assoc Prof Frank Gaillard.}}\label{fig:brainmri}
+\end{figure}
 
 Functional magnetic resonance imaging (fMRI) and arterial spin labeling (ASL) relies on the paramagnetic properties of oxygenated and deoxygenated hemoglobin to see images of changing blood flow in the brain associated with neural activity. This allows images to be generated that reflect which brain structures are activated (and how) during the performance of different tasks or at resting state. According to the oxygenation hypothesis, changes in oxygen usage in regional cerebral blood flow during cognitive or behavioral activity can be associated with the regional neurons as being directly related to the cognitive or behavioral tasks being attended.
 
@@ -480,6 +502,17 @@ PET scanning is also used for diagnosis of brain disease, most notably because b
 \subsection{Single-photon emission computed tomography}\label{single-photon-emission-computed-tomography}}
 
 Single-photon emission computed tomography (SPECT) is similar to PET and uses gamma ray-emitting radioisotopes and a gamma camera to record data that a computer uses to construct two- or three-dimensional images of active brain regions. SPECT relies on an injection of radioactive tracer, or ``SPECT agent,'' which is rapidly taken up by the brain but does not redistribute. Uptake of SPECT agent is nearly 100\% complete within 30 to 60 seconds, reflecting cerebral blood flow (CBF) at the time of injection. These properties of SPECT make it particularly well-suited for epilepsy imaging, which is usually made difficult by problems with patient movement and variable seizure types. SPECT provides a ``snapshot'' of cerebral blood flow since scans can be acquired after seizure termination (so long as the radioactive tracer was injected at the time of the seizure). A significant limitation of SPECT is its poor resolution (about 1 cm) compared to that of MRI. Today, SPECT machines with Dual Detector Heads are commonly used, although Triple Detector Head machines are available in the marketplace. Tomographic reconstruction, (mainly used for functional ``snapshots'' of the brain) requires multiple projections from Detector Heads which rotate around the human skull, so some researchers have developed 6 and 11 Detector Head SPECT machines to cut imaging time and give higher resolution.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/nervoussystem/normal-brain-perfusion-spect} 
+
+}
+
+\caption{Normal brain perfusion SPECT. \href{https://radiopaedia.org/cases/30090}{Case courtesy of Dr Bruno Di Muzio.}}\label{fig:brainspect}
+\end{figure}
 
 Like PET, SPECT also can be used to differentiate different kinds of disease processes which produce dementia, and it is increasingly used for this purpose. Neuro-PET has a disadvantage of requiring the use of tracers with half-lives of at most 110 minutes, such as FDG. These must be made in a cyclotron, and are expensive or even unavailable if necessary transport times are prolonged more than a few half-lives. SPECT, however, is able to make use of tracers with much longer half-lives, such as technetium-99m, and as a result, is far more widely available.
 
@@ -1157,7 +1190,31 @@ Ion channels can be classified by how they respond to their environment. For exa
 
 Leakage channels are the simplest type of ion channel, in that their permeability is more or less constant. The types of leakage channels that have the greatest significance in neurons are potassium and chloride channels. Even these are not perfectly constant in their properties: First, most of them are voltage-dependent in the sense that they conduct better in one direction than the other (in other words, they are rectifiers); second, some of them are capable of being shut off by chemical ligands even though they do not require ligands in order to operate.
 
-Also known as ionotropic receptors, ligand-gated ion channels are channels whose permeability is greatly increased when some type of chemical ligand binds to the protein structure. Ligand binding causes a conformational change in the structure of the channel protein that ultimately leads to the opening of the channel gate and subsequent ion flux across the plasma membrane. One example of this type is the AMPA receptor, a receptor for the neurotransmitter glutamate that when activated allows passage of sodium and potassium ions. Another example is the GABA\textsubscript{A} receptor, a receptor for the neurotransmitter GABA that when activated allows passage of chloride ions. Animal cells contain hundreds, if not thousands, of types of these. A large subset function as neurotransmitter receptors---they occur at postsynaptic sites, and the chemical ligand that gates them is released by the presynaptic axon terminal. Ion channels activated by second messengers may also be categorized in this group, although ligands and second messengers are otherwise distinguished from each other.
+Also known as ionotropic receptors, ligand-gated ion channels are channels whose permeability is greatly increased when some type of chemical ligand binds to the protein structure. Ligand binding causes a conformational change in the structure of the channel protein that ultimately leads to the opening of the channel gate and subsequent ion flux across the plasma membrane. One example of this type is the AMPA receptor (Figure \ref{fig:ampar}), a receptor for the neurotransmitter glutamate that when activated allows passage of sodium and potassium ions.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/AMPA_receptor} 
+
+}
+
+\caption{A cartoon representation of the cryo-cryoelectronmicroscopy structure of GluA2/3 AMPA subtype of the ionotropic glutamate receptor family. Data from \href{https://www.rcsb.org/structure/5IDE}{PDB 5IDE}, rendered with open source molecular visualization tool \href{https://pymol.org/2/}{PyMol}.}\label{fig:ampar}
+\end{figure}
+
+Another example is the GABA\textsubscript{A} receptor (Figure \ref{fig:gabaa}), a receptor for the neurotransmitter GABA that when activated allows passage of chloride ions. Animal cells contain hundreds, if not thousands, of types of these. A large subset function as neurotransmitter receptors---they occur at postsynaptic sites, and the chemical ligand that gates them is released by the presynaptic axon terminal. Ion channels activated by second messengers may also be categorized in this group, although ligands and second messengers are otherwise distinguished from each other.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/potential/GABAA_receptor} 
+
+}
+
+\caption{A cartoon representation of the atomic structure of the human GABA\textsubscript{A} receptor α1 (orange), β2 (green), γ2 (red) subtype. Top: side view; bottom: top view. Data from \href{https://www.rcsb.org/structure/6D6U}{PDB 6D6U}, rendered with open source molecular visualization tool \href{https://pymol.org/2/}{PyMol}.}\label{fig:gabaa}
+\end{figure}
 
 Voltage-gated ion channels, also known as voltage dependent ion channels, are channels whose permeability is influenced by the membrane potential. They form another very large group, with each member having a particular ion selectivity and a particular voltage dependence. Many are also time-dependent---in other words, they do not respond immediately to a voltage change but only after a delay.
 
@@ -1369,6 +1426,17 @@ The postsynaptic density (PSD) is a protein dense specialization attached to the
 PSDs are sized on the order of 250 to 500 nanometres in diameter and 25 to 50 nanometres in thickness, depending on the activity state of the synapse. During synaptic plasticity, the total size of the PSD is increasing along with an increase in synaptic size and strength after inducing long-term potentiation at single synapses.
 
 Many proteins in the PSD are involved in the regulation of synaptic function. Key among these, are postsynaptic density-95 (PSD95), neuroligin (a cellular adhesion molecule), NMDA receptors, AMPA receptors, calcium/calmodulin-dependent protein kinase II and actin. As protein detection technologies have increased in sensitivity, such as with improvements in mass spectrometry techniques, many more proteins have been found to be part of the PSD. Current estimates are that several hundred proteins are found at PSDs in different brain regions and during different states of development and synaptic activity. PSDs also contain cell adhesion molecules and a diverse set of other signaling proteins. Many of the PSD proteins contain PDZ domains.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/NMDA_receptor} 
+
+}
+
+\caption{A cartoon representation of the atomic structure of the GluN1a/GluN2B N-Methyl-D-aspartate (NMDA) receptor subtype of the family of ionotropic glutamate receptors. The agonist glutamate (green spheres) is bound to the GluN2B subunit, the co-agonist glycine is bound to the GluN1A subunit. Data from \href{https://www.rcsb.org/structure/4PE5}{PDB 4PE5}, rendered with open source molecular visualization tool \href{https://pymol.org/2/}{PyMol}.}\label{fig:nmdar}
+\end{figure}
 
 The PSD has been proposed to concentrate and organize neurotransmitter receptors in the synaptic cleft. The PSD also serves as a signaling apparatus. For instance kinases and phosphatases in the PSD are activated and released from the PSD to change the activity of proteins located in the spine or are transported to the nucleus to affect protein synthesis. Some of the features of the PSD are similar to the neuromuscular junction and other cellular junctions, as the PSD has been modeled as a specialized cellular junction that allows for rapid, asymmetrical signaling.
 
@@ -1613,6 +1681,17 @@ There are two major types of neurotransmitter receptors: ionotropic and metabotr
 \subsection{Ionotropic Receptors: Neurotransmitter-Gated Ion Channels}\label{ionotropic-receptors-neurotransmitter-gated-ion-channels}}
 
 Ligand-gated ion channels (LGICs) are one type of ionotropic receptor or channel-linked receptor. They are a group of transmembrane ion channels that are opened or closed in response to the binding of a chemical messenger (i.e., a ligand), such as a neurotransmitter.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/synapse/nAch_receptor} 
+
+}
+
+\caption{A cartoon representation of the atomic structure of the the nicotinic acetylcholine receptor from the electric ray \emph{Torpedo marmorata} at 4Å resolution. Data from \href{https://www.rcsb.org/structure/2BG9}{PDB 2BG9}, rendered with open source molecular visualization tool \href{https://pymol.org/2/}{PyMol}.}\label{fig:achr}
+\end{figure}
 
 The binding site of endogenous ligands on LGICs protein complexes are normally located on a different portion of the protein (an allosteric binding site) compared to where the ion conduction pore is located. The direct link between ligand binding and opening or closing of the ion channel, which is characteristic of ligand-gated ion channels, is contrasted with the indirect function of metabotropic receptors, which use second messengers. LGICs are also different from voltage-gated ion channels (which open and close depending on membrane potential), and stretch-activated ion channels (which open and close depending on mechanical deformation of the cell membrane).
 
@@ -2121,11 +2200,11 @@ The limbic system is a term that was introduced in 1949 by the American physicia
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/papez_circuit} 
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/papez_ai_scaled} 
 
 }
 
-\caption{Schematic briefly summarizing neural systems proposed to process emotion, highlighting structures that are visible on the medial surface of the brain. Papez's (1937) original circuit (A) was expanded upon in the concept of the limbic system (B) to include a variety of subcortical and cortical territories (MacLean, 1952; Heimer and Van Hoesen, 2006). (Structures like the anterior insula and nucleus basalis of Meynert, which are not visible on the medial surface of the brain, are not represented here). Images modified from Papez's original drawing. From Barger N, Hanson KL, Teffer K, Schenker-Ahmed NM and Semendeferi K (2014) Evidence for evolutionary specialization in human limbic structures. \href{http://journal.frontiersin.org/article/10.3389/fnhum.2014.00277/full}{Front. Hum. Neurosci. 8:277. doi: 10.3389/fnhum.2014.00277}}\label{fig:papezcircuit}
+\caption{Schematic (modified from Papez's original drawing) summarizing neural systems proposed to process emotion, highlighting structures that are visible on the medial surface of the brain. Papez's (1937) original circuit (top) was expanded upon in the concept of the limbic system (bottom) to include a variety of subcortical and cortical territories (MacLean, 1952; Heimer and Van Hoesen, 2006). (Structures like the anterior insula and nucleus basalis of Meynert, which are not visible on the medial surface of the brain, are not represented here). Orange: cingulate cortex; purple: anterior thalamus; red mammilary bodies; green hippocampus; light yellow: ventromedial frontal cortex; yellow: caudal orbital frontal cortex; hot pink: temporal polar cortex; pink: pyriform and entorhinal cortex; salmon: striatum; blue: septal nuclei; turquoise: amygdala. Modified from Barger N, Hanson KL, Teffer K, Schenker-Ahmed NM and Semendeferi K (2014) Evidence for evolutionary specialization in human limbic structures. \href{http://journal.frontiersin.org/article/10.3389/fnhum.2014.00277/full}{Front. Hum. Neurosci. 8:277. doi: 10.3389/fnhum.2014.00277}}\label{fig:papezcircuit}
 \end{figure}
 
 Around the same time, \href{https://en.wikipedia.org/wiki/Paul_D._MacLean}{Paul D. MacLean} was also interested in the Papez circuit. He had read through Paul Broca's research which indicated that the limbic lobe that surrounds the brainstem is a structure present in all mammals. Papez's paper on the emotional circuit which involved the connection between the hypothalamus and the limbic lobe set MacLean on a journey to learn more. He visited Papez at Cornell University after which he proposed a modified version of the Papez circuit in 1952, emphasizing not only the hippocampus, but also the amygdala and septum.
@@ -2555,6 +2634,17 @@ Descending motor pathways of the pyramidal tracts travel from the cerebral corte
 
 The first named pathways are evident to the naked eye even in a poorly preserved brain, and were named by the great anatomists of the Renaissance using cadaver material. Examples of these include the great commissures of the brain such as the corpus callosum (Latin, ``hard body''), anterior commissure, and posterior commissure. Further examples include the pyramidal tract, crus cerebri (Latin, ``leg of the brain''), and cerebellar peduncles (Latin, ``little foot of the cerebellum''). Note that these names describe the appearance of a structure but give one no information on its function or location.
 
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/GrayAnat1918p846} 
+
+}
+
+\caption{Dissection of cortex and brainstem showing association fibers after removing of the gray matter. From \href{https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up}{Gray Henry, Anatomy of the Human Body. 20\textsuperscript{th} Edition, Lea \& Febiger, Philadelphia \& New York, 1918}}\label{fig:associfibers}
+\end{figure}
+
 Later, as neuroanatomical knowledge became more sophisticated, the trend was toward naming pathways by their origin and termination. For example, the nigrostriatal pathway runs from the substantia nigra (Latin, ``black substance'') to the corpus striatum (Latin, ``striped body''). This naming can extend to include any number of structures in a pathway, such that the cerebellorubrothalamocortical pathway originates in the cerebellum, synapses in the red nucleus (``ruber'' in Latin), on to the thalamus, and finally terminating in the cerebral cortex.
 
 Sometimes, these two naming conventions coexist. For example, the name ``pyramidal tract'' has been mainly supplanted by lateral corticospinal tract in most texts. Note that the ``old'' name was primarily descriptive, evoking the pyramids of antiquity, from the appearance of this neural pathway in the medulla oblongata. The ``new'' name is based primarily on its origin (in the primary motor cortex, Brodmann area 4) and termination (onto the alpha motor neurons of the spinal cord).
@@ -2565,6 +2655,17 @@ Sometimes, these two naming conventions coexist. For example, the name ``pyramid
 The corpus callosum (Latin for ``tough body''), also callosal commissure, is a wide, thick nerve tract, consisting of a flat bundle of commissural fibers, beneath the cerebral cortex in the brain. The corpus callosum is only found in placental mammals. It spans part of the longitudinal fissure, connecting the left and right cerebral hemispheres, enabling communication between them. It is the largest white matter structure in the human brain, about ten centimetres in length and consisting of 200--300 million axonal projections.
 
 The corpus callosum forms the floor of the longitudinal fissure that separates the two cerebral hemispheres. It also forms part of the roof of the lateral ventricles.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/DTI-sagittal-fibers} 
+
+}
+
+\caption{\href{https://commons.wikimedia.org/wiki/File:DTI-sagittal-fibers.jpg}{Visualization of a DTI measurement of a human brain.} Depicted are reconstructed fiber tracts that run through the mid-sagittal plane. Especially prominent are the U-shaped fibers that connect the two hemispheres through the corpus callosum (the fibers come out of the image plane and consequently bend towards the top) and the fiber tracts that descend toward the spine (blue, within the image plane)}\label{fig:visualization}
+\end{figure}
 
 The corpus callosum has four main parts; individual nerve tracts that connect different parts of the hemispheres. These are the rostrum, the genu, the trunk or body, and the splenium. A narrowed part between the trunk and the splenium is known as the isthmus.
 
@@ -2664,6 +2765,36 @@ Proprioceptive information in the body travels up the spinal cord via three trac
 From the levels of L2 to T1, proprioceptive information enters the spinal cord and ascends ipsilaterally, where it synapses in Clarke's nucleus. The secondary neuronal axons continue to ascend ipsilaterally and then pass into the cerebellum via the inferior cerebellar peduncle. This tract is known as the dorsal spinocerebellar tract.
 
 From above T1, proprioceptive primary axons enter the spinal cord and ascend ipsilaterally until reaching the accessory cuneate nucleus, where they synapse. The secondary axons pass into the cerebellum via the inferior cerebellar peduncle where again, these axons synapse on cerebellar deep nuclei. This tract is known as the cuneocerebellar tract.
+
+\hypertarget{default-mode-network}{%
+\subsection{Default mode network}\label{default-mode-network}}
+
+The default mode network (DMN),(Figure \ref{fig:defaultnet}) also default network, or default state network, is a large scale brain network of interacting brain regions known to have activity highly correlated with each other and distinct from other networks in the brain.
+
+
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.7\linewidth]{./figures/cns/fneur-04-00016-g002} 
+
+}
+
+\caption{The default mode network (DMN) includes regions in the medial pre-frontal cortex, precuneus, and bilateral parietal cortex. Highlighted regions in the images were all correlated with the same component from an independent component analysis of an individual's resting state fMRI data. The color scale reflects correlation z-scores, with a lower threshold of z = 3. From \href{https://www.frontiersin.org/article/10.3389/fneur.2013.00016}{Graner John, Oakes Terrence, French Louis, Riedy: Functional MRI in the Investigation of Blast-Related Traumatic Brain Injury. Frontiers in Neurology, vol.~4, 2013}}\label{fig:defaultnetwork}
+\end{figure}
+
+It was initially assumed that the default mode network was most commonly active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. However, it is now known that it can contribute to elements of experience that are related to external task performance. It is also active when the individual is thinking about others, thinking about themselves, remembering the past, and planning for the future. Though the DMN was originally noticed to be deactivated in certain goal-oriented tasks and is sometimes referred to as the task-negative network, it can be active in other goal-oriented tasks such as social working memory or autobiographical tasks. The DMN has been shown to be negatively correlated with other networks in the brain such as attention networks.
+
+\href{https://en.wikipedia.org/wiki/Hans_Berger}{Hans Berger}, the inventor of the electroencephalogram, was the first to propose the idea that the brain is constantly busy. In a series of papers published in 1929 he showed that the electrical oscillations detected by his device do not cease even when the subject is at rest. However, his ideas were not taken seriously, and a general perception formed among neurologists that only when a focused activity is performed does the brain (or a part of the brain) become active.
+
+But in the 1950s, Louis Sokoloff and his colleagues noticed that metabolism in the brain stayed the same when a person went from a resting state to performing effortful math problems suggesting active metabolism in the brain must also be happening during rest. In the 1970s, David H. Ingvar and colleagues observed blood flow in the front part of the brain became the highest when a person is at rest.
+
+In the 1990s, with the advent of positron emission tomography (PET) scans, researchers began to notice that when a person is involved in perception, language, and attention tasks, the same brain areas become less active compared to passive rest, and labeled these areas as becoming ``deactivated''.
+
+In 1995, a graduate student at the Medical College of Wisconsin in Milwaukee, discovered that the human sensorimotor system displayed ``resting-state connectivity,'' exhibiting synchronicity in functional magnetic resonance imaging (fMRI) scans while not engaged in any task.
+
+Later, experiments by neurologist \href{https://en.wikipedia.org/wiki/Marcus_Raichle}{Marcus E. Raichle's} lab at Washington University School of Medicine and other groups showed that the brain's energy consumption is increased by less than 5\% of its baseline energy consumption while performing a focused mental task. These experiments showed that the brain is constantly active with a high level of activity even when the person is not engaged in focused mental work. Research thereafter focused on finding the regions responsible for this constant background activity level.
+
+Raichle coined the term ``default mode'' in 2001 to describe resting state brain function; the concept rapidly became a central theme in neuroscience. Around this time the idea was developed that this network of brain areas is involved in internally directed thoughts and is suspended during specific goal-directed behaviors. In 2003, Greicius and colleagues examined resting state fMRI scans and looked at how correlated different sections in the brain are to each other. Their correlation maps highlighted the same areas already identified by the other researchers. This was important because it demonstrated a convergence of methods all leading to the same areas being involved in the DMN. Since then other resting state networks (RSNs) have been found, such as visual, auditory, and attention networks. Some of them are often anti-correlated with the default mode network.
 
 \hypertarget{sensory-maps}{%
 \section{Sensory Maps}\label{sensory-maps}}
@@ -4620,6 +4751,1184 @@ In the brain, bundles of axons are also categorized by their function into assoc
 \section{Lemniscus}\label{lemniscus}}
 
 A lemniscus (Greek for ribbon or band) is a bundle of secondary sensory fibres in the brainstem. The medial lemniscus and lateral lemniscus terminate in specific relay nuclei of the diencephalon. The trigeminal lemniscus is sometimes considered as the cephalic part of the medial lemniscus.
+
+\hypertarget{list-of-regions-in-the-human-brain}{%
+\chapter{List Of Regions In The Human Brain}\label{list-of-regions-in-the-human-brain}}
+
+\hypertarget{hindbrain-rhombencephalon}{%
+\section{Hindbrain (rhombencephalon)}\label{hindbrain-rhombencephalon}}
+
+Myelencephalon
+
+\begin{itemize}
+\tightlist
+\item
+  Medulla oblongata
+\item
+  Medullary pyramids
+\item
+  Olivary body
+\item
+  Inferior olivary nucleus
+\item
+  Rostral ventrolateral medulla
+\item
+  Caudal ventrolateral medulla
+\item
+  Solitary nucleus (Nucleus of the solitary tract)
+\item
+  Respiratory center-Respiratory groups
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Dorsal respiratory group
+  \item
+    Ventral respiratory group or Apneustic centre
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Pre-Bötzinger complex
+    \item
+      Bötzinger complex
+    \item
+      Retrotrapezoid nucleus
+    \item
+      Nucleus retrofacialis
+    \item
+      Nucleus retroambiguus
+    \item
+      Nucleus para-ambiguus
+    \end{itemize}
+  \end{itemize}
+\item
+  Paramedian reticular nucleus
+\item
+  Gigantocellular reticular nucleus
+\item
+  Parafacial zone
+\item
+  Cuneate nucleus
+\item
+  Gracile nucleus
+\item
+  Perihypoglossal nuclei
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Intercalated nucleus
+  \item
+    Prepositus nucleus
+  \item
+    Sublingual nucleus
+  \end{itemize}
+\item
+  Area postrema
+\item
+  Medullary cranial nerve nuclei
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Inferior salivatory nucleus
+  \item
+    Nucleus ambiguus
+  \item
+    Dorsal nucleus of vagus nerve
+  \item
+    Hypoglossal nucleus
+  \end{itemize}
+\item
+  Chemoreceptor trigger zone
+\end{itemize}
+
+Metencephalon
+
+\begin{itemize}
+\tightlist
+\item
+  Pons
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Pontine nuclei
+  \item
+    Pontine cranial nerve nuclei
+  \item
+    chief or pontine nucleus of the trigeminal nerve sensory nucleus (V)
+  \item
+    Motor nucleus for the trigeminal nerve (V)
+  \item
+    Abducens nucleus (VI)
+  \item
+    Facial nerve nucleus (VII)
+  \item
+    vestibulocochlear nuclei (vestibular nuclei and cochlear nuclei) (VIII)
+  \item
+    Superior salivatory nucleus
+  \end{itemize}
+\item
+  Pontine tegmentum
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Pontine micturition center (Barrington's nucleus)
+  \item
+    Locus coeruleus
+  \item
+    Pedunculopontine nucleus
+  \item
+    Laterodorsal tegmental nucleus
+  \item
+    Tegmental pontine reticular nucleus
+  \item
+    Nucleus incertus
+  \end{itemize}
+\item
+  Parabrachial area
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial parabrachial nucleus
+  \item
+    Lateral parabrachial nucleus
+  \item
+    Subparabrachial nucleus (Kölliker-Fuse nucleus)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Pontine respiratory group
+    \end{itemize}
+  \end{itemize}
+\item
+  Superior olivary complex
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial superior olive
+  \item
+    Lateral superior olive
+  \item
+    Medial nucleus of the trapezoid body
+  \end{itemize}
+\item
+  Paramedian pontine reticular formation
+\item
+  Parvocellular reticular nucleus
+\item
+  Caudal pontine reticular nucleus
+\item
+  Cerebellar peduncles
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Superior cerebellar peduncle
+  \item
+    Middle cerebellar peduncle
+  \item
+    Inferior cerebellar peduncle
+  \item
+    Fourth ventricle
+  \end{itemize}
+\item
+  Cerebellum
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cerebellar vermis
+  \item
+    Cerebellar hemispheres
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Anterior lobe
+    \item
+      Posterior lobe
+    \item
+      Flocculonodular lobe
+    \end{itemize}
+  \end{itemize}
+\item
+  Cerebellar nuclei
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Fastigial nucleus
+  \item
+    Interposed nucleus
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Globose nucleus
+    \item
+      Emboliform nucleus
+    \end{itemize}
+  \item
+    Dentate nucleus
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{midbrain-mesencephalon}{%
+\section{Midbrain (mesencephalon)}\label{midbrain-mesencephalon}}
+
+\begin{itemize}
+\tightlist
+\item
+  Tectum
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Corpora quadrigemina
+
+    \begin{itemize}
+    \tightlist
+    \item
+      inferior colliculi
+    \item
+      superior colliculi
+    \end{itemize}
+  \end{itemize}
+\item
+  Pretectum
+\item
+  Tegmentum
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Periaqueductal gray
+  \item
+    Rostral interstitial nucleus of medial longitudinal fasciculus
+  \item
+    Midbrain reticular formation
+  \item
+    Dorsal raphe nucleus
+  \item
+    Red nucleus
+  \item
+    Ventral tegmental area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Parabrachial pigmented nucleus
+    \item
+      Paranigral nucleus
+    \item
+      Rostromedial tegmental nucleus
+    \end{itemize}
+  \item
+    Caudal linear nucleus
+  \item
+    Rostral linear nucleus of the raphe
+  \item
+    Interfascicular nucleus
+  \item
+    Substantia nigra
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Pars compacta
+    \item
+      Pars reticulata
+    \end{itemize}
+  \item
+    Interpeduncular nucleus
+  \end{itemize}
+\item
+  Cerebral peduncle
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Crus cerebri
+  \end{itemize}
+\item
+  Mesencephalic cranial nerve nuclei
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Oculomotor nucleus (III)
+  \item
+    Edinger-Westphal nucleus
+  \item
+    Trochlear nucleus (IV)
+  \end{itemize}
+\item
+  Mesencephalic duct (cerebral aqueduct, aqueduct of Sylvius)
+\end{itemize}
+
+\hypertarget{forebrain-prosencephalon}{%
+\section{Forebrain (prosencephalon)}\label{forebrain-prosencephalon}}
+
+Diencephalon
+
+Epithalamus
+
+\begin{itemize}
+\tightlist
+\item
+  Pineal body (pineal gland)
+\item
+  Habenular nuclei
+\item
+  Stria medullaris
+\item
+  Taenia thalami
+\end{itemize}
+
+Third ventricle
+
+\begin{itemize}
+\tightlist
+\item
+  Subcommissural organ
+\end{itemize}
+
+Thalamus
+
+\begin{itemize}
+\tightlist
+\item
+  Anterior nuclear group
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Anteroventral nucleus (a.k.a. ventral anterior nucleus)
+  \item
+    Anterodorsal nucleus
+  \item
+    Anteromedial nucleus
+  \end{itemize}
+\item
+  Medial nuclear group
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial dorsal nucleus
+  \item
+    Midline nuclear group
+  \item
+    Paratenial nucleus
+  \item
+    Reuniens nucleus
+  \item
+    Rhomboidal nucleus
+  \item
+    Intralaminar nuclear group
+  \item
+    Centromedian nucleus
+  \item
+    Parafascicular nucleus
+  \item
+    Paracentral nucleus
+  \item
+    Central lateral nucleus
+  \end{itemize}
+\item
+  Lateral nuclear group
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lateral dorsal nucleus
+  \item
+    Lateral posterior nucleus
+  \item
+    Pulvinar
+  \end{itemize}
+\item
+  Ventral nuclear group
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ventral anterior nucleus
+  \item
+    Ventral lateral nucleus
+  \item
+    Ventral posterior nucleus
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Ventral posterior lateral nucleus
+    \item
+      Ventral posterior medial nucleus
+    \end{itemize}
+  \end{itemize}
+\item
+  Metathalamus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial geniculate body
+  \item
+    Lateral geniculate body
+  \end{itemize}
+\item
+  Thalamic reticular nucleus
+\end{itemize}
+
+Hypothalamus (limbic system) (HPA axis)
+
+\begin{itemize}
+\tightlist
+\item
+  Anterior
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Parts of preoptic area
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Medial preoptic nucleus
+
+        \item
+          INAH 1
+        \item
+          INAH 2
+        \item
+          INAH 3
+        \item
+          INAH 4
+      \end{itemize}
+    \item
+      Suprachiasmatic nucleus
+    \item
+      Paraventricular nucleus
+    \item
+      Supraoptic nucleus (mainly)
+    \item
+      Anterior hypothalamic nucleus
+    \end{itemize}
+  \item
+    Lateral area
+  \item
+    Parts of preoptic area
+  \item
+    Lateral preoptic nucleus
+  \item
+    Anterior part of Lateral nucleus
+  \item
+    Part of supraoptic nucleus
+  \item
+    Other nuclei of preoptic area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      median preoptic nucleus
+    \item
+      periventricular preoptic nucleus
+    \end{itemize}
+  \end{itemize}
+\item
+  Tuberal
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Dorsomedial hypothalamic nucleus
+    \item
+      Ventromedial nucleus
+    \item
+      Arcuate nucleus
+    \end{itemize}
+  \item
+    Lateral area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Tuberal part of Lateral nucleus
+    \item
+      Lateral tuberal nuclei
+    \end{itemize}
+  \end{itemize}
+\item
+  Posterior
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Mammillary nuclei (part of mammillary bodies)
+    \item
+      Posterior nucleus
+    \end{itemize}
+  \item
+    Lateral area
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Posterior part of Lateral nucleus
+    \end{itemize}
+  \end{itemize}
+\item
+  Surface
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Median eminence
+  \item
+    Mammillary bodies
+  \item
+    Pituitary stalk (infundibulum)
+  \end{itemize}
+\item
+  Optic chiasm
+\item
+  Subfornical organ
+\item
+  Periventricular nucleus
+\item
+  Tuber cinereum
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tuberal nucleus
+  \item
+    Tuberomammillary nucleus
+  \end{itemize}
+\item
+  Tuberal region
+\item
+  Mammillary nucleus
+\end{itemize}
+
+Subthalamus(HPA axis)
+
+\begin{itemize}
+\tightlist
+\item
+  Subthalamic nucleus
+\item
+  Zona incerta
+\end{itemize}
+
+Pituitary gland (HPA axis)
+
+\begin{itemize}
+\tightlist
+\item
+  neurohypophysis
+\item
+  Pars intermedia (Intermediate Lobe)
+\item
+  adenohypophysis
+\end{itemize}
+
+Telencephalon (cerebrum) Cerebral hemispheres
+
+White matter
+
+\begin{itemize}
+\tightlist
+\item
+  Centrum semiovale
+\item
+  Corona radiata
+\item
+  Internal capsule
+\item
+  External capsule
+\item
+  Extreme capsule
+\end{itemize}
+
+Subcortical
+
+\begin{itemize}
+\tightlist
+\item
+  Hippocampus (Medial Temporal Lobe)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Dentate gyrus
+  \item
+    Cornu ammonis (CA fields)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cornu ammonis area 1 (CA1)
+    \item
+      Cornu ammonis area 2 (CA2)
+    \item
+      Cornu ammonis area 3 (CA3)
+    \item
+      Cornu ammonis area 4 (CA4)
+    \end{itemize}
+  \end{itemize}
+\item
+  Amygdala (limbic system) (limbic lobe)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Central nucleus (autonomic nervous system)
+  \item
+    Medial nucleus (accessory olfactory system)
+  \item
+    Cortical and basomedial nuclei (main olfactory system)
+  \item
+    Lateral and basolateral nuclei (frontotemporal cortical system)
+  \end{itemize}
+\item
+  Extended amygdala
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Stria terminalis
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Bed nucleus of the stria terminalis
+    \end{itemize}
+  \end{itemize}
+\item
+  Claustrum
+\item
+  Basal ganglia
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Striatum
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Dorsal striatum (a.k.a. neostriatum)
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Putamen
+      \item
+        Caudate nucleus
+      \end{itemize}
+    \item
+      Ventral striatum
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Nucleus accumbens
+      \item
+        Olfactory tubercle
+      \end{itemize}
+    \item
+      Globus pallidus (forms nucleus lentiformis with putamen)
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Ventral pallidum
+      \end{itemize}
+    \item
+      Subthalamic nucleus
+    \end{itemize}
+  \end{itemize}
+\item
+  Basal forebrain
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Anterior perforated substance
+  \item
+    Substantia innominata
+  \item
+    Nucleus basalis
+  \item
+    Diagonal band of Broca
+  \item
+    Septal nuclei
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Medial septal nuclei
+    \end{itemize}
+  \item
+    Lamina terminalis
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Vascular organ of lamina terminalis
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+Rhinencephalon (paleocortex)
+
+\begin{itemize}
+\tightlist
+\item
+  Olfactory bulb
+\item
+  Olfactory tract
+\item
+  Anterior olfactory nucleus
+\item
+  Piriform cortex
+\item
+  Anterior commissure
+\item
+  Uncus
+\item
+  Periamygdaloid cortex
+\end{itemize}
+
+Cerebral cortex (neocortex)
+
+\begin{itemize}
+\tightlist
+\item
+  Frontal lobe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cortex
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Primary motor cortex (Precentral gyrus, M1)
+    \item
+      Supplementary motor cortex
+    \item
+      Premotor cortex
+    \item
+      Prefrontal cortex
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Orbitofrontal cortex
+      \item
+        Dorsolateral prefrontal cortex
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Gyri
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Superior frontal gyrus
+  \item
+    Middle frontal gyrus
+  \item
+    Inferior frontal gyrus
+  \end{itemize}
+\item
+  Brodmann areas: 4, 6, 8, 9, 10, 11, 12, 24, 25, 32, 33, 44, 45, 46, 47
+\item
+  Parietal lobe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cortex
+  \item
+    Primary somatosensory cortex (S1)
+  \item
+    Secondary somatosensory cortex (S2)
+  \item
+    Posterior parietal cortex
+  \item
+    Gyri
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Postcentral gyrus (Primary somesthetic area)
+    \end{itemize}
+  \end{itemize}
+\item
+  Other
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Precuneus
+  \end{itemize}
+\item
+  Brodmann areas 1, 2, 3 (Primary somesthetic area); 5, 7, 23, 26, 29, 31, 39, 40
+\item
+  Occipital lobe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cortex
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Primary visual cortex (V1)
+    \item
+      V2
+    \item
+      V3
+    \item
+      V4
+    \item
+      V5/MT
+    \end{itemize}
+  \end{itemize}
+\item
+  Gyri
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lateral occipital gyrus
+  \end{itemize}
+\item
+  Other
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cuneus
+  \end{itemize}
+\item
+  Brodmann areas 17 (V1, primary visual cortex); 18, 19
+\item
+  Temporal lobe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cortex
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Primary auditory cortex (A1)
+    \item
+      secondary auditory cortex (A2)
+    \item
+      Inferior temporal cortex
+    \item
+      Posterior inferior temporal cortex
+    \end{itemize}
+  \end{itemize}
+\item
+  Gyri
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Superior temporal gyrus
+  \item
+    Middle temporal gyrus
+  \item
+    Inferior temporal gyrus
+  \item
+    Entorhinal cortex
+  \item
+    Perirhinal cortex
+  \item
+    Parahippocampal gyrus
+  \item
+    Fusiform gyrus
+  \end{itemize}
+\item
+  Brodmann areas: 20, 21, 22, 27, 34, 35, 36, 37, 38, 41, 42
+\item
+  Other
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Medial superior temporal area (MST)
+  \end{itemize}
+\item
+  Insular cortex
+\item
+  Cingulate cortex
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Anterior cingulate
+  \item
+    Posterior cingulate
+  \item
+    Retrosplenial cortex
+  \item
+    Indusium griseum
+  \item
+    Subgenual area 25
+  \item
+    Brodmann areas 23, 24; 26, 29, 30 (retrosplenial areas); 31, 32
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{neural-pathways}{%
+\chapter{Neural pathways}\label{neural-pathways}}
+
+\begin{itemize}
+\tightlist
+\item
+  Superior longitudinal fasciculus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Arcuate fasciculus
+  \end{itemize}
+\item
+  Uncinate fasciculus
+\item
+  Perforant pathway
+\item
+  Thalamocortical radiations
+\item
+  Corpus callosum
+\item
+  Anterior commissure
+\item
+  Amygdalofugal pathway
+\item
+  Interthalamic adhesion
+\item
+  Posterior commissure
+\item
+  Habenular commissure
+\item
+  Fornix
+\item
+  Mammillotegmental fasciculus
+\item
+  Incertohypothalamic pathway
+\item
+  Cerebral peduncle
+\item
+  Medial forebrain bundle
+\item
+  Medial longitudinal fasciculus
+\item
+  Myoclonic triangle
+\item
+  Solitary tract
+\item
+  Major dopaminergic pathways from dopaminergic cell groups
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mesocortical pathway
+  \item
+    Mesolimbic pathway
+  \item
+    Nigrostriatal pathway
+  \item
+    Tuberoinfundibular pathway
+  \end{itemize}
+\item
+  Serotonergic pathways
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Raphe Nuclei
+  \end{itemize}
+\item
+  Norepinephrine Pathways
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Locus coeruleus and other noradrenergic cell groups
+  \end{itemize}
+\item
+  Epinephrine pathways from adrenergic cell groups
+\item
+  Glutamate and acetylcholine pathways from mesopontine nuclei
+\end{itemize}
+
+\hypertarget{motor-systems-descending-fibers}{%
+\section{Motor systems / Descending fibers}\label{motor-systems-descending-fibers}}
+
+\begin{itemize}
+\tightlist
+\item
+  Extrapyramidal system
+\item
+  Pyramidal tract
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Corticospinal tract or Cerebrospinal fibers
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Lateral corticospinal tract
+    \item
+      Anterior corticospinal tract
+    \end{itemize}
+  \item
+    Corticopontine fibers
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Frontopontine fibers
+    \item
+      Temporopontine fibers
+    \end{itemize}
+  \item
+    Corticobulbar tract
+  \end{itemize}
+\item
+  Corticomesencephalic tract
+\item
+  Tectospinal tract
+\item
+  Interstitiospinal tract
+\item
+  Rubrospinal tract
+\item
+  Rubro-olivary tract
+\item
+  Olivocerebellar tract
+\item
+  Olivospinal tract
+\item
+  Vestibulospinal tract
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lateral vestibulospinal tract
+  \item
+    Medial vestibulospinal tract
+  \end{itemize}
+\item
+  Reticulospinal tract
+\item
+  Lateral raphespinal tract
+\item
+  Alpha system
+\item
+  Gamma system
+\end{itemize}
+
+\hypertarget{somatosensory-system}{%
+\section{Somatosensory system}\label{somatosensory-system}}
+
+\begin{itemize}
+\tightlist
+\item
+  Dorsal column--medial lemniscus pathway
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Gracile fasciculus
+  \item
+    Cuneate fasciculus
+  \item
+    Medial lemniscus
+  \end{itemize}
+\item
+  Spinothalamic tract
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lateral spinothalamic tract
+  \item
+    Anterior spinothalamic tract
+  \item
+    Spinomesencephalic tract
+  \end{itemize}
+\item
+  Spinocerebellar tract
+\item
+  Spino-olivary tract
+\item
+  Spinoreticular tract
+\end{itemize}
+
+\hypertarget{visual-system}{%
+\section{Visual system}\label{visual-system}}
+
+\begin{itemize}
+\tightlist
+\item
+  Optic tract
+\item
+  Optic radiation
+\item
+  Retinohypothalamic tract
+\end{itemize}
+
+\hypertarget{auditory-system}{%
+\section{Auditory system}\label{auditory-system}}
+
+\begin{itemize}
+\tightlist
+\item
+  Medullary striae of fourth ventricle
+\item
+  Trapezoid body
+\item
+  Lateral lemniscus
+\end{itemize}
 
 \hypertarget{brodmann-areas}{%
 \chapter{Brodmann Areas}\label{brodmann-areas}}
