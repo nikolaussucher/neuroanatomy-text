@@ -67,7 +67,7 @@ knitr::include_graphics("./figures/potential/Kcsa.png")
 
 Because of their small size and the difficulty of crystallizing integral membrane proteins for X-ray analysis, it is only very recently that scientists have been able to directly examine what channels "look like." Most of what researchers have deduced about channel operation so far they have established through electrophysiology, biochemistry, gene sequence comparison and mutagenesisi and structural studies (X-ray crystallography and cryoelectronmicroscopy).
 
-(ref:ion) The structures (from left to right) of voltage-gated sodium, potassium, calcium and chloride channels. Top: side view; bottom: top view. Data from [5EK0](https://www.rcsb.org/structure/5EK0), [PDB 2A79](https://www.rcsb.org/structure/2A79), [PDB 3JBR](https://www.rcsb.org/structure/3JBR) and [PDB 1KPL](https://www.rcsb.org/structure/1KPL) rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
+(ref:ion) The structures (from left to right) of voltage-gated sodium, potassium, calcium and chloride channels. Top: side view; bottom: top view. Data from [PDB 5EK0](https://www.rcsb.org/structure/5EK0), [PDB 2A79](https://www.rcsb.org/structure/2A79), [PDB 3JBR](https://www.rcsb.org/structure/3JBR) and [PDB 1KPL](https://www.rcsb.org/structure/1KPL) rendered with open source molecular visualization tool [PyMol](https://pymol.org/2/).
 
 ```{r ionchannel, fig.cap='(ref:ion)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/potential/voltage_gated_ion_channels.png")
