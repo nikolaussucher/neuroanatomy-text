@@ -44,6 +44,12 @@ In addition to the actin and myosin components that constitute the sarcomere, sk
 
 Once a cell is sufficiently stimulated, the cell's sarcoplasmic reticulum releases ionic calcium (Ca^2+^), which then interacts with the regulatory protein troponin. Calcium-bound troponin undergoes a conformational change that leads to the movement of tropomyosin, subsequently exposing the myosin-binding sites on actin. This allows for myosin and actin ATP-dependent cross-bridge cycling and shortening of the muscle.
 
+(ref:serca) A cartoon representation of the crystal structure of the Ca^2+^ pump of the skeletal muscle sarcoplasmic reticulum. Atomic coordinates of [PDB 1VFP](https://www.rcsb.org/structure/1VFP), rendered with open source molecular visualization tool PyMol.
+
+```{r sercastructure, fig.cap='(ref:serca)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/motor/Ca_pump.png")
+```
+
 ## The Motor Unit
 
 Motor units are multiple muscle fibers bundled together. When a person wants to move their body to achieve a certain task, the brain sends an impulse signal that reaches the specific motor unit through the spinal cord. After receiving the signal from the brain, the motor unit contracts muscle fibers within the group to create movement. There is no partial firing in the motor unit, meaning, once the signal is detected, all the muscles fibers within the unit contract. However, there are different intensities. Since each motor unit contracts 100% of its fiber once stimulated, types of motor units that generate different force or speed are significant.
