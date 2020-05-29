@@ -22,6 +22,12 @@ knitr::include_graphics("./figures/somatosensory/Gray940.png")
 
 Cutaneous mechanoreceptors respond to mechanical stimuli that result from physical interaction, including pressure and vibration. They are located in the skin. They are all innervated by Aβ fibers, except the mechanorecepting free nerve endings, which are Aδ fibers. Cutaneous mechanoreceptors can be categorized by morphology, by what kind of sensation they perceive, and by the rate of adaptation. Furthermore, each has a different receptive field.
 
+(ref:mechano) A cartoon representation of the mechanosensitive Piezo1 channel in side and top view. [PDB 5Z10](https://www.rcsb.org/structure/5Z10), rendered with open source molecular visualization tool PyMol.
+
+```{r mechanosensitive, fig.cap='(ref:mechano)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/somatosensory/mechano_sensitive_channel.png")
+```
+
 In the somatosensory system, receptive fields are regions of the skin or of internal organs. Some types of mechanoreceptors have large receptive fields, while others have smaller ones. Large receptive fields allow the cell to detect changes over a wider area, but lead to a less precise perception. Thus, the fingers, which require the ability to detect fine detail, have many, densely packed (up to 500 per cubic cm) mechanoreceptors with small receptive fields (around 10 square mm), while the back and legs, for example, have fewer receptors with large receptive fields.
 
 Tactile-sense-related cortical neurons have receptive fields on the skin that can be modified by experience or by injury to sensory nerves resulting in changes in the field's size and position. In general these neurons have relatively large receptive fields (much larger than those of dorsal root ganglion cells). However, the neurons are able to discriminate fine detail due to patterns of excitation and inhibition relative to the field which leads to spatial resolution.
@@ -90,6 +96,12 @@ Thermoception refers to stimuli of moderate temperatures 24–28 °C (75–82 °
 
 TRP channels that detect noxious stimuli (mechanical, thermal, and chemical pain) relay that info to nociceptors that generate an action potential. Mechanical TRP channels react to depression of their cells (like touch), thermal TRP change shape in different temperatures, and chemical TRP act like taste buds, signalling if their receptors bond to certain elements/chemicals.
 
+(ref:TRPV1) A cartoon representation of the transient receptor potential cation channel subfamily V member 1 (TRPV1), also known as the capsaicin receptor and the vanilloid receptor 1 viewd from the side and the top. The function of TRPV1 is detection and regulation of body temperature. In addition, TRPV1 provides a sensation of scalding heat and pain (nociception). In primary afferent sensory neurons, it cooperates with TRPA1 (a chemical irritant receptor) to mediate the detection of noxious environmental stimuli. [PDB 5IS0](https://www.rcsb.org/structure/5IS0), rendered with open source molecular visualization tool PyMol.
+
+```{r TRPV1channel, fig.cap='(ref:TRPV1)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/somatosensory/TRPV1.png")
+```
+
 ## Proprioception
 
 Proprioception is the sense of self-movement and body position. It is sometimes described as the "sixth sense".
@@ -142,6 +154,7 @@ Fine touch (or discriminative touch) is a sensory modality that allows a subject
 Crude touch (or non-discriminative touch) is a sensory modality that allows the subject to sense that something has touched them, without being able to localize where they were touched (contrasting "fine touch"). Its fibres are carried in the spinothalamic tract, unlike the fine touch, which is carried in the dorsal column.  As fine touch normally works in parallel to crude touch, a person will be able to localize touch until fibres carrying fine touch (Posterior column–medial lemniscus pathway) have been disrupted. Then the subject will feel the touch, but be unable to identify where they were touched.
 
 In humans, temperature sensation from thermoreceptors enters the spinal cord along the axons of Lissauer's tract that synapse on second order neurons in grey matter of the dorsal horn. The axons of these second order neurons then decussate, joining the spinothalamic tract as they ascend to neurons in the ventral posterolateral nucleus of the thalamus.
+
 ## The Primary Somatosensory Cortex
 
 The primary somatosensory cortex is located in the postcentral gyrus, and is part of the somatosensory system.
