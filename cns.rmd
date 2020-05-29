@@ -349,18 +349,25 @@ Social processing, specifically the evaluation of faces in social processing, is
 
 ### The Thalamus
 
-The thalamus (from Greek θάλαμος, "chamber") is a large mass of gray matter located in the dorsal part of the diencephalon. Nerve fibers project out of the thalamus to the cerebral cortex in all directions, allowing hub-like exchanges of information. 
+The thalamus (from Greek θάλαμος, "chamber") is a large mass of gray matter located in the dorsal part of the diencephalon. Nerve fibers project out of the thalamus to the cerebral cortex in all directions, allowing hub-like exchanges of information.
+
+(ref:thalamus1) View of the left hemisphere from medial and below with the brainstem and cerebellum removed by an oblique section through the thalamus. The entire fornix is visible as are the mammilary body. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_634.png)
+
+
+```{r thalamusview, fig.cap='(ref:thalamus1)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Sobo_1909_634.jpg")
+```
 
 Anatomically, it is a midline symmetrical structure of two halves (left and right), within the vertebrate brain, situated between the cerebral cortex and the midbrain. It forms during embryonic development as the main product of the diencephalon, as first recognized by the Swiss embryologist and anatomist [Wilhelm His Sr.](https://en.wikipedia.org/wiki/Wilhelm_His_Sr.) in 1893.
 
-The thalamus has many connections to the hippocampus via the mammillothalamic tract, this tract comprises the mammillary bodies and fornix.
-
-(ref:thalamus) View of the left hemisphere from medial and below with the brainstem and cerebellum removed by an oblique section through the thalamus. The entire fornix is visible as are the mammilary body. [Sobotta's Textbook and Atlas of Human Anatomy 1909](https://commons.wikimedia.org/wiki/File:Sobo_1909_634.png)
+(ref:thalamus2) Overview of thalamic nuclei. A1 is the primary auditory cortex, S1 is the primary somatosensory cortex, VA is the ventral anterior nucleus, VL is the ventral lateral nucleus, DL is the dorsal lateral nucleus, LP is the lateral posterior nucleus, VPL is the ventral posterolateral nucleus, and VPM is the ventral posteromedial nucleus. Modified image from [Richard H. Granger and Robert A. Hearn (2007), Scholarpedia, 2(11):1796.](http://www.scholarpedia.org/article/Models_of_thalamocortical_system)
 
 
-```{r thalamusview, fig.cap='(ref:thalamus)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/cns/Sobo_1909_634.jpg")
+```{r thalamusdetail, fig.cap='(ref:thalamus2)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Thalamus.svg")
 ```
+
+The thalamus has many connections to the hippocampus via the mammillothalamic tract, this tract comprises the mammillary bodies and fornix.
 
 The thalamus is connected to the cerebral cortex via the thalamocortical radiations.
 
@@ -373,6 +380,13 @@ The thalamus has multiple functions, generally believed to act as a relay statio
 The hypothalamus is a portion of the brain that contains a number of small nuclei with a variety of functions. One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland. The hypothalamus is located below the thalamu. It forms the ventral part of the diencephalon. All vertebrate brains contain a hypothalamus. In humans, it is the size of an almond. The hypothalamus is responsible for the regulation of certain metabolic processes and other activities of the autonomic nervous system. It synthesizes and secretes certain neurohormones, called releasing hormones or hypothalamic hormones, and these in turn stimulate or inhibit the secretion of hormones from the pituitary gland. The hypothalamus controls body temperature, hunger, important aspects of parenting and attachment behaviours, thirst, fatigue, sleep, and circadian rhythms. The hypothalamus derives its name from Greek ὑπό, under and θάλαμος, chamber.
 
 The hypothalamus is a divided into 3 regions (supraoptic, tuberal, mammillary) in a parasagittal plane, indicating location anterior-posterior; and 3 areas (periventricular, medial, lateral) in the coronal plane, indicating location medial-lateral. Hypothalamic nuclei are located within these specific regions and areas. It is found in all vertebrate nervous systems. In mammals, magnocellular neurosecretory cells in the paraventricular nucleus and the supraoptic nucleus of the hypothalamus produce neurohypophysial hormones, oxytocin and vasopressin. These hormones are released into the blood in the posterior pituitary. Much smaller parvocellular neurosecretory cells, neurons of the paraventricular nucleus, release corticotropin-releasing hormone and other hormones into the hypophyseal portal system, where these hormones diffuse to the anterior pituitary.
+
+(ref:hypoth) Schematic representation of hypothalamic nuclei (sagittal section). Modified from [Anatomy and Function of the Hypothalamus By Miana Gabriela Pop, Carmen Crivii and Iulian Opincariu](https://www.intechopen.com/books/hypothalamus-in-health-and-diseases/anatomy-and-function-of-the-hypothalamus)
+
+
+```{r hypothalamus, fig.cap='(ref:hypoth)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/cns/Hypothalamus.svg")
+```
 
 The hypothalamus is highly interconnected with other parts of the central nervous system, in particular the brainstem and its reticular formation. As part of the limbic system, it has connections to other limbic structures including the amygdala and septum, and is also connected with areas of the autonomous nervous system.
 

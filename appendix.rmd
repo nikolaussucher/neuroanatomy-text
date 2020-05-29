@@ -329,13 +329,16 @@ Thalamus
   * Lateral dorsal nucleus
   * Lateral posterior nucleus
   * Pulvinar
+    * anterior pulvinar nucleus
+    * lateral pulvinar nucleus
+    * medial pulvinar nucleus
+    * inferior pulvinar nucleus
 * Ventral nuclear group
   * Ventral anterior nucleus
   * Ventral lateral nucleus
   * Ventral posterior nucleus
     * Ventral posterior lateral nucleus
     * Ventral posterior medial nucleus
-* Metathalamus
   * Medial geniculate body
   * Lateral geniculate body
 * Thalamic reticular nucleus
