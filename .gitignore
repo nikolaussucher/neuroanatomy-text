@@ -1,7 +1,7 @@
 _bookdown_files
 _book
 _main.epub
-pdf/_main.pdf
+_*.pdf
 *.aux
 *.swp
 *.*~
@@ -17,3 +17,4 @@ pdf/_main.pdf
 .DS_Store
 .Rhistory
 .Rproj.user
+!docs/_main.pdf
