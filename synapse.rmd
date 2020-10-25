@@ -141,18 +141,6 @@ The most prevalent transmitter is glutamate, which is excitatory at well over 90
 
 Neurons expressing certain types of neurotransmitters sometimes form distinct systems, where activation of the system acts in a modulatory fashion on a large number of neurons in large volumes of the brain. Such modulatory neurotransmitter systems include the noradrenaline (norepinephrine) system, the dopamine system, the serotonin system, and the cholinergic system, among others. Neuromodulatory neurotransmitters typically bind to metabotropic, G-protein coupled receptors to initiate a second messenger signaling cascade that induces a broad, long-lasting signal. This modulation can last for hundreds of milliseconds to several minutes. Some of the effects of neuromodulators include: altering the intrinsic firing activity, increasing or decreasing voltage-dependent currents, changing synaptic efficacy, increasing bursting activity and reconfiguring of synaptic connectivity.
 
-```{r modulators, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
-library(tidyverse)
-library(printr)        
-library(kableExtra)
-
-setwd("~/Dropbox/R/neuroanatomy-text-master")
-
-comparison <-  as_tibble(read.csv("data/modulators.csv"))
-
-knitr::kable(comparison, col.names = c("System", "Origin", "Targets", "Effects"), digits = 2, align = 'llll', longtable = TRUE, booktabs = TRUE, caption = "Major modulatory neurotransmitter systems") %>% kable_styling(latex_options = c("striped", "scale_down", "hold_position")) %>% column_spec(1, width = "5em") %>% column_spec(2, width = "15em") %>% column_spec(3, width = "10em") %>% column_spec(4, width = "15em") %>% collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") 
-```
-
 ## Neurotransmitter Receptors
 
 There are two major types of neurotransmitter receptors: ionotropic and metabotropic. Ionotropic means that ions can pass through the receptor, whereas metabotropic means that a second messenger inside the cell relays the message (i.e. metabotropic receptors do not have channels). Metabotropic receptors are G-protein-coupled receptors (GPCRs). Ionotropic receptors are also called ligand-gated ion channels. Conversely, GPCRs are neither excitatory nor inhibitory. Rather, they can have a broad number of functions such as modulating the actions of excitatory and inhibitory ion channels or triggering a signalling cascade that releases calcium from stores inside the cell.
