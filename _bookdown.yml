@@ -1,5 +1,5 @@
 new_session: yes
-rmd_files:   [ "index.rmd",
+rmd_files:   [ "index.Rmd",
                "acknowledgements.rmd",
                "nervous_system.rmd",
                "development.rmd",

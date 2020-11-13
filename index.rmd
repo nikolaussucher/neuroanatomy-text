@@ -3,7 +3,7 @@ knit: "bookdown::render_book"
 title: "Text For BIO400 Neuroanatomy at Salem State University"
 author: ["Assembled by Nikolaus Sucher"]
 description: "This is a free online Text for Neuroanatomy"
-github-repo: nikolaussuchert/neuroanatomy-text
+github-repo: nikolaussucher/neuroanatomy-text
 twitter-handle: NikolausSucher
 cover-image: cover.jpg
 site: bookdown::bookdown_site
