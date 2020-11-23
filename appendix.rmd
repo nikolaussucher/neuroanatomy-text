@@ -90,7 +90,7 @@ The ventral (from Latin venter, meaning 'belly') surface refers to the front, or
 
 For example, in a fish the pectoral fins are dorsal to the anal fin, but ventral to the dorsal fin.
 
-#### Cranial And Caudal
+### Cranial And Caudal
  
 (ref:roscau) [In the human skull the terms rostral and caudal are adapted to the curved neuraxis of Hominidae](https://commons.wikimedia.org/wiki/File:Rostralcaudal.svg)
 
@@ -176,7 +176,6 @@ A lemniscus (Greek for ribbon or band) is a bundle of secondary sensory fibres i
 # List Of Regions In The Human Brain
 
 ## Hindbrain (rhombencephalon)
-
 
 Myelencephalon
 
