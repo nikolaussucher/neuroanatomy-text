@@ -23,6 +23,12 @@ Several neurodegenerative diseases are classified as proteopathies as they are a
 
 Alzheimer's disease (AD) is a chronic neurodegenerative disease that results in the loss of neurons and synapses in the cerebral cortex and certain subcortical structures, resulting in gross atrophy of the temporal lobe, parietal lobe, and parts of the frontal cortex and cingulate gyrus.
 
+(ref:alzbrain) [Comparison of brain tissue between healthy individual and Alzheimer's disease patient, demonstrating extent of neuronal death](https://commons.wikimedia.org/wiki/File:Alzheimers_brain.jpg) 
+
+```{r alzheimerbrain, fig.cap='(ref:alzbrain)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/disease/Alzheimers_brain.jpg")
+```
+
 AD pathology is primarily characterized by the presence of senile plaques and neurofibrillary tangles. Plaques are made up of small peptides, typically 39–43 amino acids in length, called beta-amyloid (also written as A-beta or Aβ). Beta-amyloid is a fragment from a larger protein called amyloid precursor protein (APP), a transmembrane protein that penetrates through the neuron's membrane. APP appears to play roles in normal neuron growth, survival and post-injury repair. APP is cleaved into smaller fragments by enzymes such as gamma secretase and beta secretase. One of these fragments gives rise to fibrils of beta-amyloid which can self-assemble into the dense extracellular deposits known as senile plaques or amyloid plaques.
 
 

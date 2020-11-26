@@ -34,7 +34,7 @@ The concept of reciprocal innervation is also applicable to the eye (Sherrington
 
 A skeletal muscle refers to multiple bundles (fascicles) of cells joined together called muscle fibers. The fibers and muscles are surrounded by connective tissue layers called fasciae. Muscle fibers, or muscle cells, are formed from the fusion of developmental myoblasts in a process known as myogenesis. Muscle fibers are cylindrical and have more than one nucleus.
 
-(ref:musc)[Structure of the skeletal muscle fiber.](https://upload.wikimedia.org/wikipedia/commons/9/9c/1022_Muscle_Fibers_%28small%29.jpg) 
+(ref:musc) [Structure of the skeletal muscle fiber.](https://upload.wikimedia.org/wikipedia/commons/9/9c/1022_Muscle_Fibers_%28small%29.jpg) 
 
 ```{r muscle, fig.cap='(ref:musc)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/motor/1022_Muscle_Fibers_(small).jpg")
@@ -64,7 +64,6 @@ For low intensity tasks, smaller motor units with fewer muscle fibers are used. 
 
 During an activity of lifting heavy objects such as working out with a dumbbell, not only does low-threshold motor units, but also the high threshold motor units are recruited to compensate forces required in addition to just holding a fork, in which the energy created by the low threshold motor units is sufficient to complete the job. When giving a job, the body first recruits the slow-twitch motor units following by recruit more a more fast-twitch motor units as forces required to complete the movements increase. Thus, when the body has to carry an extremely massive object, it would recruited all the available motor units to contract for the particular muscle that has been used.
 
-### Muscle Contraction
 
 ## Somatic Motor Neurons
 
@@ -106,24 +105,23 @@ A neuromuscular junction is a chemical synapse formed by the contact between a m
 knitr::include_graphics("./figures/motor/1009_Motor_End_Plate_and_Innervation.jpg")
 ```
 
-Excitation-contraction coupling
+### Muscle Contraction
 
 Excitation–contraction coupling is the process by which a muscular action potential in the muscle fiber causes the myofibrils to contract. In skeletal muscle, excitation–contraction coupling relies on a direct coupling between key proteins, the sarcoplasmic reticulum (SR) calcium release channel (identified as the ryanodine receptor, RyR) and voltage-gated L-type calcium channels (identified as dihydropyridine receptors, DHPRs). DHPRs are located on the sarcolemma (which includes the surface sarcolemma and the transverse tubules), while the RyRs reside across the SR membrane. The close apposition of a transverse tubule and two SR regions containing RyRs is described as a triad and is predominantly where excitation–contraction coupling takes place. Excitation–contraction coupling occurs when depolarization of skeletal muscle cell results in a muscle action potential, which spreads across the cell surface and into the muscle fiber's network of T-tubules, thereby depolarizing the inner portion of the muscle fiber. Depolarization of the inner portions activates dihydropyridine receptors in the terminal cisternae, which are in close proximity to ryanodine receptors in the adjacent sarcoplasmic reticulum. The activated dihydropyridine receptors physically interact with ryanodine receptors to activate them via foot processes (involving conformational changes that allosterically activates the ryanodine receptors). As the ryanodine receptors open, Ca^2+^ is released from the sarcoplasmic reticulum into the local junctional space and diffuses into the bulk cytoplasm to cause a calcium spark. Note that the sarcoplasmic reticulum has a large calcium buffering capacity partially due to a calcium-binding protein called calsequestrin. The near synchronous activation of thousands of calcium sparks by the action potential causes a cell-wide increase in calcium giving rise to the upstroke of the calcium transient. The Ca^2+^ released into the cytosol binds to Troponin C by the actin filaments, to allow crossbridge cycling, producing force and, in some situations, motion. The sarco/endoplasmic reticulum calcium-ATPase (SERCA) actively pumps Ca^2+^ back into the sarcoplasmic reticulum. As Ca^2+^ declines back to resting levels, the force declines and relaxation occurs.
 
-Sliding filament theory
+### Sliding filament theory
 
-Sliding filament theory: A sarcomere in relaxed (above) and contracted (below) positions
 The sliding filament theory describes a process used by muscles to contract. It is a cycle of repetitive events that cause a thin filament to slide over a thick filament and generate tension in the muscle. It was independently developed by Andrew Huxley and Rolf Niedergerke and by Hugh Huxley and Jean Hanson in 1954. Physiologically, this contraction is not uniform across the sarcomere; the central position of the thick filaments becomes unstable and can shift during contraction. However the actions of elastic proteins such as titin are hypothesised to maintain uniform tension across the sarcomere and pull the thick filament into a central position.
 
-Crossbridge cycling
+### Crossbridge cycling
 
 Crossbridge cycling is a sequence of molecular events that underlies the sliding filament theory. A crossbridge is a myosin projection, consisting of two myosin heads, that extends from the thick filaments. Each myosin head has two binding sites: one for ATP and another for actin. The binding of ATP to a myosin head detaches myosin from actin, thereby allowing myosin to bind to another actin molecule. Once attached, the ATP is hydrolyzed by myosin, which uses the released energy to move into the "cocked position" whereby it binds weakly to a part of the actin binding site. The remainder of the actin binding site is blocked by tropomyosin. With the ATP hydrolyzed, the cocked myosin head now contains ADP + Pi. Two Ca^2+^ ions bind to troponin C on the actin filaments. The troponin-Ca^2+^ complex causes tropomyosin to slide over and unblock the remainder of the actin binding site. Unblocking the rest of the actin binding sites allows the two myosin heads to close and myosin to bind strongly to actin. The myosin head then releases the inorganic phosphate and initiates a power stroke, which generates a force of 2 pN. The power stroke moves the actin filament inwards, thereby shortening the sarcomere. Myosin then releases ADP but still remains tightly bound to actin. At the end of the power stroke, ADP is released from the myosin head, leaving myosin attached to actin in a rigor state until another ATP binds to myosin. A lack of ATP would result in the rigor state characteristic of rigor mortis. Once another ATP binds to myosin, the myosin head will again detach from actin and another crossbridges cycle occurs.
 
 Crossbridge cycling is able to continue as long as there are sufficient amounts of ATP and Ca^2+^ in the cytoplasm. Termination of crossbridge cycling can occur when Ca^2+^ is actively pumped back into the sarcoplasmic reticulum. When Ca^2+^ is no longer present on the thin filament, the tropomyosin changes conformation back to its previous state so as to block the binding sites again. The myosin ceases binding to the thin filament, and the muscle relaxes. The Ca^2+^ ions leave the troponin molecule in order to maintain the Ca^2+^ ion concentration in the sarcoplasm. The active pumping of Ca^2+^ ions into the sarcoplasmic reticulum creates a deficiency in the fluid around the myofibrils. This causes the removal of Ca^2+^ ions from the troponin. Thus, the tropomyosin-troponin complex again covers the binding sites on the actin filaments and contraction ceases.
 
-(ref:)[Crossbridge cycling and the molecular basis of muscle contraction.](https://commons.wikimedia.org/wiki/File:1008_Skeletal_Muscle_Contraction.jpg) 
+(ref:crossbr) [Crossbridge cycling and the molecular basis of muscle contraction.](https://commons.wikimedia.org/wiki/File:1008_Skeletal_Muscle_Contraction.jpg) 
 
-```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r crossbridge, fig.cap='(ref:crossbr)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/motor/1008_Skeletal_Muscle_Contraction.jpg")
 ```
 
