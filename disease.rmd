@@ -25,11 +25,24 @@ Alzheimer's disease (AD) is a chronic neurodegenerative disease that results in 
 
 AD pathology is primarily characterized by the presence of senile plaques and neurofibrillary tangles. Plaques are made up of small peptides, typically 39–43 amino acids in length, called beta-amyloid (also written as A-beta or Aβ). Beta-amyloid is a fragment from a larger protein called amyloid precursor protein (APP), a transmembrane protein that penetrates through the neuron's membrane. APP appears to play roles in normal neuron growth, survival and post-injury repair. APP is cleaved into smaller fragments by enzymes such as gamma secretase and beta secretase. One of these fragments gives rise to fibrils of beta-amyloid which can self-assemble into the dense extracellular deposits known as senile plaques or amyloid plaques.
 
+
+(ref:alzpat) [Histopathologic images of Alzheimer's disease, in the CA3 area of the hippocampus, showing an amyloid plaque (top right), neurofibrillary tangles (bottom left) and granulovacuolar degeneration (bottom center).](https://commons.wikimedia.org/wiki/File:Histopathology_of_Alzheimer%27s_disease.jpg) 
+
+```{r alzheimer, fig.cap='(ref:alzpat)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/disease/Histopathology_of_Alzheimer's_disease.jpg")
+```
+
 ### Parkinson's disease
 
 Parkinson's disease (PD) is the second most common neurodegenerative disorder. It typically manifests as bradykinesia, rigidity, resting tremor and posture instability. The crude prevalence rate of PD has been reported to range from 15 per 100,000 to 12,500 per 100,000, and the incidence of PD from 15 per 100,000 to 328 per 100,000, with the disease being less common in Asian countries.
 
 PD is primarily characterized by death of dopaminergic neurons in the substantia nigra, a region of the midbrain. The cause of this selective cell death is unknown. Notably, alpha-synuclein-ubiquitin complexes and aggregates are observed to accumulate in Lewy bodies within affected neurons. It is thought that defects in protein transport machinery and regulation, such as RAB1, may play a role in this disease mechanism. Impaired axonal transport of alpha-synuclein may also lead to its accumulation in Lewy bodies. Experiments have revealed reduced transport rates of both wild-type and two familial Parkinson's disease-associated mutant alpha-synucleins through axons of cultured neurons. Membrane damage by alpha-synuclein could be another Parkinson's disease mechanism.
+
+(ref:park) [A Lewy body (stained brown) in a brain cell of the substantia nigra in Parkinson's disease. The brown colour is positive immunohistochemistry staining for alpha-synuclein.](https://commons.wikimedia.org/wiki/File:Lewy_Body_alphaSynuclein.jpg) 
+
+```{r parkinson, fig.cap='(ref:park)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/disease/Lewy_Body_alphaSynuclein.jpg")
+```
 
 The main known risk factor is age. Mutations in genes such as α-synuclein (SNCA), leucine-rich repeat kinase 2 (LRRK2), glucocerebrosidase (GBA), and tau protein (MAPT) can also cause hereditary PD or increase PD risk.
 
@@ -52,6 +65,12 @@ Cerebrovascular disease includes a variety of medical conditions that affect the
 ### Stroke
 
 A stroke is a medical condition in which poor blood flow to the brain causes cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding. Both cause parts of the brain to stop functioning properly. Signs and symptoms of a stroke may include an inability to move or feel on one side of the body, problems understanding or speaking, dizziness, or loss of vision to one side. Signs and symptoms often appear soon after the stroke has occurred. If symptoms last less than one or two hours, the stroke is a transient ischemic attack (TIA), also called a mini-stroke. A hemorrhagic stroke may also be associated with a severe headache. The symptoms of a stroke can be permanent. Long-term complications may include pneumonia and loss of bladder control.
+
+(ref:stroke) [CT-scan of the brain with an MCA infarct.](https://commons.wikimedia.org/wiki/File:MCA_Territory_Infarct.svg) 
+
+```{r ctstroke, fig.cap='(ref:stroke)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/disease/MCA_Territory_Infarct.svg")
+```
 
 The main risk factor for stroke is high blood pressure. Other risk factors include tobacco smoking, obesity, high blood cholesterol, diabetes mellitus, a previous TIA, end-stage kidney disease, and atrial fibrillation. An ischemic stroke is typically caused by blockage of a blood vessel, though there are also less common causes. A hemorrhagic stroke is caused by either bleeding directly into the brain or into the space between the brain's membranes. Bleeding may occur due to a ruptured brain aneurysm. Diagnosis is typically based on a physical exam and supported by medical imaging such as a CT scan or MRI scan. A CT scan can rule out bleeding, but may not necessarily rule out ischemia, which early on typically does not show up on a CT scan. Other tests such as an electrocardiogram (ECG) and blood tests are done to determine risk factors and rule out other possible causes. Low blood sugar may cause similar symptoms.
 
@@ -88,6 +107,12 @@ Stroke symptoms typically start suddenly, over seconds to minutes, and in most c
 ## Epilepsy
 
 Epilepsy is a group of neurological disorders characterized by recurrent epileptic seizures. Epileptic seizures are episodes that can vary from brief and nearly undetectable periods to long periods of vigorous shaking. These episodes can result in physical injuries, including occasionally broken bones. In epilepsy, seizures have a tendency to recur and, as a rule, have no immediate underlying cause. Isolated seizures that are provoked by a specific cause such as poisoning are not deemed to represent epilepsy. People with epilepsy may be treated differently in various areas of the world and experience varying degrees of social stigma due to their condition.
+
+(ref:epilepsy) [The electroencephalogram recording](https://commons.wikimedia.org/wiki/File:Spike-waves.png) of a person with childhood absence epilepsy showing a seizure. The waves are black on a white background.
+
+```{r epilepsyeeg, fig.cap='(ref:epilepsy)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/disease/Spike-waves.png")
+```
 
 The underlying mechanism of epileptic seizures is excessive and abnormal neuronal activity in the cortex of the brain. The reason this occurs in most cases of epilepsy is unknown. Some cases occur as the result of brain injury, stroke, brain tumors, infections of the brain, or birth defects through a process known as epileptogenesis. Known genetic mutations are directly linked to a small proportion of cases. The diagnosis involves ruling out other conditions that might cause similar symptoms, such as fainting, and determining if another cause of seizures is present, such as alcohol withdrawal or electrolyte problems. This may be partly done by imaging the brain and performing blood tests. Epilepsy can often be confirmed with an electroencephalogram (EEG), but a normal test does not rule out the condition.
 
