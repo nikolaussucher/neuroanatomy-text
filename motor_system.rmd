@@ -62,8 +62,6 @@ Motor units are multiple muscle fibers bundled together. When a person wants to 
 
 For low intensity tasks, smaller motor units with fewer muscle fibers are used. These smaller motor units are known as low threshold motor units. They consist of type I fibers that contract much slower and thus provide less force for daily basic movement such as typing on the keyboard. For more intense tasks, motor units containing Type II muscle fibers are used. These fast twitch motor units are known as high threshold motor units. 
 
-During an activity of lifting heavy objects such as working out with a dumbbell, not only does low-threshold motor units, but also the high threshold motor units are recruited to compensate forces required in addition to just holding a fork, in which the energy created by the low threshold motor units is sufficient to complete the job. When giving a job, the body first recruits the slow-twitch motor units following by recruit more a more fast-twitch motor units as forces required to complete the movements increase. Thus, when the body has to carry an extremely massive object, it would recruited all the available motor units to contract for the particular muscle that has been used.
-
 
 ## Somatic Motor Neurons
 
