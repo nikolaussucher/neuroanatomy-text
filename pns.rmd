@@ -2,6 +2,13 @@
 
 The peripheral nervous system (PNS) is one of two components that make up the nervous system of bilateral animals, with the other part being the central nervous system (CNS). The PNS consists of the nerves and ganglia outside the brain and spinal cord. The main function of the PNS is to connect the CNS to the limbs and organs, essentially serving as a relay between the brain and spinal cord and the rest of the body. Unlike the CNS, the PNS is not protected by the vertebral column and skull, or by the blood–brain barrier, which leaves it exposed to toxins and mechanical injuries.
 
+(ref:hns) [Diagram of the the human peripheral nervous system (blue) and central nervous system (yellow).](https://commons.wikimedia.org/wiki/File:Nervous_system_diagram-en.svg)
+ 
+
+```{r pnscns, fig.cap='(ref:hns)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/pns/Nervous_system_diagram-en.svg")
+```
+
 The peripheral nervous system is divided into the somatic nervous system and the autonomic nervous system. In the somatic nervous system, the cranial nerves are part of the PNS with the exception of the optic nerve (cranial nerve II), along with the retina. The second cranial nerve is not a true peripheral nerve but a tract of the diencephalon. Cranial nerve ganglia originated in the CNS. However, the remaining ten cranial nerve axons extend beyond the brain and are therefore considered part of the PNS. The autonomic nervous system exerts involuntary control over smooth muscle and glands. The connection between CNS and organs allows the system to be in two different functional states: sympathetic and parasympathetic.
 
 The somatic nervous system is under voluntary control, and transmits signals from the brain to end organs such as muscles. The sensory nervous system is part of the somatic nervous system and transmits signals from senses such as taste and touch (including fine touch and gross touch) to the spinal cord and brain. The autonomic nervous system is a 'self-regulating' system which influences the function of organs outside voluntary control, such as the heart rate, or the functions of the digestive system.
@@ -22,7 +29,7 @@ The cranial nerves are considered components of the peripheral nervous system (P
 
 The cranial nerves emerge from the central nervous system above the level of the first vertebrae of the vertebral column. Each cranial nerve is paired and is present on both sides. The numbering of the cranial nerves is based on the order in which they emerge from the brain and brainstem, from front to back. Most typically, humans are considered to have twelve pairs of cranial nerves (I–XII). The nerves are: the olfactory nerve (I), the optic nerve (II), oculomotor nerve (III), trochlear nerve (IV), trigeminal nerve (V), abducens nerve (VI), facial nerve (VII), vestibulocochlear nerve (VIII), glossopharyngeal nerve (IX), vagus nerve (X), accessory nerve (XI), and the hypoglossal nerve (XII).
 
-(ref:cn) View of the base of the brai. The cranial nerves are colored in purple and labeled with numbers on the left (1 to 12). From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
+(ref:cn) View of the base of the brain. The cranial nerves are colored in purple and labeled with numbers on the left (1 to 12). From [Gray Henry, Anatomy of the Human Body. 20^th^ Edition, Lea & Febiger, Philadelphia & New York, 1918](https://archive.org/details/anatomyofhumanbo1918gray/page/n6/mode/2up) 
  
 
 ```{r baseofbrain, fig.cap='(ref:cn)', echo=FALSE, message=FALSE, warning=FALSE}
@@ -151,6 +158,14 @@ knitr::kable(comparison, col.names = c("Target organ/system", "Parasympathetic",
 
 The sympathetic nervous system is responsible for up- and down-regulating many homeostatic mechanisms in living organisms. Fibers from the SNS innervate tissues in almost every organ system, providing at least some regulation of functions as diverse as pupil diameter, gut motility, and urinary system output and function. It is perhaps best known for mediating the neuronal and hormonal stress response commonly known as the fight-or-flight response. This response is also known as sympatho-adrenal response of the body, as the preganglionic sympathetic fibers that end in the adrenal medulla (but also all other sympathetic fibers) secrete acetylcholine, which activates the great secretion of adrenaline (epinephrine) and to a lesser extent noradrenaline (norepinephrine) from it. Therefore, this response that acts primarily on the cardiovascular system is mediated directly via impulses transmitted through the sympathetic nervous system and indirectly via catecholamines secreted from the adrenal medulla.
 
+(ref:symp) [Innvervations of the sympathetic nervous system.](https://commons.wikimedia.org/wiki/File:1501_Connections_of_the_Sympathetic_Nervous_System.jpg)
+ 
+
+```{r sns, fig.cap='(ref:symp)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/pns/1501_Connections_of_the_Sympathetic_Nervous_System.jpg")
+```
+
+
 The name of this system can be traced to the concept of sympathy, in the sense of "connection between parts", first used medically by Galen. In the 18th century, [Jacob B. Winslow](https://en.wikipedia.org/wiki/Jacob_B._Winslow) applied the term specifically to nerves.
 
 The sympathetic nervous system is responsible for priming the body for action, particularly in situations threatening survival. One example of this priming is in the moments before waking, in which sympathetic outflow spontaneously increases in preparation for action.
@@ -178,6 +193,13 @@ A notable exception to the routes mentioned above is the sympathetic innervation
 The parasympathetic system is responsible for stimulation of "rest-and-digest" or "feed and breed" activities that occur when the body is at rest, especially after eating, including sexual arousal, salivation, lacrimation (tears), urination, digestion and defecation. Its action is described as being complementary to that of the sympathetic nervous system, which is responsible for stimulating activities associated with the fight-or-flight response.
 
 Nerve fibres of the parasympathetic nervous system arise from the central nervous system. Specific nerves include several cranial nerves, specifically the oculomotor nerve, facial nerve, glossopharyngeal nerve, and vagus nerve. Three spinal nerves in the sacrum (S2-4), commonly referred to as the pelvic splanchnic nerves, also act as parasympathetic nerves.
+
+(ref:parasymp) [Innvervations of the parasympathetic nervous system.](https://commons.wikimedia.org/wiki/File:1503_Connections_of_the_Parasympathetic_Nervous_System.jpg)
+ 
+
+```{r psns, fig.cap='(ref:parasymp)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/pns/1503_Connections_of_the_Parasympathetic_Nervous_System.jpg")
+```
 
 The parasympathetic nervous system uses chiefly acetylcholine (ACh) as its neurotransmitter, although peptides (such as cholecystokinin) can be used. The ACh acts on two types of receptors, the muscarinic and nicotinic cholinergic receptors. Most transmissions occur in two stages: When stimulated, the preganglionic neuron releases ACh at the ganglion, which acts on nicotinic receptors of postganglionic neurons. The postganglionic neuron then releases ACh to stimulate the muscarinic receptors of the target organ.
 

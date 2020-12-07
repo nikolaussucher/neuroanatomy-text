@@ -82,9 +82,12 @@ fig:associfibers
 fig:visualization
 fig:defaultnetwork
 fig:homunculus
+fig:pnscns
 fig:baseofbrain
 fig:autonomicdiagram
 tab:autonomic
+fig:sns
+fig:psns
 fig:skindiagram
 fig:mechanosensitive
 fig:tactilecorpuscle
@@ -117,6 +120,7 @@ fig:alzheimerbrain
 fig:alzheimer
 fig:parkinson
 fig:ctstroke
+fig:aphasias
 fig:epilepsyeeg
 tab:axes
 fig:rostralcaudal
@@ -307,6 +311,9 @@ huntingtons-disease
 amyotrophic-lateral-sclerosis-als
 cerebrovascular-disease
 stroke
+aphasia
+prosopagnosia
+hemispatial-neglect
 epilepsy
 mental-disorders
 mood-disorders

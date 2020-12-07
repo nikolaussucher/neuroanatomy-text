@@ -104,11 +104,80 @@ There are two main types of hemorrhagic stroke:
 
 The above two main types of hemorrhagic stroke are also two different forms of intracranial hemorrhage, which is the accumulation of blood anywhere within the cranial vault; but the other forms of intracranial hemorrhage, such as epidural hematoma (bleeding between the skull and the dura mater, which is the thick outermost layer of the meninges that surround the brain) and subdural hematoma (bleeding in the subdural space), are not considered "hemorrhagic strokes".
 
-Hemorrhagic strokes may occur on the background of alterations to the blood vessels in the brain, such as cerebral amyloid angiopathy, cerebral arteriovenous malformation and an intracranial aneurysm, which can cause intraparenchymal or subarachnoid hemorrhage.[citation needed]
+Hemorrhagic strokes may occur on the background of alterations to the blood vessels in the brain, such as cerebral amyloid angiopathy, cerebral arteriovenous malformation and an intracranial aneurysm, which can cause intraparenchymal or subarachnoid hemorrhage.
 
 In addition to neurological impairment, hemorrhagic strokes usually cause specific symptoms (for instance, subarachnoid hemorrhage classically causes a severe headache known as a thunderclap headache) or reveal evidence of a previous head injury.
 
-Stroke symptoms typically start suddenly, over seconds to minutes, and in most cases do not progress further. The symptoms depend on the area of the brain affected. The more extensive the area of the brain affected, the more functions that are likely to be lost. Some forms of stroke can cause additional symptoms. For example, in intracranial hemorrhage, the affected area may compress other structures. Most forms of stroke are not associated with a headache, apart from subarachnoid hemorrhage and cerebral venous thrombosis and occasionally intracerebral hemorrhage.[citation needed]
+Stroke symptoms typically start suddenly, over seconds to minutes, and in most cases do not progress further. The symptoms depend on the area of the brain affected. The more extensive the area of the brain affected, the more functions that are likely to be lost.
+
+### Aphasia
+
+Aphasia is an inability to comprehend or formulate language because of damage to specific brain regions. Aphasia is most often caused by stroke, but any disease or damage to the parts of the brain that control language can cause aphasia. Some of these can include brain tumors, traumatic brain injury, and progressive neurological disorders.
+
+People with aphasia may experience any of the following behaviors due to an acquired brain injury, although some of these symptoms may be due to related or concomitant problems, such as dysarthria or apraxia, and not primarily due to aphasia. Aphasia symptoms can vary based on the location of damage in the brain. Signs and symptoms may or may not be present in individuals with aphasia and may vary in severity and level of disruption to communication. Often those with aphasia will try to hide their inability to name objects by using words like thing. So when asked to name a pencil they may say it is a thing used to write.
+
+* Inability to comprehend language
+* Inability to pronounce, not due to muscle paralysis or weakness
+* Inability to speak spontaneously
+* Inability to form words
+* Inability to name objects (anomia)
+* Poor enunciation
+* Excessive creation and use of personal neologisms
+* Inability to repeat a phrase
+* Persistent repetition of one syllable, word, or phrase (stereotypies, recurrent/recurring utterances/speech automatism)
+* Paraphasia (substituting letters, syllables or words)
+* Agrammatism (inability to speak in a grammatically correct fashion)
+* Dysprosody (alterations in inflexion, stress, and rhythm)
+* Incomplete sentences
+* Inability to read
+* Inability to write
+
+
+* Limited verbal output
+* Difficulty in naming
+* Speech disorder
+* Speaking gibberish
+* Inability to follow or understand simple requests
+
+Localizationist approaches aim to classify the aphasias according to their major presenting characteristics and the regions of the brain that most probably gave rise to them. Inspired by the early work of nineteenth-century neurologists [Paul Broca]() and [Carl Wernicke](), these approaches identify two major subtypes of aphasia and several more minor subtypes:
+
+(ref:aphasia) [Cortical areas damaged in Broaca's and Wernicke's aphasia.](https://commons.wikimedia.org/wiki/File:BrocasAreaSmall.png)
+ 
+
+```{r aphasias, fig.cap='(ref:aphasia)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/disease/BrocasAreaSmall.png")
+```
+
+* Expressive aphasia (also known as "motor aphasia" or "Broca's aphasia"), which is characterized by halted, fragmented, effortful speech, but well-preserved comprehension relative to expression. Damage is typically in the anterior portion of the left hemisphere, most notably Broca's area. Individuals with Broca's aphasia often have right-sided weakness or paralysis of the arm and leg, because the left frontal lobe is also important for body movement, particularly on the right side.
+* Receptive aphasia (also known as "sensory aphasia" or "Wernicke's aphasia"), which is characterized by fluent speech, but marked difficulties understanding words and sentences. Although fluent, the speech may lack in key substantive words (nouns, verbs, adjectives), and may contain incorrect words or even nonsense words. This subtype has been associated with damage to the posterior left temporal cortex, most notably Wernicke's area. These individuals usually have no body weakness, because their brain injury is not near the parts of the brain that control movement.
+* Conduction aphasia, where speech remains fluent, and comprehension is preserved, but the person may have disproportionate difficulty where repeating words or sentences. Damage typically involves the arcuate fasciculus and the left parietal region.
+* Transcortical motor aphasia and transcortical sensory aphasia, which are similar to Broca's and Wernicke's aphasia respectively, but the ability to repeat words and sentences is disproportionately preserved.
+
+Recent classification schemes adopting this approach, such as the Boston-Neoclassical Model, also group these classical aphasia subtypes into two larger classes: the nonfluent aphasias (which encompasses Broca's aphasia and transcortical motor aphasia) and the fluent aphasias (which encompasses Wernicke's aphasia, conduction aphasia and transcortical sensory aphasia). These schemes also identify several further aphasia subtypes, including: anomic aphasia, which is characterized by a selective difficulty finding the names for things; and global aphasia, where both expression and comprehension of speech are severely compromised.
+
+Many localizationist approaches also recognize the existence of additional, more "pure" forms of language disorder that may affect only a single language skill. For example, in pure alexia, a person may be able to write but not read, and in pure word deafness, they may be able to produce speech and to read, but not understand speech when it is spoken to them.
+
+### Prosopagnosia 
+
+Prosopagnosia (from Greek prósōpon, meaning "face", and agnōsía, meaning "non-knowledge"), also called face blindness, is a cognitive disorder of face perception in which the ability to recognize familiar faces, including one's own face (self-recognition), is impaired, while other aspects of visual processing (e.g., object discrimination) and intellectual functioning (e.g., decision-making) remain intact. The term originally referred to a condition following acute brain damage (acquired prosopagnosia), but a congenital or developmental form of the disorder also exists, with a prevalence rate of 2.5%. The specific brain area usually associated with prosopagnosia is the fusiform gyrus, which activates specifically in response to faces. The functionality of the fusiform gyrus allows most people to recognize faces in more detail than they do similarly complex inanimate objects. For those with prosopagnosia, the new method for recognizing faces depends on the less sensitive object-recognition system. The right hemisphere fusiform gyrus is more often involved in familiar face recognition than the left. It remains unclear whether the fusiform gyrus is only specific for the recognition of human faces or if it is also involved in highly trained visual stimuli.
+
+Acquired prosopagnosia results from occipito-temporal lobe damage and is most often found in adults. This is further subdivided into apperceptive and associative prosopagnosia. In congenital prosopagnosia, the individual never adequately develops the ability to recognize faces.
+
+Though there have been several attempts at remediation, no therapies have demonstrated lasting real-world improvements across a group of prosopagnosics. Prosopagnosics often learn to use "piecemeal" or "feature-by-feature" recognition strategies. This may involve secondary clues such as clothing, gait, hair color, skin color, body shape, and voice. Because the face seems to function as an important identifying feature in memory, it can also be difficult for people with this condition to keep track of information about people, and socialize normally with others. Prosopagnosia has also been associated with other disorders that are associated with nearby brain areas: left hemianopsia (loss of vision from left side of space, associated with damage to the right occipital lobe), achromatopsia (a deficit in color perception often associated with unilateral or bilateral lesions in the temporo-occipital junction) and topographical disorientation (a loss of environmental familiarity and difficulties in using landmarks, associated with lesions in the posterior part of the parahippocampal gyrus and anterior part of the lingual gyrus of the right hemisphere).
+
+### Hemispatial neglect 
+
+Hemispatial neglect is a neuropsychological condition in which, after damage to one hemisphere of the brain is sustained, a deficit in attention to and awareness of one side of the field of vision is observed. It is defined by the inability of a person to process and perceive stimuli on one side of the body or environment, where that inability is not due to a lack of sensation. Hemispatial neglect is very commonly contralateral to the damaged hemisphere, but instances of ipsilesional neglect (on the same side as the lesion) have been reported.
+
+Hemispatial neglect results most commonly from strokes and brain unilateral injury to the right cerebral hemisphere, with rates in the critical stage of up to 80% causing visual neglect of the left-hand side of space. Neglect is often produced by massive strokes in the middle cerebral artery region and is variegated, so that most sufferers do not exhibit all of the syndrome's traits. Right-sided spatial neglect is rare because there is redundant processing of the right space by both the left and right cerebral hemispheres, whereas in most left-dominant brains the left space is only processed by the right cerebral hemisphere. Although it most strikingly affects visual perception ('visual neglect'), neglect in other forms of perception can also be found, either alone or in combination with visual neglect.
+
+For example, a stroke affecting the right parietal lobe of the brain can lead to neglect for the left side of the visual field, causing a patient with neglect to behave as if the left side of sensory space is nonexistent (although they can still turn left). In an extreme case, a patient with neglect might fail to eat the food on the left half of their plate, even though they complain of being hungry. If someone with neglect is asked to draw a clock, their drawing might show only the numbers 12 to 6, or all 12 numbers might be on one half of the clock face with the other half distorted or blank. Neglect patients may also ignore the contralesional side of their body; for instance, they might only shave, or apply make-up to, the non-neglected side. These patients may frequently collide with objects or structures such as door frames on the side being neglected.
+
+Neglect may also present as a delusional form, where the patient denies ownership of a limb or an entire side of the body. Since this delusion often occurs alone, without the accompaniment of other delusions, it is often labeled as a monothematic delusion.
+
+Neglect not only affects present sensation but memory and recall perception as well. A patient suffering from neglect may also, when asked to recall a memory of a certain object and then draw said object, draw only half of the object. It is unclear, however, if this is due to a perceptive deficit of the memory (to the patient having lost pieces of spatial information of the memory) or whether the information within the memory is whole and intact but simply being ignored, the same way portions of a physical object in the patient's presence would be ignored.
+
+Some forms of neglect may also be very mild—for example, in a condition called extinction where competition from the ipsilesional stimulus impedes perception of the contralesional stimulus. These patients, when asked to fixate on the examiner's nose, can detect fingers being wiggled on the affected side. If the examiner were to wiggle his or her fingers on both the affected and unaffected sides of the patient, the patient will report seeing movement only on the ipsilesional side.
 
 ## Epilepsy
 
