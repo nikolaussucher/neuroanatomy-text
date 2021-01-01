@@ -85,7 +85,7 @@ Damage to the facial nerve (VII) may cause facial palsy. This is where a person 
 
 The vestibulocochlear nerve (VIII) supplies information relating to balance and hearing via its two branches, the vestibular and cochlear nerves. The vestibular part is responsible for supplying sensation from the vestibules and semicircular canal of the inner ear, including information about balance, and is an important component of the vestibuloocular reflex, which keeps the head stable and allows the eyes to track moving objects. The cochlear nerve transmits information from the cochlea, allowing sound to be heard. When damaged, the vestibular nerve may give rise to the sensation of spinning and dizziness (vertigo). Damage to the cochlear nerve will cause partial or complete deafness in the affected ear.
 
-### Oral Sensation, Taste, And Salivation (Ix)
+### Oral Sensation, Taste, And Salivation (IX)
 
 A damaged glossopharyngeal nerve (IX) may cause the uvula to deviate to the affected side.
 The glossopharyngeal nerve (IX) supplies the stylopharyngeus muscle and provides sensation to the oropharynx and back of the tongue. The glossopharyngeal nerve also provides parasympathetic input to the parotid gland. Damage to the nerve may cause failure of the gag reflex.
